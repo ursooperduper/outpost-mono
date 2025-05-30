@@ -1,2 +1,2 @@
-# outpost-mono
+# outpost-mono--working
 Outpost Mono - a futuristic terminal monospaced font designed for martian outposts
