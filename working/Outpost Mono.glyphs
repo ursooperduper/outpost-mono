@@ -1,17 +1,8 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"¿Spanisch? ¡Natrlich!",
-"-–—_",
-".,:;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'฿@&¶§©®™°|¦†‡¢¤$€₴P₽₹₪£₩¥+−×÷=≠<><≥≤±≈~¬^∞∫∏∑√∂%‰↑↗→↘↓↙←↖↔↕◌◊
-
-x + 3 = 45v",
-B,
-".,:;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'฿@&¶§©®™°|¦†‡¢¤$€₴₽₹₪£₩¥+−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰"
-);
 date = "2025-04-26 21:58:05 +0000";
-familyName = "New Font";
+familyName = "Outpost Mono";
 fontMaster = (
 {
 id = m01;
@@ -525,7 +516,7 @@ unicode = 74;
 },
 {
 glyphname = K;
-lastChange = "2025-05-30 20:29:16 +0000";
+lastChange = "2025-05-31 01:27:34 +0000";
 layers = (
 {
 layerId = m01;
@@ -542,8 +533,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(221,372,l),
-(434,0,l),
+(204,372,l),
+(417,0,l),
 (509,0,l),
 (261,433,l)
 );
@@ -3211,7 +3202,7 @@ unicode = 32;
 },
 {
 glyphname = period;
-lastChange = "2025-05-30 20:21:24 +0000";
+lastChange = "2025-05-31 00:53:39 +0000";
 layers = (
 {
 layerId = m01;
@@ -4628,20 +4619,117 @@ unicode = 167;
 },
 {
 glyphname = copyright;
+lastChange = "2025-05-31 01:00:20 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 536;
 }
 );
 unicode = 169;
 },
 {
 glyphname = registered;
+lastChange = "2025-05-31 01:18:14 +0000";
 layers = (
 {
+hints = (
+{
+name = _corner.round;
+origin = (2,7);
+scale = (0.3,0.4);
+type = Corner;
+},
+{
+name = _corner.round;
+options = 2;
+origin = (2,8);
+scale = (0.3,0.4);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (2,7);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (4,2);
+scale = (0.3,0.4);
+type = Corner;
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,290,o),
+(499,393,o),
+(499,521,cs),
+(499,649,o),
+(396,752,o),
+(268,752,cs),
+(140,752,o),
+(37,649,o),
+(37,521,cs),
+(37,393,o),
+(140,290,o),
+(268,290,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(167,340,o),
+(87,420,o),
+(87,521,cs),
+(87,622,o),
+(167,702,o),
+(268,702,cs),
+(369,702,o),
+(449,622,o),
+(449,521,c),
+(449,420,o),
+(369,340,o),
+(268,340,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(185,400,l),
+(225,400,l),
+(225,618,l),
+(202,606,l),
+(321,606,l),
+(311,618,l),
+(311,526,l),
+(351,526,l),
+(351,630,l),
+(185,630,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(202,514,l),
+(325,514,l),
+(325,538,l),
+(202,538,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(311,400,l),
+(351,400,l),
+(351,526,l),
+(311,526,l)
+);
+}
+);
+width = 536;
 }
 );
 unicode = 174;
@@ -4659,10 +4747,47 @@ unicode = 8482;
 },
 {
 glyphname = degree;
+lastChange = "2025-05-31 00:55:14 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,391,o),
+(417,458,o),
+(417,540,cs),
+(417,622,o),
+(350,689,o),
+(268,689,cs),
+(186,689,o),
+(119,622,o),
+(119,540,cs),
+(119,458,o),
+(186,391,o),
+(268,391,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(219,451,o),
+(179,491,o),
+(179,540,cs),
+(179,589,o),
+(219,629,o),
+(268,629,cs),
+(317,629,o),
+(357,589,o),
+(357,540,cs),
+(357,491,o),
+(317,451,o),
+(268,451,cs)
+);
+}
+);
+width = 536;
 }
 );
 unicode = 176;
@@ -5731,10 +5856,62 @@ unicode = 8747;
 },
 {
 glyphname = product;
+lastChange = "2025-05-31 00:58:13 +0000";
 layers = (
 {
+hints = (
+{
+name = _corner.round;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (1,2);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (2,2);
+type = Corner;
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(10,640,l),
+(526,640,l),
+(526,700,l),
+(10,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(88,648,l),
+(88,-130,l),
+(148,-130,l),
+(148,648,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(388,648,l),
+(388,-130,l),
+(448,-130,l),
+(448,648,l)
+);
+}
+);
+width = 536;
 }
 );
 unicode = 8719;
@@ -6238,6 +6415,34 @@ type = descender;
 },
 {
 type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "© 2025 Studio Sooper LLC";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Sarah Kuehnle";
+}
+);
+},
+{
+key = designerURL;
+value = "http://studiosooper.com";
+},
+{
+key = versionString;
+value = "1.0.0";
 }
 );
 unitsPerEm = 1000;
