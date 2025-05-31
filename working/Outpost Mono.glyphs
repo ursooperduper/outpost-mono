@@ -2106,7 +2106,7 @@ unicode = 108;
 },
 {
 glyphname = m;
-lastChange = "2025-05-31 17:51:50 +0000";
+lastChange = "2025-05-31 23:03:39 +0000";
 layers = (
 {
 hints = (
@@ -2153,6 +2153,18 @@ name = _corner.round;
 options = 2;
 origin = (1,5,1,7);
 scale = (-1,1);
+stem = 1000;
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,0);
+scale = (2,2);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3,0,5);
 stem = 1000;
 type = Corner;
 }
@@ -2684,22 +2696,10 @@ unicode = 118;
 },
 {
 glyphname = w;
-lastChange = "2025-05-31 17:58:57 +0000";
+lastChange = "2025-05-31 23:04:05 +0000";
 layers = (
 {
 hints = (
-{
-name = _corner.round;
-options = 1;
-scale = (1,-1);
-type = Corner;
-},
-{
-name = _corner.round;
-options = 1;
-scale = (1,-1);
-type = Corner;
-},
 {
 name = _corner.round;
 options = 1;
@@ -2742,6 +2742,18 @@ name = _corner.round;
 options = 2;
 origin = (1,2,1,4);
 scale = (-1,-1);
+stem = 1000;
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,8);
+scale = (2,2);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,4,0,6);
 stem = 1000;
 type = Corner;
 }
@@ -3578,7 +3590,7 @@ unicode = 56;
 },
 {
 glyphname = nine;
-lastChange = "2025-05-31 18:30:15 +0000";
+lastChange = "2025-05-31 23:04:22 +0000";
 layers = (
 {
 hints = (
@@ -3639,8 +3651,8 @@ closed = 1;
 nodes = (
 (426,35,l),
 (451,60,l),
-(50,60,l),
-(50,0,l),
+(70,60,l),
+(70,0,l),
 (486,0,l),
 (486,700,l),
 (50,700,l),
@@ -5507,10 +5519,83 @@ unicode = 162;
 },
 {
 glyphname = currency;
+lastChange = "2025-05-31 22:54:47 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,142,o),
+(453,225,o),
+(453,327,cs),
+(453,429,o),
+(370,512,o),
+(268,512,cs),
+(166,512,o),
+(83,429,o),
+(83,327,cs),
+(83,225,o),
+(166,142,o),
+(268,142,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(199,202,o),
+(143,258,o),
+(143,327,cs),
+(143,396,o),
+(199,452,o),
+(268,452,cs),
+(337,452,o),
+(393,396,o),
+(393,327,cs),
+(393,258,o),
+(337,202,o),
+(268,202,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(395,412,l),
+(486,503,l),
+(444,545,l),
+(352,453,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(178,459,l),
+(92,545,l),
+(50,503,l),
+(136,417,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(136,237,l),
+(50,151,l),
+(92,109,l),
+(179,196,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(355,198,l),
+(444,109,l),
+(486,151,l),
+(396,241,l)
+);
+}
+);
+width = 536;
 }
 );
 unicode = 164;
@@ -5587,7 +5672,7 @@ unicode = 8372;
 },
 {
 glyphname = ruble;
-lastChange = "2025-05-31 19:42:13 +0000";
+lastChange = "2025-05-31 22:57:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -5622,10 +5707,11 @@ unicode = 8381;
 },
 {
 glyphname = rupeeIndian;
+lastChange = "2025-05-31 22:58:59 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 536;
 }
 );
 unicode = 8377;
@@ -5991,7 +6077,7 @@ unicode = 8776;
 },
 {
 glyphname = asciitilde;
-lastChange = "2025-05-31 20:19:19 +0000";
+lastChange = "2025-05-31 22:59:46 +0000";
 layers = (
 {
 layerId = m01;
