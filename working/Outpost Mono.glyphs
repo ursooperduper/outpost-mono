@@ -2,14 +2,16 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"©",
-m,
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,:;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’‹«»‹›\"'฿@&¶§©°|¦†‡¢¤$€₴₽₹₪£₩¥+−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰↑↗→↘↓↙←↖↔↕◌◊
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,:,;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’‹«»‹›\"'฿@&¶§©°|¦†‡¢¤$€₴₽₹₪£₩¥+−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰↑↗→↘↓↙←↖↔↕◌◊
 
 The Three-Body Problem.
 sarah@sooperduper.com
 Shiner is the best boy in the whole town.
-kentquirk@gmail.com"
+kentquirk@gmail.com
+
+if (x == 32) {
+   y = blurx;
+} "
 );
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
@@ -3702,7 +3704,7 @@ unicode = 46;
 },
 {
 glyphname = comma;
-lastChange = "2025-05-31 18:35:05 +0000";
+lastChange = "2025-05-31 22:50:01 +0000";
 layers = (
 {
 layerId = m01;
@@ -3710,10 +3712,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(221,-114,l),
+(231,-114,l),
 (280,-124,l),
 (308,31,l),
-(249,41,l)
+(259,41,l)
 );
 },
 {
@@ -4208,59 +4210,35 @@ unicode = 95;
 },
 {
 glyphname = parenleft;
-lastChange = "2025-05-31 18:40:07 +0000";
+lastChange = "2025-05-31 22:45:27 +0000";
 layers = (
 {
-hints = (
+guides = (
 {
-name = _corner.round;
-origin = (0,11);
-scale = (2,2);
-type = Corner;
+pos = (511,770);
 },
 {
-name = _corner.round;
-origin = (0,1);
-scale = (2,2);
-type = Corner;
+pos = (478,-80);
 },
 {
-name = _corner.round;
-options = 2;
-origin = (0,0);
-scale = (0.5,0.5);
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,7,0,9);
-stem = 1000;
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (0,4,0,6);
-stem = 1000;
-type = Corner;
+pos = (205,345);
 }
 );
 layerId = m01;
 shapes = (
 {
-closed = 1;
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
 nodes = (
-(59,345,l),
-(169,-110,l),
-(427,-110,l),
-(427,-50,l),
-(196,-50,l),
-(229,-95,l),
-(121,345,l),
-(229,785,l),
-(196,740,l),
-(427,740,l),
-(427,800,l),
-(169,800,l)
+(381,770,l),
+(256,770,o),
+(177,606,o),
+(177,346,cs),
+(177,84,o),
+(256,-80,o),
+(381,-80,cs)
 );
 }
 );
@@ -4289,7 +4267,7 @@ unicode = 41;
 },
 {
 glyphname = braceleft;
-lastChange = "2025-05-31 18:41:03 +0000";
+lastChange = "2025-05-31 22:48:40 +0000";
 layers = (
 {
 hints = (
@@ -4345,6 +4323,18 @@ type = Corner;
 name = _corner.round;
 origin = (2,2,2,4);
 stem = 1000;
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (1,0);
+scale = (0.75,0.75);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (1,3);
+scale = (0.75,0.75);
 type = Corner;
 }
 );
