@@ -2,16 +2,7 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,:,;…!¡?¿·•*#///backslash -–—_(){}[]‚„“”‘’‹«»‹›\"'฿@&¶§©°|¦†‡¢¤$€₴P₽₹₪£₩¥+−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰↑↗→↘↓↙←↖↔↕◌◊
-
-The Three-Body Problem.
-sarah@sooperduper.com
-Shiner is the best boy in the whole town.
-kentquirk@gmail.com
-
-if (x == 32) {
-   y = blurx;
-} "
+"™"
 );
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
@@ -5303,20 +5294,54 @@ unicode = 174;
 },
 {
 glyphname = trademark;
-lastChange = "2025-05-31 20:35:58 +0000";
+lastChange = "2025-06-08 23:31:57 +0000";
 layers = (
 {
+guides = (
+{
+pos = (282,360);
+}
+);
 layerId = m01;
 shapes = (
 {
-ref = P;
+closed = 1;
+nodes = (
+(11,700,l),
+(11,672,l),
+(128,672,l),
+(121,689,l),
+(121,360,l),
+(151,360,l),
+(151,689,l),
+(143,672,l),
+(259,672,l),
+(259,700,l)
+);
 },
 {
-pos = (536,0);
-ref = J;
+closed = 1;
+nodes = (
+(314,360,l),
+(314,685,l),
+(298,685,l),
+(386,524,l),
+(421,524,l),
+(493,657,l),
+(492,688,l),
+(492,360,l),
+(522,360,l),
+(522,700,l),
+(482,700,l),
+(392,536,l),
+(414,536,l),
+(324,700,l),
+(284,700,l),
+(284,360,l)
+);
 }
 );
-width = 1072;
+width = 536;
 }
 );
 unicode = 8482;
