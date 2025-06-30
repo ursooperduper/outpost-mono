@@ -1306,6 +1306,25 @@ width = 536;
 unicode = 288;
 },
 {
+glyphname = Gmacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (0,170);
+ref = macroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 7712;
+},
+{
 glyphname = H;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
@@ -4040,6 +4059,40 @@ width = 600;
 unicode = 42891;
 },
 {
+glyphname = Lcommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+ref = commaaccentcomb.loclMAH;
+}
+);
+width = 536;
+}
+);
+},
+{
+glyphname = Ncommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+ref = commaaccentcomb.loclMAH;
+}
+);
+width = 536;
+}
+);
+},
+{
 glyphname = a;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
@@ -5287,6 +5340,24 @@ width = 536;
 }
 );
 unicode = 289;
+},
+{
+glyphname = gmacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+ref = macroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 7713;
 },
 {
 glyphname = h;
@@ -8310,6 +8381,40 @@ width = 600;
 }
 );
 unicode = 42892;
+},
+{
+glyphname = lcommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+ref = commaaccentcomb.loclMAH;
+}
+);
+width = 536;
+}
+);
+},
+{
+glyphname = ncommaaccent.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+ref = commaaccentcomb.loclMAH;
+}
+);
+width = 536;
+}
+);
 },
 {
 glyphname = fi;
