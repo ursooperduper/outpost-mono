@@ -630,6 +630,25 @@ width = 536;
 unicode = 199;
 },
 {
+glyphname = Ccircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (0,170);
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 264;
+},
+{
 glyphname = Cdotaccent;
 layers = (
 {
@@ -1269,6 +1288,25 @@ width = 536;
 unicode = 286;
 },
 {
+glyphname = Gcircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (0,170);
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 284;
+},
+{
 glyphname = Gcommaaccent;
 layers = (
 {
@@ -1406,6 +1444,25 @@ width = 536;
 }
 );
 unicode = 294;
+},
+{
+glyphname = Hcircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (0,170);
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 292;
 },
 {
 glyphname = I;
@@ -1785,6 +1842,25 @@ ref = acutecomb;
 width = 536;
 }
 );
+},
+{
+glyphname = Jcircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (0,170);
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 308;
 },
 {
 glyphname = K;
@@ -3126,6 +3202,25 @@ width = 536;
 unicode = 350;
 },
 {
+glyphname = Scircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (0,170);
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 348;
+},
+{
 glyphname = Scommaaccent;
 layers = (
 {
@@ -3419,6 +3514,25 @@ width = 536;
 }
 );
 unicode = 218;
+},
+{
+glyphname = Ubreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (0,170);
+ref = brevecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 364;
 },
 {
 glyphname = Ucircumflex;
@@ -4690,6 +4804,24 @@ width = 536;
 unicode = 231;
 },
 {
+glyphname = ccircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 265;
+},
+{
 glyphname = cdotaccent;
 layers = (
 {
@@ -5305,6 +5437,24 @@ width = 536;
 unicode = 287;
 },
 {
+glyphname = gcircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 285;
+},
+{
 glyphname = gcommaaccent;
 layers = (
 {
@@ -5439,6 +5589,25 @@ width = 536;
 }
 );
 unicode = 295;
+},
+{
+glyphname = hcircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (0,350);
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 293;
 },
 {
 glyphname = i;
@@ -5996,6 +6165,24 @@ ref = acutecomb;
 width = 536;
 }
 );
+},
+{
+glyphname = jcircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jdotless;
+},
+{
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 309;
 },
 {
 glyphname = k;
@@ -7336,6 +7523,24 @@ width = 536;
 unicode = 351;
 },
 {
+glyphname = scircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+ref = circumflexcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 349;
+},
+{
 glyphname = scommaaccent;
 layers = (
 {
@@ -7681,6 +7886,24 @@ width = 536;
 }
 );
 unicode = 250;
+},
+{
+glyphname = ubreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+ref = brevecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 365;
 },
 {
 glyphname = ucircumflex;
