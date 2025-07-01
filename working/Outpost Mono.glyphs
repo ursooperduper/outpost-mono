@@ -1,6 +1,9 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
+DisplayStrings = (
+"ʼʽ"
+);
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
 fontMaster = (
@@ -6170,6 +6173,25 @@ width = 536;
 unicode = 364;
 },
 {
+glyphname = Ucaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (0,170);
+ref = caroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 467;
+},
+{
 glyphname = Ucircumflex;
 layers = (
 {
@@ -6206,6 +6228,98 @@ width = 536;
 }
 );
 unicode = 220;
+},
+{
+glyphname = Udieresisacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (0,170);
+ref = dieresiscomb;
+},
+{
+pos = (0,510);
+ref = acutecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 471;
+},
+{
+glyphname = Udieresiscaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (0,170);
+ref = dieresiscomb;
+},
+{
+pos = (0,510);
+ref = caroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 473;
+},
+{
+glyphname = Udieresisgrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (0,170);
+ref = dieresiscomb;
+},
+{
+pos = (0,510);
+ref = gravecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 475;
+},
+{
+glyphname = Udieresismacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (0,170);
+ref = dieresiscomb;
+},
+{
+pos = (0,510);
+ref = macroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 469;
 },
 {
 glyphname = Udotbelow;
@@ -17707,6 +17821,24 @@ width = 536;
 unicode = 365;
 },
 {
+glyphname = ucaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+ref = caroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 468;
+},
+{
 glyphname = ucircumflex;
 layers = (
 {
@@ -17741,6 +17873,94 @@ width = 536;
 }
 );
 unicode = 252;
+},
+{
+glyphname = udieresisacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (0,340);
+ref = acutecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 472;
+},
+{
+glyphname = udieresiscaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (0,340);
+ref = caroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 474;
+},
+{
+glyphname = udieresisgrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (0,340);
+ref = gravecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 476;
+},
+{
+glyphname = udieresismacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (0,340);
+ref = macroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 470;
 },
 {
 glyphname = udotbelow;
@@ -32700,6 +32920,45 @@ width = 536;
 }
 );
 unicode = 720;
+},
+{
+glyphname = commareversedmod;
+lastChange = "2025-07-01 17:41:47 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,631,l),
+(256,476,l),
+(305,486,l),
+(277,641,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(290,595,o),
+(308,613,o),
+(308,635,cs),
+(308,657,o),
+(290,675,o),
+(268,675,cs),
+(246,675,o),
+(228,657,o),
+(228,635,cs),
+(228,613,o),
+(246,595,o),
+(268,595,cs)
+);
+}
+);
+width = 536;
+}
+);
+unicode = 701;
 },
 {
 glyphname = commaturnedmod;
