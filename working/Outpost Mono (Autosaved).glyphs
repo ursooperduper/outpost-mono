@@ -129,7 +129,7 @@ unicode = 65;
 glyphname = Aacute;
 layers = (
 {
-.lastUpdate = 773084510.16;
+.lastUpdate = 773084736.54;
 layerId = m01;
 shapes = (
 {
@@ -292,7 +292,7 @@ unicode = 461;
 glyphname = Acircumflex;
 layers = (
 {
-.lastUpdate = 773084408.158;
+.lastUpdate = 773084736.545;
 layerId = m01;
 shapes = (
 {
@@ -478,7 +478,7 @@ unicode = 7840;
 glyphname = Agrave;
 layers = (
 {
-.lastUpdate = 773084391.316;
+.lastUpdate = 773084736.546;
 layerId = m01;
 shapes = (
 {
@@ -1121,7 +1121,7 @@ glyphname = C;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
-.lastUpdate = 773084408.154;
+.lastUpdate = 773084736.541;
 anchors = (
 {
 name = bottom;
@@ -1205,7 +1205,7 @@ unicode = 262;
 glyphname = Ccaron;
 layers = (
 {
-.lastUpdate = 773084408.154;
+.lastUpdate = 773084736.541;
 layerId = m01;
 shapes = (
 {
@@ -3129,7 +3129,7 @@ unicode = 306;
 glyphname = Iacute;
 layers = (
 {
-.lastUpdate = 773084391.309;
+.lastUpdate = 773084736.539;
 layerId = m01;
 shapes = (
 {
@@ -6333,7 +6333,7 @@ unicode = 85;
 glyphname = Uacute;
 layers = (
 {
-.lastUpdate = 773084391.305;
+.lastUpdate = 773084736.537;
 layerId = m01;
 shapes = (
 {
@@ -7737,7 +7737,7 @@ unicode = 7924;
 glyphname = Ygrave;
 layers = (
 {
-.lastUpdate = 773084408.159;
+.lastUpdate = 773084736.545;
 layerId = m01;
 shapes = (
 {
@@ -7834,6 +7834,27 @@ width = 536;
 unicode = 7926;
 },
 {
+glyphname = Ymacron;
+layers = (
+{
+.lastUpdate = 773084741.308;
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (0,170);
+ref = macroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 562;
+changeCount = 1;
+},
+{
 glyphname = Ytilde;
 layers = (
 {
@@ -7921,7 +7942,7 @@ unicode = 377;
 glyphname = Zcaron;
 layers = (
 {
-.lastUpdate = 773084408.158;
+.lastUpdate = 773084736.544;
 layerId = m01;
 shapes = (
 {
@@ -8874,7 +8895,7 @@ unicode = 97;
 glyphname = aacute;
 layers = (
 {
-.lastUpdate = 773084510.162;
+.lastUpdate = 773084736.538;
 layerId = m01;
 shapes = (
 {
@@ -9029,7 +9050,7 @@ unicode = 462;
 glyphname = acircumflex;
 layers = (
 {
-.lastUpdate = 773084408.16;
+.lastUpdate = 773084736.547;
 layerId = m01;
 shapes = (
 {
@@ -9209,7 +9230,7 @@ unicode = 7841;
 glyphname = agrave;
 layers = (
 {
-.lastUpdate = 773084391.322;
+.lastUpdate = 773084736.548;
 layerId = m01;
 shapes = (
 {
@@ -9959,7 +9980,7 @@ glyphname = c;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
-.lastUpdate = 773084408.16;
+.lastUpdate = 773084736.547;
 anchors = (
 {
 name = bottom;
@@ -10042,7 +10063,7 @@ unicode = 263;
 glyphname = ccaron;
 layers = (
 {
-.lastUpdate = 773084408.16;
+.lastUpdate = 773084736.547;
 layerId = m01;
 shapes = (
 {
@@ -12934,6 +12955,26 @@ width = 536;
 unicode = 614;
 },
 {
+glyphname = hmacronbelow;
+layers = (
+{
+.lastUpdate = 773084741.307;
+layerId = m01;
+shapes = (
+{
+ref = h;
+},
+{
+ref = macronbelowcomb;
+}
+);
+width = 536;
+}
+);
+unicode = 7830;
+changeCount = 1;
+},
+{
 glyphname = hturned;
 lastChange = "2025-06-30 18:48:12 +0000";
 layers = (
@@ -13049,7 +13090,7 @@ glyphname = iacute;
 lastChange = "2025-06-29 23:50:20 +0000";
 layers = (
 {
-.lastUpdate = 773084391.314;
+.lastUpdate = 773084736.536;
 anchors = (
 {
 name = bottom;
@@ -17864,6 +17905,27 @@ width = 536;
 unicode = 539;
 },
 {
+glyphname = tdieresis;
+layers = (
+{
+.lastUpdate = 773084741.307;
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (0,170);
+ref = dieresiscomb;
+}
+);
+width = 536;
+}
+);
+unicode = 7831;
+changeCount = 1;
+},
+{
 glyphname = tdotbelow;
 layers = (
 {
@@ -18325,7 +18387,7 @@ unicode = 117;
 glyphname = uacute;
 layers = (
 {
-.lastUpdate = 773084391.314;
+.lastUpdate = 773084736.543;
 layerId = m01;
 shapes = (
 {
@@ -19767,7 +19829,7 @@ unicode = 7925;
 glyphname = ygrave;
 layers = (
 {
-.lastUpdate = 773084408.148;
+.lastUpdate = 773084736.548;
 layerId = m01;
 shapes = (
 {
@@ -19825,6 +19887,26 @@ width = 536;
 }
 );
 unicode = 7927;
+},
+{
+glyphname = ymacron;
+layers = (
+{
+.lastUpdate = 773084741.308;
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+ref = macroncomb;
+}
+);
+width = 536;
+}
+);
+unicode = 563;
+changeCount = 1;
 },
 {
 glyphname = ytilde;
@@ -19932,7 +20014,7 @@ unicode = 378;
 glyphname = zcaron;
 layers = (
 {
-.lastUpdate = 773084408.15;
+.lastUpdate = 773084736.545;
 layerId = m01;
 shapes = (
 {
