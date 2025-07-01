@@ -1,5 +1,6 @@
 {
 .appVersion = "3414";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "̣",
@@ -50,6 +51,7 @@ glyphname = A;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.803;
 anchors = (
 {
 name = bottom;
@@ -127,6 +129,7 @@ unicode = 65;
 glyphname = Aacute;
 layers = (
 {
+.lastUpdate = 773084510.16;
 layerId = m01;
 shapes = (
 {
@@ -146,6 +149,7 @@ unicode = 193;
 glyphname = Abreve;
 layers = (
 {
+.lastUpdate = 773084550.286;
 layerId = m01;
 shapes = (
 {
@@ -165,6 +169,7 @@ unicode = 258;
 glyphname = Abreveacute;
 layers = (
 {
+.lastUpdate = 773084550.287;
 layerId = m01;
 shapes = (
 {
@@ -184,6 +189,7 @@ unicode = 7854;
 glyphname = Abrevedotbelow;
 layers = (
 {
+.lastUpdate = 773084198.062;
 layerId = m01;
 shapes = (
 {
@@ -206,6 +212,7 @@ unicode = 7862;
 glyphname = Abrevegrave;
 layers = (
 {
+.lastUpdate = 773084198.033;
 layerId = m01;
 shapes = (
 {
@@ -225,6 +232,7 @@ unicode = 7856;
 glyphname = Abrevehookabove;
 layers = (
 {
+.lastUpdate = 773084198.028;
 layerId = m01;
 shapes = (
 {
@@ -244,6 +252,7 @@ unicode = 7858;
 glyphname = Abrevetilde;
 layers = (
 {
+.lastUpdate = 773084198.053;
 layerId = m01;
 shapes = (
 {
@@ -263,6 +272,7 @@ unicode = 7860;
 glyphname = Acaron;
 layers = (
 {
+.lastUpdate = 773084391.315;
 layerId = m01;
 shapes = (
 {
@@ -282,6 +292,7 @@ unicode = 461;
 glyphname = Acircumflex;
 layers = (
 {
+.lastUpdate = 773084408.158;
 layerId = m01;
 shapes = (
 {
@@ -301,6 +312,7 @@ unicode = 194;
 glyphname = Acircumflexacute;
 layers = (
 {
+.lastUpdate = 773084198.053;
 layerId = m01;
 shapes = (
 {
@@ -320,6 +332,7 @@ unicode = 7844;
 glyphname = Acircumflexdotbelow;
 layers = (
 {
+.lastUpdate = 773084198.055;
 layerId = m01;
 shapes = (
 {
@@ -342,6 +355,7 @@ unicode = 7852;
 glyphname = Acircumflexgrave;
 layers = (
 {
+.lastUpdate = 773084198.056;
 layerId = m01;
 shapes = (
 {
@@ -361,6 +375,7 @@ unicode = 7846;
 glyphname = Acircumflexhookabove;
 layers = (
 {
+.lastUpdate = 773084198.062;
 layerId = m01;
 shapes = (
 {
@@ -380,6 +395,7 @@ unicode = 7848;
 glyphname = Acircumflextilde;
 layers = (
 {
+.lastUpdate = 773084198.055;
 layerId = m01;
 shapes = (
 {
@@ -399,6 +415,7 @@ unicode = 7850;
 glyphname = Adieresis;
 layers = (
 {
+.lastUpdate = 773084198.046;
 layerId = m01;
 shapes = (
 {
@@ -418,6 +435,7 @@ unicode = 196;
 glyphname = Adieresismacron;
 layers = (
 {
+.lastUpdate = 773084198.054;
 layerId = m01;
 shapes = (
 {
@@ -441,6 +459,7 @@ unicode = 478;
 glyphname = Adotbelow;
 layers = (
 {
+.lastUpdate = 773084198.049;
 layerId = m01;
 shapes = (
 {
@@ -459,6 +478,7 @@ unicode = 7840;
 glyphname = Agrave;
 layers = (
 {
+.lastUpdate = 773084391.316;
 layerId = m01;
 shapes = (
 {
@@ -478,6 +498,7 @@ unicode = 192;
 glyphname = Ahookabove;
 layers = (
 {
+.lastUpdate = 773084198.042;
 layerId = m01;
 shapes = (
 {
@@ -498,6 +519,7 @@ glyphname = "Alpha-latin";
 lastChange = "2025-06-30 17:16:23 +0000";
 layers = (
 {
+.lastUpdate = 773084198.032;
 anchors = (
 {
 name = bottom;
@@ -629,6 +651,7 @@ unicode = 11373;
 glyphname = Amacron;
 layers = (
 {
+.lastUpdate = 773084694.803;
 layerId = m01;
 shapes = (
 {
@@ -648,6 +671,7 @@ unicode = 256;
 glyphname = Aogonek;
 layers = (
 {
+.lastUpdate = 773084198.031;
 layerId = m01;
 shapes = (
 {
@@ -667,6 +691,7 @@ unicode = 260;
 glyphname = Aring;
 layers = (
 {
+.lastUpdate = 773084198.045;
 layerId = m01;
 shapes = (
 {
@@ -686,6 +711,7 @@ unicode = 197;
 glyphname = Atilde;
 layers = (
 {
+.lastUpdate = 773084198.052;
 layerId = m01;
 shapes = (
 {
@@ -706,6 +732,7 @@ glyphname = AE;
 lastChange = "2025-06-29 23:24:16 +0000";
 layers = (
 {
+.lastUpdate = 773084411.477;
 anchors = (
 {
 name = bottom;
@@ -802,6 +829,7 @@ glyphname = B;
 lastChange = "2025-06-30 16:15:51 +0000";
 layers = (
 {
+.lastUpdate = 773084198.048;
 anchors = (
 {
 name = bottom;
@@ -924,6 +952,7 @@ unicode = 66;
 glyphname = Bdotbelow;
 layers = (
 {
+.lastUpdate = 773084198.054;
 layerId = m01;
 shapes = (
 {
@@ -943,6 +972,7 @@ glyphname = Bhook;
 lastChange = "2025-06-30 16:16:57 +0000";
 layers = (
 {
+.lastUpdate = 773084198.047;
 anchors = (
 {
 name = bottom;
@@ -1070,6 +1100,7 @@ unicode = 385;
 glyphname = Bstroke;
 layers = (
 {
+.lastUpdate = 773084198.048;
 layerId = m01;
 shapes = (
 {
@@ -1090,6 +1121,7 @@ glyphname = C;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084408.154;
 anchors = (
 {
 name = bottom;
@@ -1153,6 +1185,7 @@ unicode = 67;
 glyphname = Cacute;
 layers = (
 {
+.lastUpdate = 773084198.047;
 layerId = m01;
 shapes = (
 {
@@ -1172,6 +1205,7 @@ unicode = 262;
 glyphname = Ccaron;
 layers = (
 {
+.lastUpdate = 773084408.154;
 layerId = m01;
 shapes = (
 {
@@ -1192,6 +1226,7 @@ glyphname = Ccedilla;
 lastChange = "2025-06-30 01:49:33 +0000";
 layers = (
 {
+.lastUpdate = 773084198.055;
 layerId = m01;
 shapes = (
 {
@@ -1212,6 +1247,7 @@ unicode = 199;
 glyphname = Ccircumflex;
 layers = (
 {
+.lastUpdate = 773084411.478;
 layerId = m01;
 shapes = (
 {
@@ -1231,6 +1267,7 @@ unicode = 264;
 glyphname = Cdotaccent;
 layers = (
 {
+.lastUpdate = 773084198.028;
 layerId = m01;
 shapes = (
 {
@@ -1251,6 +1288,7 @@ glyphname = Chook;
 lastChange = "2025-06-30 16:17:57 +0000";
 layers = (
 {
+.lastUpdate = 773084198.029;
 layerId = m01;
 shapes = (
 {
@@ -1274,6 +1312,7 @@ glyphname = D;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.808;
 anchors = (
 {
 name = bottom;
@@ -1348,6 +1387,7 @@ unicode = 68;
 glyphname = Dcaron;
 layers = (
 {
+.lastUpdate = 773084198.032;
 layerId = m01;
 shapes = (
 {
@@ -1368,6 +1408,7 @@ glyphname = Dcircumflexbelow;
 lastChange = "2025-06-30 16:36:51 +0000";
 layers = (
 {
+.lastUpdate = 773084198.05;
 layerId = m01;
 shapes = (
 {
@@ -1389,6 +1430,7 @@ glyphname = Dcroat;
 lastChange = "2025-06-30 01:54:48 +0000";
 layers = (
 {
+.lastUpdate = 773084198.041;
 layerId = m01;
 shapes = (
 {
@@ -1414,6 +1456,7 @@ unicode = 272;
 glyphname = Ddotbelow;
 layers = (
 {
+.lastUpdate = 773084694.808;
 layerId = m01;
 shapes = (
 {
@@ -1433,6 +1476,7 @@ glyphname = Dhook;
 lastChange = "2025-06-30 16:19:09 +0000";
 layers = (
 {
+.lastUpdate = 773084198.045;
 anchors = (
 {
 name = bottom;
@@ -1512,6 +1556,7 @@ unicode = 394;
 glyphname = Dmacronbelow;
 layers = (
 {
+.lastUpdate = 773084694.809;
 layerId = m01;
 shapes = (
 {
@@ -1531,6 +1576,7 @@ glyphname = Dtail;
 lastChange = "2025-06-30 16:33:37 +0000";
 layers = (
 {
+.lastUpdate = 773084198.031;
 layerId = m01;
 shapes = (
 {
@@ -1555,6 +1601,7 @@ unicode = 393;
 glyphname = Eth;
 layers = (
 {
+.lastUpdate = 773084198.049;
 layerId = m01;
 shapes = (
 {
@@ -1629,6 +1676,7 @@ unicode = 69;
 glyphname = Eacute;
 layers = (
 {
+.lastUpdate = 773084391.311;
 layerId = m01;
 shapes = (
 {
@@ -1648,6 +1696,7 @@ unicode = 201;
 glyphname = Ecaron;
 layers = (
 {
+.lastUpdate = 773084391.302;
 layerId = m01;
 shapes = (
 {
@@ -1667,6 +1716,7 @@ unicode = 282;
 glyphname = Ecedilla;
 layers = (
 {
+.lastUpdate = 773084198.043;
 layerId = m01;
 shapes = (
 {
@@ -1686,6 +1736,7 @@ unicode = 552;
 glyphname = Ecircumflex;
 layers = (
 {
+.lastUpdate = 773084391.316;
 layerId = m01;
 shapes = (
 {
@@ -1705,6 +1756,7 @@ unicode = 202;
 glyphname = Ecircumflexacute;
 layers = (
 {
+.lastUpdate = 773084198.046;
 layerId = m01;
 shapes = (
 {
@@ -1724,6 +1776,7 @@ unicode = 7870;
 glyphname = Ecircumflexdotbelow;
 layers = (
 {
+.lastUpdate = 773084198.057;
 layerId = m01;
 shapes = (
 {
@@ -1746,6 +1799,7 @@ unicode = 7878;
 glyphname = Ecircumflexgrave;
 layers = (
 {
+.lastUpdate = 773084198.052;
 layerId = m01;
 shapes = (
 {
@@ -1765,6 +1819,7 @@ unicode = 7872;
 glyphname = Ecircumflexhookabove;
 layers = (
 {
+.lastUpdate = 773084198.057;
 layerId = m01;
 shapes = (
 {
@@ -1784,6 +1839,7 @@ unicode = 7874;
 glyphname = Ecircumflextilde;
 layers = (
 {
+.lastUpdate = 773084198.059;
 layerId = m01;
 shapes = (
 {
@@ -1803,6 +1859,7 @@ unicode = 7876;
 glyphname = Edieresis;
 layers = (
 {
+.lastUpdate = 773084198.059;
 layerId = m01;
 shapes = (
 {
@@ -1822,6 +1879,7 @@ unicode = 203;
 glyphname = Edotaccent;
 layers = (
 {
+.lastUpdate = 773084198.056;
 layerId = m01;
 shapes = (
 {
@@ -1841,6 +1899,7 @@ unicode = 278;
 glyphname = Edotbelow;
 layers = (
 {
+.lastUpdate = 773084198.045;
 layerId = m01;
 shapes = (
 {
@@ -1859,6 +1918,7 @@ unicode = 7864;
 glyphname = Egrave;
 layers = (
 {
+.lastUpdate = 773084391.311;
 layerId = m01;
 shapes = (
 {
@@ -1878,6 +1938,7 @@ unicode = 200;
 glyphname = Ehookabove;
 layers = (
 {
+.lastUpdate = 773084198.029;
 layerId = m01;
 shapes = (
 {
@@ -1897,6 +1958,7 @@ unicode = 7866;
 glyphname = Emacron;
 layers = (
 {
+.lastUpdate = 773084391.317;
 layerId = m01;
 shapes = (
 {
@@ -1916,6 +1978,7 @@ unicode = 274;
 glyphname = Eogonek;
 layers = (
 {
+.lastUpdate = 773084198.061;
 layerId = m01;
 shapes = (
 {
@@ -1936,6 +1999,7 @@ glyphname = Eopen;
 lastChange = "2025-06-30 17:10:52 +0000";
 layers = (
 {
+.lastUpdate = 773084198.043;
 anchors = (
 {
 name = bottom;
@@ -2043,6 +2107,7 @@ glyphname = Esh;
 lastChange = "2025-06-30 17:09:29 +0000";
 layers = (
 {
+.lastUpdate = 773084198.058;
 hints = (
 {
 name = _corner.round;
@@ -2088,6 +2153,7 @@ unicode = 425;
 glyphname = Etilde;
 layers = (
 {
+.lastUpdate = 773084198.061;
 layerId = m01;
 shapes = (
 {
@@ -2108,6 +2174,7 @@ glyphname = Eturned;
 lastChange = "2025-06-30 02:05:01 +0000";
 layers = (
 {
+.lastUpdate = 773084198.044;
 layerId = m01;
 shapes = (
 {
@@ -2126,6 +2193,7 @@ glyphname = Schwa;
 lastChange = "2025-06-30 01:57:07 +0000";
 layers = (
 {
+.lastUpdate = 773084198.05;
 anchors = (
 {
 name = bottom;
@@ -2224,6 +2292,7 @@ glyphname = Ezh;
 lastChange = "2025-06-30 22:00:39 +0000";
 layers = (
 {
+.lastUpdate = 773084198.051;
 hints = (
 {
 name = _corner.round;
@@ -2298,6 +2367,7 @@ unicode = 439;
 glyphname = Ezhcaron;
 layers = (
 {
+.lastUpdate = 773084198.055;
 layerId = m01;
 shapes = (
 {
@@ -2361,6 +2431,7 @@ glyphname = Fhook;
 lastChange = "2025-06-30 16:24:39 +0000";
 layers = (
 {
+.lastUpdate = 773084198.053;
 layerId = m01;
 shapes = (
 {
@@ -2385,6 +2456,7 @@ glyphname = G;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.798;
 anchors = (
 {
 name = bottom;
@@ -2478,6 +2550,7 @@ unicode = 71;
 glyphname = Gbreve;
 layers = (
 {
+.lastUpdate = 773084198.045;
 layerId = m01;
 shapes = (
 {
@@ -2497,6 +2570,7 @@ unicode = 286;
 glyphname = Gcaron;
 layers = (
 {
+.lastUpdate = 773084694.8;
 layerId = m01;
 shapes = (
 {
@@ -2516,6 +2590,7 @@ unicode = 486;
 glyphname = Gcircumflex;
 layers = (
 {
+.lastUpdate = 773084198.056;
 layerId = m01;
 shapes = (
 {
@@ -2535,6 +2610,7 @@ unicode = 284;
 glyphname = Gcommaaccent;
 layers = (
 {
+.lastUpdate = 773084198.056;
 layerId = m01;
 shapes = (
 {
@@ -2553,6 +2629,7 @@ unicode = 290;
 glyphname = Gdotaccent;
 layers = (
 {
+.lastUpdate = 773084694.805;
 layerId = m01;
 shapes = (
 {
@@ -2573,6 +2650,7 @@ glyphname = Ghook;
 lastChange = "2025-06-30 16:33:11 +0000";
 layers = (
 {
+.lastUpdate = 773084198.054;
 layerId = m01;
 shapes = (
 {
@@ -2593,6 +2671,7 @@ unicode = 403;
 glyphname = Gmacron;
 layers = (
 {
+.lastUpdate = 773084694.798;
 layerId = m01;
 shapes = (
 {
@@ -2613,6 +2692,7 @@ glyphname = Gstroke;
 lastChange = "2025-06-30 18:35:45 +0000";
 layers = (
 {
+.lastUpdate = 773084198.054;
 layerId = m01;
 shapes = (
 {
@@ -2696,6 +2776,7 @@ glyphname = Hbar;
 lastChange = "2025-06-30 01:57:41 +0000";
 layers = (
 {
+.lastUpdate = 773084551.655;
 layerId = m01;
 shapes = (
 {
@@ -2721,6 +2802,7 @@ glyphname = Hbrevebelow;
 lastChange = "2025-07-01 17:43:52 +0000";
 layers = (
 {
+.lastUpdate = 773084710.12;
 layerId = m01;
 shapes = (
 {
@@ -2739,6 +2821,7 @@ unicode = 7722;
 glyphname = Hcircumflex;
 layers = (
 {
+.lastUpdate = 773084551.656;
 layerId = m01;
 shapes = (
 {
@@ -2758,6 +2841,7 @@ unicode = 292;
 glyphname = Hdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.804;
 layerId = m01;
 shapes = (
 {
@@ -2777,6 +2861,7 @@ glyphname = Hhook;
 lastChange = "2025-06-30 16:21:47 +0000";
 layers = (
 {
+.lastUpdate = 773084198.057;
 anchors = (
 {
 name = bottom;
@@ -2840,6 +2925,7 @@ glyphname = Hturned;
 lastChange = "2025-06-30 02:05:32 +0000";
 layers = (
 {
+.lastUpdate = 772941932.447;
 anchors = (
 {
 name = bottom;
@@ -2950,6 +3036,7 @@ glyphname = IJ;
 lastChange = "2025-06-29 23:26:06 +0000";
 layers = (
 {
+.lastUpdate = 773084198.059;
 anchors = (
 {
 name = bottom;
@@ -3042,6 +3129,7 @@ unicode = 306;
 glyphname = Iacute;
 layers = (
 {
+.lastUpdate = 773084391.309;
 layerId = m01;
 shapes = (
 {
@@ -3061,6 +3149,7 @@ unicode = 205;
 glyphname = Icaron;
 layers = (
 {
+.lastUpdate = 773084391.314;
 layerId = m01;
 shapes = (
 {
@@ -3080,6 +3169,7 @@ unicode = 463;
 glyphname = Icircumflex;
 layers = (
 {
+.lastUpdate = 773084198.058;
 layerId = m01;
 shapes = (
 {
@@ -3099,6 +3189,7 @@ unicode = 206;
 glyphname = Idieresis;
 layers = (
 {
+.lastUpdate = 773084198.061;
 layerId = m01;
 shapes = (
 {
@@ -3118,6 +3209,7 @@ unicode = 207;
 glyphname = Idieresisacute;
 layers = (
 {
+.lastUpdate = 773084198.043;
 layerId = m01;
 shapes = (
 {
@@ -3141,6 +3233,7 @@ unicode = 7726;
 glyphname = Idotaccent;
 layers = (
 {
+.lastUpdate = 773084198.061;
 layerId = m01;
 shapes = (
 {
@@ -3160,6 +3253,7 @@ unicode = 304;
 glyphname = Idotbelow;
 layers = (
 {
+.lastUpdate = 773084198.06;
 layerId = m01;
 shapes = (
 {
@@ -3178,6 +3272,7 @@ unicode = 7882;
 glyphname = Igrave;
 layers = (
 {
+.lastUpdate = 773084391.309;
 layerId = m01;
 shapes = (
 {
@@ -3197,6 +3292,7 @@ unicode = 204;
 glyphname = Ihookabove;
 layers = (
 {
+.lastUpdate = 773084198.042;
 layerId = m01;
 shapes = (
 {
@@ -3216,6 +3312,7 @@ unicode = 7880;
 glyphname = Imacron;
 layers = (
 {
+.lastUpdate = 773084694.809;
 layerId = m01;
 shapes = (
 {
@@ -3235,6 +3332,7 @@ unicode = 298;
 glyphname = Iogonek;
 layers = (
 {
+.lastUpdate = 773084198.033;
 layerId = m01;
 shapes = (
 {
@@ -3255,6 +3353,7 @@ glyphname = "Iota-latin";
 lastChange = "2025-06-30 16:31:54 +0000";
 layers = (
 {
+.lastUpdate = 773084198.041;
 anchors = (
 {
 name = bottom;
@@ -3313,6 +3412,7 @@ glyphname = Istroke;
 lastChange = "2025-06-30 16:36:10 +0000";
 layers = (
 {
+.lastUpdate = 773084198.03;
 layerId = m01;
 shapes = (
 {
@@ -3337,6 +3437,7 @@ unicode = 407;
 glyphname = Itilde;
 layers = (
 {
+.lastUpdate = 773084198.042;
 layerId = m01;
 shapes = (
 {
@@ -3357,6 +3458,7 @@ glyphname = J;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084198.058;
 anchors = (
 {
 name = bottom;
@@ -3420,6 +3522,7 @@ unicode = 74;
 glyphname = Jacute;
 layers = (
 {
+.lastUpdate = 773084222.247;
 layerId = m01;
 shapes = (
 {
@@ -3438,6 +3541,7 @@ width = 536;
 glyphname = Jcircumflex;
 layers = (
 {
+.lastUpdate = 773084222.25;
 layerId = m01;
 shapes = (
 {
@@ -3507,6 +3611,7 @@ unicode = 75;
 glyphname = Kcaron;
 layers = (
 {
+.lastUpdate = 773084222.249;
 layerId = m01;
 shapes = (
 {
@@ -3526,6 +3631,7 @@ unicode = 488;
 glyphname = Kcommaaccent;
 layers = (
 {
+.lastUpdate = 773084222.249;
 layerId = m01;
 shapes = (
 {
@@ -3545,6 +3651,7 @@ glyphname = Khook;
 lastChange = "2025-06-30 16:32:41 +0000";
 layers = (
 {
+.lastUpdate = 773084222.246;
 anchors = (
 {
 name = bottom;
@@ -3599,6 +3706,7 @@ unicode = 408;
 glyphname = Kmacronbelow;
 layers = (
 {
+.lastUpdate = 773084694.803;
 layerId = m01;
 shapes = (
 {
@@ -3660,6 +3768,7 @@ unicode = 76;
 glyphname = Lacute;
 layers = (
 {
+.lastUpdate = 773084222.246;
 layerId = m01;
 shapes = (
 {
@@ -3680,6 +3789,7 @@ glyphname = Lcaron;
 lastChange = "2025-06-30 01:53:46 +0000";
 layers = (
 {
+.lastUpdate = 773084222.334;
 layerId = m01;
 shapes = (
 {
@@ -3701,6 +3811,7 @@ glyphname = Lcircumflexbelow;
 lastChange = "2025-06-30 16:37:04 +0000";
 layers = (
 {
+.lastUpdate = 773084222.328;
 layerId = m01;
 shapes = (
 {
@@ -3722,6 +3833,7 @@ glyphname = Lcommaaccent;
 lastChange = "2025-06-30 01:53:54 +0000";
 layers = (
 {
+.lastUpdate = 773084222.334;
 layerId = m01;
 shapes = (
 {
@@ -3740,6 +3852,7 @@ unicode = 315;
 glyphname = Ldotbelow;
 layers = (
 {
+.lastUpdate = 773084411.472;
 layerId = m01;
 shapes = (
 {
@@ -3759,6 +3872,7 @@ glyphname = Lslash;
 lastChange = "2025-06-30 01:51:10 +0000";
 layers = (
 {
+.lastUpdate = 772941070.539;
 anchors = (
 {
 name = bottom;
@@ -3859,6 +3973,7 @@ unicode = 77;
 glyphname = Macute;
 layers = (
 {
+.lastUpdate = 773084222.333;
 layerId = m01;
 shapes = (
 {
@@ -3928,6 +4043,7 @@ unicode = 78;
 glyphname = Nacute;
 layers = (
 {
+.lastUpdate = 773084222.379;
 layerId = m01;
 shapes = (
 {
@@ -3947,6 +4063,7 @@ unicode = 323;
 glyphname = Ncaron;
 layers = (
 {
+.lastUpdate = 773084222.378;
 layerId = m01;
 shapes = (
 {
@@ -3967,6 +4084,7 @@ glyphname = Ncircumflexbelow;
 lastChange = "2025-06-30 16:37:09 +0000";
 layers = (
 {
+.lastUpdate = 773084222.376;
 layerId = m01;
 shapes = (
 {
@@ -3987,6 +4105,7 @@ unicode = 7754;
 glyphname = Ncommaaccent;
 layers = (
 {
+.lastUpdate = 773084222.381;
 layerId = m01;
 shapes = (
 {
@@ -4005,6 +4124,7 @@ unicode = 325;
 glyphname = Ndotaccent;
 layers = (
 {
+.lastUpdate = 773084411.475;
 layerId = m01;
 shapes = (
 {
@@ -4024,6 +4144,7 @@ unicode = 7748;
 glyphname = Ndotbelow;
 layers = (
 {
+.lastUpdate = 773084411.472;
 layerId = m01;
 shapes = (
 {
@@ -4043,6 +4164,7 @@ glyphname = Nhookleft;
 lastChange = "2025-06-30 16:22:38 +0000";
 layers = (
 {
+.lastUpdate = 773084222.38;
 anchors = (
 {
 name = bottom;
@@ -4097,6 +4219,7 @@ unicode = 413;
 glyphname = Ntilde;
 layers = (
 {
+.lastUpdate = 773084510.156;
 layerId = m01;
 shapes = (
 {
@@ -4117,6 +4240,7 @@ glyphname = Eng;
 lastChange = "2025-06-30 16:23:59 +0000";
 layers = (
 {
+.lastUpdate = 773084222.479;
 anchors = (
 {
 name = bottom;
@@ -4173,6 +4297,7 @@ glyphname = O;
 lastChange = "2025-06-30 01:49:09 +0000";
 layers = (
 {
+.lastUpdate = 773084391.312;
 anchors = (
 {
 name = bottom;
@@ -4283,6 +4408,7 @@ unicode = 79;
 glyphname = Oacute;
 layers = (
 {
+.lastUpdate = 773084391.314;
 layerId = m01;
 shapes = (
 {
@@ -4302,6 +4428,7 @@ unicode = 211;
 glyphname = Ocaron;
 layers = (
 {
+.lastUpdate = 773084391.315;
 layerId = m01;
 shapes = (
 {
@@ -4321,6 +4448,7 @@ unicode = 465;
 glyphname = Ocircumflex;
 layers = (
 {
+.lastUpdate = 773084411.476;
 layerId = m01;
 shapes = (
 {
@@ -4340,6 +4468,7 @@ unicode = 212;
 glyphname = Ocircumflexacute;
 layers = (
 {
+.lastUpdate = 773084222.477;
 layerId = m01;
 shapes = (
 {
@@ -4359,6 +4488,7 @@ unicode = 7888;
 glyphname = Ocircumflexdotbelow;
 layers = (
 {
+.lastUpdate = 773084222.48;
 layerId = m01;
 shapes = (
 {
@@ -4381,6 +4511,7 @@ unicode = 7896;
 glyphname = Ocircumflexgrave;
 layers = (
 {
+.lastUpdate = 773084222.479;
 layerId = m01;
 shapes = (
 {
@@ -4400,6 +4531,7 @@ unicode = 7890;
 glyphname = Ocircumflexhookabove;
 layers = (
 {
+.lastUpdate = 773084222.709;
 layerId = m01;
 shapes = (
 {
@@ -4419,6 +4551,7 @@ unicode = 7892;
 glyphname = Ocircumflextilde;
 layers = (
 {
+.lastUpdate = 773084222.713;
 layerId = m01;
 shapes = (
 {
@@ -4438,6 +4571,7 @@ unicode = 7894;
 glyphname = Odieresis;
 layers = (
 {
+.lastUpdate = 773084222.711;
 layerId = m01;
 shapes = (
 {
@@ -4457,6 +4591,7 @@ unicode = 214;
 glyphname = Odieresismacron;
 layers = (
 {
+.lastUpdate = 773084222.71;
 layerId = m01;
 shapes = (
 {
@@ -4480,6 +4615,7 @@ unicode = 554;
 glyphname = Odotbelow;
 layers = (
 {
+.lastUpdate = 773084222.712;
 layerId = m01;
 shapes = (
 {
@@ -4498,6 +4634,7 @@ unicode = 7884;
 glyphname = Ograve;
 layers = (
 {
+.lastUpdate = 773084391.316;
 layerId = m01;
 shapes = (
 {
@@ -4517,6 +4654,7 @@ unicode = 210;
 glyphname = Ohookabove;
 layers = (
 {
+.lastUpdate = 773084222.711;
 layerId = m01;
 shapes = (
 {
@@ -4537,6 +4675,7 @@ glyphname = Ohorn;
 lastChange = "2025-06-30 18:23:03 +0000";
 layers = (
 {
+.lastUpdate = 773084222.71;
 layerId = m01;
 shapes = (
 {
@@ -4556,6 +4695,7 @@ glyphname = Ohornacute;
 lastChange = "2025-06-30 18:23:42 +0000";
 layers = (
 {
+.lastUpdate = 773084223.679;
 layerId = m01;
 shapes = (
 {
@@ -4579,6 +4719,7 @@ glyphname = Ohorndotbelow;
 lastChange = "2025-06-30 18:24:00 +0000";
 layers = (
 {
+.lastUpdate = 773084223.677;
 layerId = m01;
 shapes = (
 {
@@ -4598,6 +4739,7 @@ glyphname = Ohorngrave;
 lastChange = "2025-06-30 18:24:14 +0000";
 layers = (
 {
+.lastUpdate = 773084223.678;
 layerId = m01;
 shapes = (
 {
@@ -4618,6 +4760,7 @@ glyphname = Ohornhookabove;
 lastChange = "2025-06-30 18:24:32 +0000";
 layers = (
 {
+.lastUpdate = 773084223.676;
 layerId = m01;
 shapes = (
 {
@@ -4638,6 +4781,7 @@ glyphname = Ohorntilde;
 lastChange = "2025-06-30 18:24:45 +0000";
 layers = (
 {
+.lastUpdate = 773084223.679;
 layerId = m01;
 shapes = (
 {
@@ -4657,6 +4801,7 @@ unicode = 7904;
 glyphname = Ohungarumlaut;
 layers = (
 {
+.lastUpdate = 773084223.677;
 layerId = m01;
 shapes = (
 {
@@ -4676,6 +4821,7 @@ unicode = 336;
 glyphname = Omacron;
 layers = (
 {
+.lastUpdate = 773084391.312;
 layerId = m01;
 shapes = (
 {
@@ -4695,6 +4841,7 @@ unicode = 332;
 glyphname = Omacronacute;
 layers = (
 {
+.lastUpdate = 773084223.677;
 layerId = m01;
 shapes = (
 {
@@ -4714,6 +4861,7 @@ unicode = 7762;
 glyphname = Omacrongrave;
 layers = (
 {
+.lastUpdate = 773084223.811;
 layerId = m01;
 shapes = (
 {
@@ -4734,6 +4882,7 @@ glyphname = Oopen;
 lastChange = "2025-06-30 16:25:29 +0000";
 layers = (
 {
+.lastUpdate = 773084223.809;
 anchors = (
 {
 name = bottom;
@@ -4814,6 +4963,7 @@ glyphname = Oslash;
 lastChange = "2025-06-29 23:27:37 +0000";
 layers = (
 {
+.lastUpdate = 773084223.81;
 layerId = m01;
 shapes = (
 {
@@ -4839,6 +4989,7 @@ unicode = 216;
 glyphname = Oslashacute;
 layers = (
 {
+.lastUpdate = 773084223.81;
 layerId = m01;
 shapes = (
 {
@@ -4859,6 +5010,7 @@ glyphname = Otilde;
 lastChange = "2025-06-30 01:49:09 +0000";
 layers = (
 {
+.lastUpdate = 773084223.811;
 layerId = m01;
 shapes = (
 {
@@ -4878,6 +5030,7 @@ unicode = 213;
 glyphname = Otildeacute;
 layers = (
 {
+.lastUpdate = 773084223.813;
 layerId = m01;
 shapes = (
 {
@@ -4902,6 +5055,7 @@ glyphname = OE;
 lastChange = "2025-06-29 23:28:52 +0000";
 layers = (
 {
+.lastUpdate = 773084223.81;
 anchors = (
 {
 name = bottom;
@@ -5028,6 +5182,7 @@ glyphname = P;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084223.812;
 anchors = (
 {
 name = bottom;
@@ -5096,6 +5251,7 @@ glyphname = Phook;
 lastChange = "2025-06-30 16:26:12 +0000";
 layers = (
 {
+.lastUpdate = 773084224.997;
 anchors = (
 {
 name = bottom;
@@ -5169,6 +5325,7 @@ glyphname = Thorn;
 lastChange = "2025-06-29 23:30:45 +0000";
 layers = (
 {
+.lastUpdate = 773084224.995;
 anchors = (
 {
 name = bottom;
@@ -5243,6 +5400,7 @@ glyphname = Q;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084224.993;
 anchors = (
 {
 name = bottom;
@@ -5347,6 +5505,7 @@ glyphname = R;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084224.994;
 anchors = (
 {
 name = bottom;
@@ -5438,6 +5597,7 @@ unicode = 82;
 glyphname = Racute;
 layers = (
 {
+.lastUpdate = 773084224.995;
 layerId = m01;
 shapes = (
 {
@@ -5457,6 +5617,7 @@ unicode = 340;
 glyphname = Rcaron;
 layers = (
 {
+.lastUpdate = 773084224.995;
 layerId = m01;
 shapes = (
 {
@@ -5476,6 +5637,7 @@ unicode = 344;
 glyphname = Rcommaaccent;
 layers = (
 {
+.lastUpdate = 773084224.993;
 layerId = m01;
 shapes = (
 {
@@ -5495,6 +5657,7 @@ glyphname = Rstroke;
 lastChange = "2025-06-30 16:35:02 +0000";
 layers = (
 {
+.lastUpdate = 773084224.996;
 layerId = m01;
 shapes = (
 {
@@ -5520,6 +5683,7 @@ glyphname = Rtail;
 lastChange = "2025-06-30 16:26:45 +0000";
 layers = (
 {
+.lastUpdate = 773084225.609;
 layerId = m01;
 shapes = (
 {
@@ -5542,6 +5706,7 @@ glyphname = S;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.802;
 anchors = (
 {
 name = bottom;
@@ -5636,6 +5801,7 @@ unicode = 83;
 glyphname = Sacute;
 layers = (
 {
+.lastUpdate = 773084411.478;
 layerId = m01;
 shapes = (
 {
@@ -5655,6 +5821,7 @@ unicode = 346;
 glyphname = Scaron;
 layers = (
 {
+.lastUpdate = 773084694.806;
 layerId = m01;
 shapes = (
 {
@@ -5674,6 +5841,7 @@ unicode = 352;
 glyphname = Scedilla;
 layers = (
 {
+.lastUpdate = 773084225.61;
 layerId = m01;
 shapes = (
 {
@@ -5693,6 +5861,7 @@ unicode = 350;
 glyphname = Scircumflex;
 layers = (
 {
+.lastUpdate = 773084225.61;
 layerId = m01;
 shapes = (
 {
@@ -5712,6 +5881,7 @@ unicode = 348;
 glyphname = Scommaaccent;
 layers = (
 {
+.lastUpdate = 773084225.61;
 layerId = m01;
 shapes = (
 {
@@ -5730,6 +5900,7 @@ unicode = 536;
 glyphname = Sdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.802;
 layerId = m01;
 shapes = (
 {
@@ -5749,6 +5920,7 @@ glyphname = Germandbls;
 lastChange = "2025-06-29 23:39:53 +0000";
 layers = (
 {
+.lastUpdate = 773084225.678;
 hints = (
 {
 name = _corner.round;
@@ -5878,6 +6050,7 @@ unicode = 84;
 glyphname = Tbar;
 layers = (
 {
+.lastUpdate = 773084225.679;
 layerId = m01;
 shapes = (
 {
@@ -5897,6 +6070,7 @@ unicode = 358;
 glyphname = Tcaron;
 layers = (
 {
+.lastUpdate = 773084225.678;
 layerId = m01;
 shapes = (
 {
@@ -5916,6 +6090,7 @@ unicode = 356;
 glyphname = Tcedilla;
 layers = (
 {
+.lastUpdate = 773084225.678;
 layerId = m01;
 shapes = (
 {
@@ -5936,6 +6111,7 @@ glyphname = Tcircumflexbelow;
 lastChange = "2025-06-30 16:37:14 +0000";
 layers = (
 {
+.lastUpdate = 773084225.678;
 layerId = m01;
 shapes = (
 {
@@ -5956,6 +6132,7 @@ unicode = 7792;
 glyphname = Tcommaaccent;
 layers = (
 {
+.lastUpdate = 773084225.677;
 layerId = m01;
 shapes = (
 {
@@ -5974,6 +6151,7 @@ unicode = 538;
 glyphname = Tdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.799;
 layerId = m01;
 shapes = (
 {
@@ -5993,6 +6171,7 @@ glyphname = Thook;
 lastChange = "2025-06-30 16:19:56 +0000";
 layers = (
 {
+.lastUpdate = 773084225.876;
 anchors = (
 {
 name = bottom;
@@ -6039,6 +6218,7 @@ unicode = 428;
 glyphname = Tmacronbelow;
 layers = (
 {
+.lastUpdate = 773084694.807;
 layerId = m01;
 shapes = (
 {
@@ -6058,6 +6238,7 @@ glyphname = Tretroflexhook;
 lastChange = "2025-06-30 16:20:44 +0000";
 layers = (
 {
+.lastUpdate = 773084225.877;
 layerId = m01;
 shapes = (
 {
@@ -6080,6 +6261,7 @@ glyphname = U;
 lastChange = "2025-06-30 18:26:13 +0000";
 layers = (
 {
+.lastUpdate = 773084694.807;
 anchors = (
 {
 name = bottom;
@@ -6151,6 +6333,7 @@ unicode = 85;
 glyphname = Uacute;
 layers = (
 {
+.lastUpdate = 773084391.305;
 layerId = m01;
 shapes = (
 {
@@ -6171,6 +6354,7 @@ glyphname = Ubar;
 lastChange = "2025-06-30 16:34:45 +0000";
 layers = (
 {
+.lastUpdate = 773084225.878;
 layerId = m01;
 shapes = (
 {
@@ -6195,6 +6379,7 @@ unicode = 580;
 glyphname = Ubreve;
 layers = (
 {
+.lastUpdate = 773084411.478;
 layerId = m01;
 shapes = (
 {
@@ -6214,6 +6399,7 @@ unicode = 364;
 glyphname = Ucaron;
 layers = (
 {
+.lastUpdate = 773084419.324;
 layerId = m01;
 shapes = (
 {
@@ -6233,6 +6419,7 @@ unicode = 467;
 glyphname = Ucircumflex;
 layers = (
 {
+.lastUpdate = 773084225.878;
 layerId = m01;
 shapes = (
 {
@@ -6252,6 +6439,7 @@ unicode = 219;
 glyphname = Udieresis;
 layers = (
 {
+.lastUpdate = 773084391.313;
 layerId = m01;
 shapes = (
 {
@@ -6271,6 +6459,7 @@ unicode = 220;
 glyphname = Udieresisacute;
 layers = (
 {
+.lastUpdate = 773084419.325;
 layerId = m01;
 shapes = (
 {
@@ -6294,6 +6483,7 @@ unicode = 471;
 glyphname = Udieresiscaron;
 layers = (
 {
+.lastUpdate = 773084419.325;
 layerId = m01;
 shapes = (
 {
@@ -6317,6 +6507,7 @@ unicode = 473;
 glyphname = Udieresisgrave;
 layers = (
 {
+.lastUpdate = 773084419.326;
 layerId = m01;
 shapes = (
 {
@@ -6340,6 +6531,7 @@ unicode = 475;
 glyphname = Udieresismacron;
 layers = (
 {
+.lastUpdate = 773084419.326;
 layerId = m01;
 shapes = (
 {
@@ -6363,6 +6555,7 @@ unicode = 469;
 glyphname = Udotbelow;
 layers = (
 {
+.lastUpdate = 773084226.228;
 layerId = m01;
 shapes = (
 {
@@ -6381,6 +6574,7 @@ unicode = 7908;
 glyphname = Ugrave;
 layers = (
 {
+.lastUpdate = 773084391.316;
 layerId = m01;
 shapes = (
 {
@@ -6400,6 +6594,7 @@ unicode = 217;
 glyphname = Uhookabove;
 layers = (
 {
+.lastUpdate = 773084226.23;
 layerId = m01;
 shapes = (
 {
@@ -6420,6 +6615,7 @@ glyphname = Uhorn;
 lastChange = "2025-06-30 18:27:15 +0000";
 layers = (
 {
+.lastUpdate = 773084226.23;
 anchors = (
 {
 name = bottom;
@@ -6497,6 +6693,7 @@ glyphname = Uhornacute;
 lastChange = "2025-06-30 18:27:36 +0000";
 layers = (
 {
+.lastUpdate = 773084226.231;
 hints = (
 {
 name = _corner.round;
@@ -6559,6 +6756,7 @@ glyphname = Uhorndotbelow;
 lastChange = "2025-06-30 18:29:31 +0000";
 layers = (
 {
+.lastUpdate = 773084226.229;
 hints = (
 {
 name = _corner.round;
@@ -6618,6 +6816,7 @@ glyphname = Uhorngrave;
 lastChange = "2025-06-30 18:29:45 +0000";
 layers = (
 {
+.lastUpdate = 773084226.229;
 hints = (
 {
 name = _corner.round;
@@ -6678,6 +6877,7 @@ glyphname = Uhornhookabove;
 lastChange = "2025-06-30 18:29:55 +0000";
 layers = (
 {
+.lastUpdate = 773084226.277;
 hints = (
 {
 name = _corner.round;
@@ -6738,6 +6938,7 @@ glyphname = Uhorntilde;
 lastChange = "2025-06-30 18:30:07 +0000";
 layers = (
 {
+.lastUpdate = 773084226.277;
 hints = (
 {
 name = _corner.round;
@@ -6797,6 +6998,7 @@ unicode = 7918;
 glyphname = Uhungarumlaut;
 layers = (
 {
+.lastUpdate = 773084226.277;
 layerId = m01;
 shapes = (
 {
@@ -6816,6 +7018,7 @@ unicode = 368;
 glyphname = Umacron;
 layers = (
 {
+.lastUpdate = 773084694.807;
 layerId = m01;
 shapes = (
 {
@@ -6836,6 +7039,7 @@ glyphname = Uogonek;
 lastChange = "2025-06-30 01:55:23 +0000";
 layers = (
 {
+.lastUpdate = 773084226.28;
 layerId = m01;
 shapes = (
 {
@@ -6858,6 +7062,7 @@ glyphname = "Upsilon-latin";
 lastChange = "2025-06-30 17:08:11 +0000";
 layers = (
 {
+.lastUpdate = 773084226.279;
 hints = (
 {
 name = _corner.round;
@@ -6993,6 +7198,7 @@ unicode = 433;
 glyphname = Uring;
 layers = (
 {
+.lastUpdate = 773084226.279;
 layerId = m01;
 shapes = (
 {
@@ -7012,6 +7218,7 @@ unicode = 366;
 glyphname = Utilde;
 layers = (
 {
+.lastUpdate = 773084226.279;
 layerId = m01;
 shapes = (
 {
@@ -7068,6 +7275,7 @@ glyphname = "Gamma-latin";
 lastChange = "2025-06-30 17:20:39 +0000";
 layers = (
 {
+.lastUpdate = 772996839.712;
 layerId = m01;
 shapes = (
 {
@@ -7106,6 +7314,7 @@ glyphname = Vhook;
 lastChange = "2025-06-30 16:27:32 +0000";
 layers = (
 {
+.lastUpdate = 773084226.427;
 anchors = (
 {
 name = bottom;
@@ -7148,6 +7357,7 @@ glyphname = Vturned;
 lastChange = "2025-06-30 16:27:42 +0000";
 layers = (
 {
+.lastUpdate = 773084226.428;
 layerId = m01;
 shapes = (
 {
@@ -7214,6 +7424,7 @@ unicode = 87;
 glyphname = Wacute;
 layers = (
 {
+.lastUpdate = 773084226.429;
 layerId = m01;
 shapes = (
 {
@@ -7233,6 +7444,7 @@ unicode = 7810;
 glyphname = Wcircumflex;
 layers = (
 {
+.lastUpdate = 773084226.427;
 layerId = m01;
 shapes = (
 {
@@ -7252,6 +7464,7 @@ unicode = 372;
 glyphname = Wdieresis;
 layers = (
 {
+.lastUpdate = 773084226.43;
 layerId = m01;
 shapes = (
 {
@@ -7271,6 +7484,7 @@ unicode = 7812;
 glyphname = Wgrave;
 layers = (
 {
+.lastUpdate = 773084226.879;
 layerId = m01;
 shapes = (
 {
@@ -7291,6 +7505,7 @@ glyphname = Whook;
 lastChange = "2025-06-30 16:28:31 +0000";
 layers = (
 {
+.lastUpdate = 773084226.879;
 anchors = (
 {
 name = bottom;
@@ -7443,6 +7658,7 @@ unicode = 89;
 glyphname = Yacute;
 layers = (
 {
+.lastUpdate = 773084226.877;
 layerId = m01;
 shapes = (
 {
@@ -7462,6 +7678,7 @@ unicode = 221;
 glyphname = Ycircumflex;
 layers = (
 {
+.lastUpdate = 773084694.809;
 layerId = m01;
 shapes = (
 {
@@ -7481,6 +7698,7 @@ unicode = 374;
 glyphname = Ydieresis;
 layers = (
 {
+.lastUpdate = 773084226.878;
 layerId = m01;
 shapes = (
 {
@@ -7500,6 +7718,7 @@ unicode = 376;
 glyphname = Ydotbelow;
 layers = (
 {
+.lastUpdate = 773084226.878;
 layerId = m01;
 shapes = (
 {
@@ -7518,6 +7737,7 @@ unicode = 7924;
 glyphname = Ygrave;
 layers = (
 {
+.lastUpdate = 773084408.159;
 layerId = m01;
 shapes = (
 {
@@ -7538,6 +7758,7 @@ glyphname = Yhook;
 lastChange = "2025-06-30 16:29:38 +0000";
 layers = (
 {
+.lastUpdate = 773084230.099;
 anchors = (
 {
 name = bottom;
@@ -7596,6 +7817,7 @@ unicode = 435;
 glyphname = Yhookabove;
 layers = (
 {
+.lastUpdate = 773084230.096;
 layerId = m01;
 shapes = (
 {
@@ -7615,6 +7837,7 @@ unicode = 7926;
 glyphname = Ytilde;
 layers = (
 {
+.lastUpdate = 773084230.097;
 layerId = m01;
 shapes = (
 {
@@ -7678,6 +7901,7 @@ unicode = 90;
 glyphname = Zacute;
 layers = (
 {
+.lastUpdate = 773084230.099;
 layerId = m01;
 shapes = (
 {
@@ -7697,6 +7921,7 @@ unicode = 377;
 glyphname = Zcaron;
 layers = (
 {
+.lastUpdate = 773084408.158;
 layerId = m01;
 shapes = (
 {
@@ -7716,6 +7941,7 @@ unicode = 381;
 glyphname = Zdotaccent;
 layers = (
 {
+.lastUpdate = 773084411.475;
 layerId = m01;
 shapes = (
 {
@@ -7735,6 +7961,7 @@ unicode = 379;
 glyphname = Zdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.805;
 layerId = m01;
 shapes = (
 {
@@ -7754,6 +7981,7 @@ glyphname = Saltillo;
 lastChange = "2025-06-30 02:01:08 +0000";
 layers = (
 {
+.lastUpdate = 772941668.772;
 layerId = m01;
 shapes = (
 {
@@ -7775,6 +8003,7 @@ unicode = 42891;
 glyphname = Lcommaaccent.loclMAH;
 layers = (
 {
+.lastUpdate = 773084231.166;
 layerId = m01;
 shapes = (
 {
@@ -7792,6 +8021,7 @@ width = 536;
 glyphname = Ncommaaccent.loclMAH;
 layers = (
 {
+.lastUpdate = 773084231.165;
 layerId = m01;
 shapes = (
 {
@@ -7810,6 +8040,7 @@ glyphname = Bsmall;
 lastChange = "2025-06-30 18:37:29 +0000";
 layers = (
 {
+.lastUpdate = 773076509.189;
 anchors = (
 {
 name = bottom;
@@ -7933,6 +8164,7 @@ glyphname = Gsmall;
 lastChange = "2025-06-30 18:38:13 +0000";
 layers = (
 {
+.lastUpdate = 773076509.177;
 anchors = (
 {
 name = bottom;
@@ -8027,6 +8259,7 @@ glyphname = Gsmallhook;
 lastChange = "2025-06-30 18:38:54 +0000";
 layers = (
 {
+.lastUpdate = 773076509.177;
 layerId = m01;
 shapes = (
 {
@@ -8048,6 +8281,7 @@ glyphname = Hsmall;
 lastChange = "2025-06-30 18:39:16 +0000";
 layers = (
 {
+.lastUpdate = 773001556.912;
 anchors = (
 {
 name = bottom;
@@ -8106,6 +8340,7 @@ glyphname = Ismall;
 lastChange = "2025-06-30 18:39:32 +0000";
 layers = (
 {
+.lastUpdate = 773001572.244;
 anchors = (
 {
 name = bottom;
@@ -8158,6 +8393,7 @@ glyphname = Lsmall;
 lastChange = "2025-06-30 18:39:43 +0000";
 layers = (
 {
+.lastUpdate = 773001583.537;
 anchors = (
 {
 name = bottom;
@@ -8201,6 +8437,7 @@ glyphname = Nsmall;
 lastChange = "2025-06-30 18:39:57 +0000";
 layers = (
 {
+.lastUpdate = 773001597.76;
 anchors = (
 {
 name = bottom;
@@ -8251,6 +8488,7 @@ glyphname = OEsmall;
 lastChange = "2025-06-30 18:40:19 +0000";
 layers = (
 {
+.lastUpdate = 773076509.212;
 anchors = (
 {
 name = bottom;
@@ -8377,6 +8615,7 @@ glyphname = Rsmall;
 lastChange = "2025-06-30 18:40:56 +0000";
 layers = (
 {
+.lastUpdate = 773076509.178;
 anchors = (
 {
 name = bottom;
@@ -8469,6 +8708,7 @@ glyphname = Rsmallinverted;
 lastChange = "2025-06-30 18:41:04 +0000";
 layers = (
 {
+.lastUpdate = 773076509.178;
 layerId = m01;
 shapes = (
 {
@@ -8487,6 +8727,7 @@ glyphname = Ysmall;
 lastChange = "2025-06-30 18:41:18 +0000";
 layers = (
 {
+.lastUpdate = 773001678.91;
 anchors = (
 {
 name = bottom;
@@ -8541,6 +8782,7 @@ glyphname = a;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.799;
 anchors = (
 {
 name = bottom;
@@ -8632,6 +8874,7 @@ unicode = 97;
 glyphname = aacute;
 layers = (
 {
+.lastUpdate = 773084510.162;
 layerId = m01;
 shapes = (
 {
@@ -8650,6 +8893,7 @@ unicode = 225;
 glyphname = abreve;
 layers = (
 {
+.lastUpdate = 773076556.253;
 layerId = m01;
 shapes = (
 {
@@ -8668,6 +8912,7 @@ unicode = 259;
 glyphname = abreveacute;
 layers = (
 {
+.lastUpdate = 773076556.243;
 layerId = m01;
 shapes = (
 {
@@ -8686,6 +8931,7 @@ unicode = 7855;
 glyphname = abrevedotbelow;
 layers = (
 {
+.lastUpdate = 773076556.278;
 layerId = m01;
 shapes = (
 {
@@ -8707,6 +8953,7 @@ unicode = 7863;
 glyphname = abrevegrave;
 layers = (
 {
+.lastUpdate = 773076556.279;
 layerId = m01;
 shapes = (
 {
@@ -8725,6 +8972,7 @@ unicode = 7857;
 glyphname = abrevehookabove;
 layers = (
 {
+.lastUpdate = 773076556.272;
 layerId = m01;
 shapes = (
 {
@@ -8743,6 +8991,7 @@ unicode = 7859;
 glyphname = abrevetilde;
 layers = (
 {
+.lastUpdate = 773076556.248;
 layerId = m01;
 shapes = (
 {
@@ -8761,6 +9010,7 @@ unicode = 7861;
 glyphname = acaron;
 layers = (
 {
+.lastUpdate = 773084391.307;
 layerId = m01;
 shapes = (
 {
@@ -8779,6 +9029,7 @@ unicode = 462;
 glyphname = acircumflex;
 layers = (
 {
+.lastUpdate = 773084408.16;
 layerId = m01;
 shapes = (
 {
@@ -8797,6 +9048,7 @@ unicode = 226;
 glyphname = acircumflexacute;
 layers = (
 {
+.lastUpdate = 773076556.249;
 layerId = m01;
 shapes = (
 {
@@ -8816,6 +9068,7 @@ unicode = 7845;
 glyphname = acircumflexdotbelow;
 layers = (
 {
+.lastUpdate = 773076556.258;
 layerId = m01;
 shapes = (
 {
@@ -8837,6 +9090,7 @@ unicode = 7853;
 glyphname = acircumflexgrave;
 layers = (
 {
+.lastUpdate = 773076556.278;
 layerId = m01;
 shapes = (
 {
@@ -8856,6 +9110,7 @@ unicode = 7847;
 glyphname = acircumflexhookabove;
 layers = (
 {
+.lastUpdate = 773076556.252;
 layerId = m01;
 shapes = (
 {
@@ -8874,6 +9129,7 @@ unicode = 7849;
 glyphname = acircumflextilde;
 layers = (
 {
+.lastUpdate = 773076556.257;
 layerId = m01;
 shapes = (
 {
@@ -8892,6 +9148,7 @@ unicode = 7851;
 glyphname = adieresis;
 layers = (
 {
+.lastUpdate = 773076556.273;
 layerId = m01;
 shapes = (
 {
@@ -8910,6 +9167,7 @@ unicode = 228;
 glyphname = adieresismacron;
 layers = (
 {
+.lastUpdate = 773076556.255;
 layerId = m01;
 shapes = (
 {
@@ -8932,6 +9190,7 @@ unicode = 479;
 glyphname = adotbelow;
 layers = (
 {
+.lastUpdate = 773076556.27;
 layerId = m01;
 shapes = (
 {
@@ -8950,6 +9209,7 @@ unicode = 7841;
 glyphname = agrave;
 layers = (
 {
+.lastUpdate = 773084391.322;
 layerId = m01;
 shapes = (
 {
@@ -8968,6 +9228,7 @@ unicode = 224;
 glyphname = ahookabove;
 layers = (
 {
+.lastUpdate = 773076556.266;
 layerId = m01;
 shapes = (
 {
@@ -8988,6 +9249,7 @@ glyphname = "alpha-latin";
 lastChange = "2025-06-30 17:25:22 +0000";
 layers = (
 {
+.lastUpdate = 773076509.207;
 hints = (
 {
 name = _corner.round;
@@ -9098,6 +9360,7 @@ glyphname = "alphaturned-latin";
 lastChange = "2025-06-30 18:47:08 +0000";
 layers = (
 {
+.lastUpdate = 773076509.207;
 layerId = m01;
 shapes = (
 {
@@ -9115,6 +9378,7 @@ unicode = 594;
 glyphname = amacron;
 layers = (
 {
+.lastUpdate = 773084694.799;
 layerId = m01;
 shapes = (
 {
@@ -9133,6 +9397,7 @@ unicode = 257;
 glyphname = aogonek;
 layers = (
 {
+.lastUpdate = 773076556.251;
 layerId = m01;
 shapes = (
 {
@@ -9152,6 +9417,7 @@ unicode = 261;
 glyphname = aring;
 layers = (
 {
+.lastUpdate = 773076556.243;
 layerId = m01;
 shapes = (
 {
@@ -9170,6 +9436,7 @@ unicode = 229;
 glyphname = atilde;
 layers = (
 {
+.lastUpdate = 773076556.237;
 layerId = m01;
 shapes = (
 {
@@ -9190,6 +9457,7 @@ glyphname = aturned;
 lastChange = "2025-06-30 18:46:51 +0000";
 layers = (
 {
+.lastUpdate = 773076509.216;
 layerId = m01;
 shapes = (
 {
@@ -9208,6 +9476,7 @@ glyphname = ae;
 lastChange = "2025-06-29 23:44:14 +0000";
 layers = (
 {
+.lastUpdate = 773084411.479;
 anchors = (
 {
 name = bottom;
@@ -9357,6 +9626,7 @@ glyphname = b;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084663.645;
 anchors = (
 {
 name = bottom;
@@ -9427,6 +9697,7 @@ unicode = 98;
 glyphname = bdotbelow;
 layers = (
 {
+.lastUpdate = 773084663.645;
 layerId = m01;
 shapes = (
 {
@@ -9446,6 +9717,7 @@ glyphname = bhook;
 lastChange = "2025-06-30 17:27:03 +0000";
 layers = (
 {
+.lastUpdate = 773084663.646;
 layerId = m01;
 shapes = (
 {
@@ -9467,6 +9739,7 @@ glyphname = bidentalpercussive;
 lastChange = "2025-06-30 18:50:08 +0000";
 layers = (
 {
+.lastUpdate = 773084663.646;
 layerId = m01;
 shapes = (
 {
@@ -9491,6 +9764,7 @@ glyphname = bilabialclick;
 lastChange = "2025-06-30 20:49:45 +0000";
 layers = (
 {
+.lastUpdate = 773076509.21;
 layerId = m01;
 shapes = (
 {
@@ -9512,6 +9786,7 @@ glyphname = bilabialpercussive;
 lastChange = "2025-06-30 20:52:52 +0000";
 layers = (
 {
+.lastUpdate = 773076509.205;
 hints = (
 {
 name = _corner.round;
@@ -9593,6 +9868,7 @@ glyphname = bmiddletilde;
 lastChange = "2025-06-30 20:59:48 +0000";
 layers = (
 {
+.lastUpdate = 773076509.215;
 anchors = (
 {
 name = bottom;
@@ -9683,6 +9959,7 @@ glyphname = c;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084408.16;
 anchors = (
 {
 name = bottom;
@@ -9746,6 +10023,7 @@ unicode = 99;
 glyphname = cacute;
 layers = (
 {
+.lastUpdate = 773076556.276;
 layerId = m01;
 shapes = (
 {
@@ -9764,6 +10042,7 @@ unicode = 263;
 glyphname = ccaron;
 layers = (
 {
+.lastUpdate = 773084408.16;
 layerId = m01;
 shapes = (
 {
@@ -9783,6 +10062,7 @@ glyphname = ccedilla;
 lastChange = "2025-06-30 01:49:45 +0000";
 layers = (
 {
+.lastUpdate = 773076509.176;
 layerId = m01;
 shapes = (
 {
@@ -9803,6 +10083,7 @@ unicode = 231;
 glyphname = ccircumflex;
 layers = (
 {
+.lastUpdate = 773084411.473;
 layerId = m01;
 shapes = (
 {
@@ -9822,6 +10103,7 @@ glyphname = ccurl;
 lastChange = "2025-06-30 22:02:51 +0000";
 layers = (
 {
+.lastUpdate = 773076509.184;
 anchors = (
 {
 name = bottom;
@@ -9888,6 +10170,7 @@ unicode = 597;
 glyphname = cdotaccent;
 layers = (
 {
+.lastUpdate = 773076556.259;
 layerId = m01;
 shapes = (
 {
@@ -9907,6 +10190,7 @@ glyphname = "chi-latin";
 lastChange = "2025-07-01 15:26:09 +0000";
 layers = (
 {
+.lastUpdate = 773076369.884;
 layerId = m01;
 shapes = (
 {
@@ -9947,6 +10231,7 @@ glyphname = chook;
 lastChange = "2025-06-30 17:27:53 +0000";
 layers = (
 {
+.lastUpdate = 773076509.186;
 layerId = m01;
 shapes = (
 {
@@ -9970,6 +10255,7 @@ glyphname = d;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.806;
 anchors = (
 {
 name = bottom;
@@ -10044,6 +10330,7 @@ unicode = 100;
 glyphname = dcaron;
 layers = (
 {
+.lastUpdate = 773076556.258;
 layerId = m01;
 shapes = (
 {
@@ -10064,6 +10351,7 @@ glyphname = dcircumflexbelow;
 lastChange = "2025-06-30 17:41:10 +0000";
 layers = (
 {
+.lastUpdate = 773076556.274;
 layerId = m01;
 shapes = (
 {
@@ -10084,6 +10372,7 @@ unicode = 7699;
 glyphname = dcroat;
 layers = (
 {
+.lastUpdate = 773076556.282;
 layerId = m01;
 shapes = (
 {
@@ -10103,6 +10392,7 @@ unicode = 273;
 glyphname = ddotbelow;
 layers = (
 {
+.lastUpdate = 773084694.806;
 layerId = m01;
 shapes = (
 {
@@ -10122,6 +10412,7 @@ glyphname = dezh;
 lastChange = "2025-06-30 22:02:22 +0000";
 layers = (
 {
+.lastUpdate = 773076509.202;
 anchors = (
 {
 name = bottom;
@@ -10260,6 +10551,7 @@ glyphname = dhook;
 lastChange = "2025-06-30 17:28:27 +0000";
 layers = (
 {
+.lastUpdate = 773076509.212;
 layerId = m01;
 shapes = (
 {
@@ -10282,6 +10574,7 @@ unicode = 599;
 glyphname = dmacronbelow;
 layers = (
 {
+.lastUpdate = 773084694.809;
 layerId = m01;
 shapes = (
 {
@@ -10301,6 +10594,7 @@ glyphname = dmiddletilde;
 lastChange = "2025-06-30 21:02:21 +0000";
 layers = (
 {
+.lastUpdate = 773076509.209;
 hints = (
 {
 name = _corner.round;
@@ -10377,6 +10671,7 @@ glyphname = dtail;
 lastChange = "2025-06-30 17:29:31 +0000";
 layers = (
 {
+.lastUpdate = 773076509.18;
 layerId = m01;
 shapes = (
 {
@@ -10401,6 +10696,7 @@ glyphname = dzaltone;
 lastChange = "2025-06-30 21:01:23 +0000";
 layers = (
 {
+.lastUpdate = 773076509.196;
 anchors = (
 {
 name = bottom;
@@ -10501,6 +10797,7 @@ glyphname = dzcurl;
 lastChange = "2025-06-30 21:59:11 +0000";
 layers = (
 {
+.lastUpdate = 773076509.183;
 anchors = (
 {
 name = bottom;
@@ -10594,6 +10891,7 @@ glyphname = eth;
 lastChange = "2025-06-29 23:46:35 +0000";
 layers = (
 {
+.lastUpdate = 772933595.742;
 layerId = m01;
 shapes = (
 {
@@ -10640,6 +10938,7 @@ glyphname = e;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084391.304;
 anchors = (
 {
 name = bottom;
@@ -10737,6 +11036,7 @@ unicode = 101;
 glyphname = eacute;
 layers = (
 {
+.lastUpdate = 773084391.304;
 layerId = m01;
 shapes = (
 {
@@ -10755,6 +11055,7 @@ unicode = 233;
 glyphname = ecaron;
 layers = (
 {
+.lastUpdate = 773084391.306;
 layerId = m01;
 shapes = (
 {
@@ -10773,6 +11074,7 @@ unicode = 283;
 glyphname = ecedilla;
 layers = (
 {
+.lastUpdate = 773076556.249;
 layerId = m01;
 shapes = (
 {
@@ -10792,6 +11094,7 @@ unicode = 553;
 glyphname = ecircumflex;
 layers = (
 {
+.lastUpdate = 773084391.31;
 layerId = m01;
 shapes = (
 {
@@ -10810,6 +11113,7 @@ unicode = 234;
 glyphname = ecircumflexacute;
 layers = (
 {
+.lastUpdate = 773076556.256;
 layerId = m01;
 shapes = (
 {
@@ -10829,6 +11133,7 @@ unicode = 7871;
 glyphname = ecircumflexdotbelow;
 layers = (
 {
+.lastUpdate = 773076556.27;
 layerId = m01;
 shapes = (
 {
@@ -10850,6 +11155,7 @@ unicode = 7879;
 glyphname = ecircumflexgrave;
 layers = (
 {
+.lastUpdate = 773076556.247;
 layerId = m01;
 shapes = (
 {
@@ -10869,6 +11175,7 @@ unicode = 7873;
 glyphname = ecircumflexhookabove;
 layers = (
 {
+.lastUpdate = 773076556.284;
 layerId = m01;
 shapes = (
 {
@@ -10887,6 +11194,7 @@ unicode = 7875;
 glyphname = ecircumflextilde;
 layers = (
 {
+.lastUpdate = 773076556.242;
 layerId = m01;
 shapes = (
 {
@@ -10905,6 +11213,7 @@ unicode = 7877;
 glyphname = edieresis;
 layers = (
 {
+.lastUpdate = 773076556.265;
 layerId = m01;
 shapes = (
 {
@@ -10923,6 +11232,7 @@ unicode = 235;
 glyphname = edotaccent;
 layers = (
 {
+.lastUpdate = 773076556.25;
 layerId = m01;
 shapes = (
 {
@@ -10941,6 +11251,7 @@ unicode = 279;
 glyphname = edotbelow;
 layers = (
 {
+.lastUpdate = 773076556.258;
 layerId = m01;
 shapes = (
 {
@@ -10959,6 +11270,7 @@ unicode = 7865;
 glyphname = egrave;
 layers = (
 {
+.lastUpdate = 773084391.315;
 layerId = m01;
 shapes = (
 {
@@ -10977,6 +11289,7 @@ unicode = 232;
 glyphname = ehookabove;
 layers = (
 {
+.lastUpdate = 773076556.281;
 layerId = m01;
 shapes = (
 {
@@ -10996,6 +11309,7 @@ unicode = 7867;
 glyphname = emacron;
 layers = (
 {
+.lastUpdate = 773084391.313;
 layerId = m01;
 shapes = (
 {
@@ -11014,6 +11328,7 @@ unicode = 275;
 glyphname = eogonek;
 layers = (
 {
+.lastUpdate = 773076556.247;
 layerId = m01;
 shapes = (
 {
@@ -11034,6 +11349,7 @@ glyphname = eopen;
 lastChange = "2025-06-30 17:45:55 +0000";
 layers = (
 {
+.lastUpdate = 773076509.198;
 hints = (
 {
 name = _corner.round;
@@ -11123,6 +11439,7 @@ glyphname = eopenreversed;
 lastChange = "2025-06-30 18:47:26 +0000";
 layers = (
 {
+.lastUpdate = 773076509.214;
 layerId = m01;
 shapes = (
 {
@@ -11141,6 +11458,7 @@ glyphname = eopenreversedclosed;
 lastChange = "2025-06-30 19:07:41 +0000";
 layers = (
 {
+.lastUpdate = 773076509.186;
 hints = (
 {
 name = _corner.round;
@@ -11262,6 +11580,7 @@ glyphname = eopenreversedhook;
 lastChange = "2025-06-30 21:52:05 +0000";
 layers = (
 {
+.lastUpdate = 773076509.211;
 hints = (
 {
 name = _corner.round;
@@ -11372,6 +11691,7 @@ glyphname = ereversed;
 lastChange = "2025-06-30 18:47:40 +0000";
 layers = (
 {
+.lastUpdate = 773076509.199;
 layerId = m01;
 shapes = (
 {
@@ -11390,6 +11710,7 @@ glyphname = esh;
 lastChange = "2025-06-30 17:47:24 +0000";
 layers = (
 {
+.lastUpdate = 773076509.212;
 layerId = m01;
 shapes = (
 {
@@ -11422,6 +11743,7 @@ unicode = 643;
 glyphname = etilde;
 layers = (
 {
+.lastUpdate = 773076556.266;
 layerId = m01;
 shapes = (
 {
@@ -11442,6 +11764,7 @@ glyphname = eturned;
 lastChange = "2025-06-30 17:46:11 +0000";
 layers = (
 {
+.lastUpdate = 773076556.237;
 layerId = m01;
 shapes = (
 {
@@ -11460,6 +11783,7 @@ glyphname = schwa;
 lastChange = "2025-06-30 01:57:57 +0000";
 layers = (
 {
+.lastUpdate = 773083516.954;
 layerId = m01;
 shapes = (
 {
@@ -11478,6 +11802,7 @@ glyphname = schwahook;
 lastChange = "2025-06-30 19:09:59 +0000";
 layers = (
 {
+.lastUpdate = 773083516.954;
 anchors = (
 {
 name = bottom;
@@ -11582,6 +11907,7 @@ glyphname = ezh;
 lastChange = "2025-06-30 17:48:28 +0000";
 layers = (
 {
+.lastUpdate = 773076509.189;
 hints = (
 {
 name = _corner.round;
@@ -11650,6 +11976,7 @@ unicode = 658;
 glyphname = ezhcaron;
 layers = (
 {
+.lastUpdate = 773076556.276;
 layerId = m01;
 shapes = (
 {
@@ -11669,6 +11996,7 @@ glyphname = f;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773083434.893;
 anchors = (
 {
 name = bottom;
@@ -11727,6 +12055,7 @@ glyphname = fengdigraph;
 lastChange = "2025-06-30 20:57:53 +0000";
 layers = (
 {
+.lastUpdate = 773083434.894;
 anchors = (
 {
 name = bottom;
@@ -11818,6 +12147,7 @@ glyphname = fmiddletilde;
 lastChange = "2025-06-30 20:58:23 +0000";
 layers = (
 {
+.lastUpdate = 773083434.895;
 layerId = m01;
 shapes = (
 {
@@ -11839,6 +12169,7 @@ glyphname = g;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.801;
 anchors = (
 {
 name = bottom;
@@ -11921,6 +12252,7 @@ glyphname = "gamma-latin";
 lastChange = "2025-06-30 17:50:44 +0000";
 layers = (
 {
+.lastUpdate = 772998644.54;
 layerId = m01;
 shapes = (
 {
@@ -11958,6 +12290,7 @@ unicode = 611;
 glyphname = gbreve;
 layers = (
 {
+.lastUpdate = 773076556.255;
 layerId = m01;
 shapes = (
 {
@@ -11976,6 +12309,7 @@ unicode = 287;
 glyphname = gcaron;
 layers = (
 {
+.lastUpdate = 773084694.807;
 layerId = m01;
 shapes = (
 {
@@ -11994,6 +12328,7 @@ unicode = 487;
 glyphname = gcircumflex;
 layers = (
 {
+.lastUpdate = 773076556.247;
 layerId = m01;
 shapes = (
 {
@@ -12012,6 +12347,7 @@ unicode = 285;
 glyphname = gcommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.246;
 layerId = m01;
 shapes = (
 {
@@ -12031,6 +12367,7 @@ unicode = 291;
 glyphname = gdotaccent;
 layers = (
 {
+.lastUpdate = 773084694.806;
 layerId = m01;
 shapes = (
 {
@@ -12050,6 +12387,7 @@ glyphname = ghook;
 lastChange = "2025-06-30 17:30:22 +0000";
 layers = (
 {
+.lastUpdate = 773076509.217;
 layerId = m01;
 shapes = (
 {
@@ -12073,6 +12411,7 @@ glyphname = glottalstop;
 lastChange = "2025-06-30 17:52:18 +0000";
 layers = (
 {
+.lastUpdate = 773076509.201;
 hints = (
 {
 name = _corner.round;
@@ -12143,6 +12482,7 @@ glyphname = glottalstopreversed;
 lastChange = "2025-06-30 17:53:11 +0000";
 layers = (
 {
+.lastUpdate = 773076509.204;
 hints = (
 {
 name = _corner.round;
@@ -12215,6 +12555,7 @@ glyphname = glottalstopsmall;
 lastChange = "2025-06-30 17:53:22 +0000";
 layers = (
 {
+.lastUpdate = 773076556.241;
 hints = (
 {
 name = _corner.round;
@@ -12285,6 +12626,7 @@ glyphname = glottalstopstroke;
 lastChange = "2025-06-30 19:10:53 +0000";
 layers = (
 {
+.lastUpdate = 773076509.201;
 layerId = m01;
 shapes = (
 {
@@ -12310,6 +12652,7 @@ glyphname = glottalstopstrokereversed;
 lastChange = "2025-06-30 19:10:48 +0000";
 layers = (
 {
+.lastUpdate = 773076509.214;
 layerId = m01;
 shapes = (
 {
@@ -12334,6 +12677,7 @@ unicode = 674;
 glyphname = gmacron;
 layers = (
 {
+.lastUpdate = 773084694.801;
 layerId = m01;
 shapes = (
 {
@@ -12353,6 +12697,7 @@ glyphname = gsingle;
 lastChange = "2025-06-30 18:47:52 +0000";
 layers = (
 {
+.lastUpdate = 773076509.178;
 layerId = m01;
 shapes = (
 {
@@ -12369,6 +12714,7 @@ glyphname = gstroke;
 lastChange = "2025-06-30 18:35:59 +0000";
 layers = (
 {
+.lastUpdate = 773076556.273;
 layerId = m01;
 shapes = (
 {
@@ -12394,6 +12740,7 @@ glyphname = h;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.81;
 anchors = (
 {
 name = bottom;
@@ -12456,6 +12803,7 @@ glyphname = hbar;
 lastChange = "2025-06-30 18:50:47 +0000";
 layers = (
 {
+.lastUpdate = 773084660.414;
 layerId = m01;
 shapes = (
 {
@@ -12481,6 +12829,7 @@ glyphname = hbrevebelow;
 lastChange = "2025-07-01 17:44:25 +0000";
 layers = (
 {
+.lastUpdate = 773084710.122;
 layerId = m01;
 shapes = (
 {
@@ -12499,6 +12848,7 @@ unicode = 7723;
 glyphname = hcircumflex;
 layers = (
 {
+.lastUpdate = 773084660.421;
 layerId = m01;
 shapes = (
 {
@@ -12518,6 +12868,7 @@ unicode = 293;
 glyphname = hdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.811;
 layerId = m01;
 shapes = (
 {
@@ -12537,6 +12888,7 @@ glyphname = henghook;
 lastChange = "2025-06-30 21:15:33 +0000";
 layers = (
 {
+.lastUpdate = 773076509.213;
 layerId = m01;
 shapes = (
 {
@@ -12564,6 +12916,7 @@ glyphname = hhook;
 lastChange = "2025-06-30 21:15:07 +0000";
 layers = (
 {
+.lastUpdate = 773076509.174;
 layerId = m01;
 shapes = (
 {
@@ -12585,6 +12938,7 @@ glyphname = hturned;
 lastChange = "2025-06-30 18:48:12 +0000";
 layers = (
 {
+.lastUpdate = 773076509.206;
 layerId = m01;
 shapes = (
 {
@@ -12657,6 +13011,7 @@ glyphname = idotless;
 lastChange = "2025-06-30 01:58:10 +0000";
 layers = (
 {
+.lastUpdate = 772941490.341;
 anchors = (
 {
 name = bottom;
@@ -12694,6 +13049,7 @@ glyphname = iacute;
 lastChange = "2025-06-29 23:50:20 +0000";
 layers = (
 {
+.lastUpdate = 773084391.314;
 anchors = (
 {
 name = bottom;
@@ -12734,6 +13090,7 @@ unicode = 237;
 glyphname = icaron;
 layers = (
 {
+.lastUpdate = 773084391.31;
 layerId = m01;
 shapes = (
 {
@@ -12753,6 +13110,7 @@ glyphname = icircumflex;
 lastChange = "2025-06-29 23:50:16 +0000";
 layers = (
 {
+.lastUpdate = 773076556.245;
 layerId = m01;
 shapes = (
 {
@@ -12788,6 +13146,7 @@ glyphname = idieresis;
 lastChange = "2025-06-29 23:49:11 +0000";
 layers = (
 {
+.lastUpdate = 773076556.278;
 layerId = m01;
 shapes = (
 {
@@ -12822,6 +13181,7 @@ unicode = 239;
 glyphname = idieresisacute;
 layers = (
 {
+.lastUpdate = 773076556.268;
 layerId = m01;
 shapes = (
 {
@@ -12845,6 +13205,7 @@ glyphname = idotaccent;
 lastChange = "2025-06-30 01:58:53 +0000";
 layers = (
 {
+.lastUpdate = 773076556.25;
 layerId = m01;
 shapes = (
 {
@@ -12863,6 +13224,7 @@ width = 536;
 glyphname = idotbelow;
 layers = (
 {
+.lastUpdate = 773076556.258;
 layerId = m01;
 shapes = (
 {
@@ -12885,6 +13247,7 @@ glyphname = igrave;
 lastChange = "2025-06-29 23:50:27 +0000";
 layers = (
 {
+.lastUpdate = 773084391.312;
 layerId = m01;
 shapes = (
 {
@@ -12919,6 +13282,7 @@ unicode = 236;
 glyphname = ihookabove;
 layers = (
 {
+.lastUpdate = 773076556.269;
 layerId = m01;
 shapes = (
 {
@@ -12938,6 +13302,7 @@ glyphname = imacron;
 lastChange = "2025-06-30 01:51:57 +0000";
 layers = (
 {
+.lastUpdate = 773084694.807;
 anchors = (
 {
 name = bottom;
@@ -12979,6 +13344,7 @@ glyphname = iogonek;
 lastChange = "2025-06-30 01:53:21 +0000";
 layers = (
 {
+.lastUpdate = 773076556.275;
 layerId = m01;
 shapes = (
 {
@@ -12999,6 +13365,7 @@ glyphname = "iota-latin";
 lastChange = "2025-06-30 17:31:37 +0000";
 layers = (
 {
+.lastUpdate = 773076556.257;
 layerId = m01;
 shapes = (
 {
@@ -13023,6 +13390,7 @@ glyphname = istroke;
 lastChange = "2025-06-30 18:51:13 +0000";
 layers = (
 {
+.lastUpdate = 773076509.182;
 layerId = m01;
 shapes = (
 {
@@ -13050,6 +13418,7 @@ unicode = 616;
 glyphname = itilde;
 layers = (
 {
+.lastUpdate = 773076556.238;
 layerId = m01;
 shapes = (
 {
@@ -13069,6 +13438,7 @@ glyphname = ij;
 lastChange = "2025-06-29 23:52:13 +0000";
 layers = (
 {
+.lastUpdate = 773076556.249;
 anchors = (
 {
 name = bottom;
@@ -13167,6 +13537,7 @@ glyphname = j;
 lastChange = "2025-06-21 19:19:42 +0000";
 layers = (
 {
+.lastUpdate = 773076509.208;
 guides = (
 {
 angle = 180;
@@ -13230,6 +13601,7 @@ glyphname = jdotless;
 lastChange = "2025-06-29 23:52:29 +0000";
 layers = (
 {
+.lastUpdate = 773076509.188;
 hints = (
 {
 name = _corner.round;
@@ -13270,6 +13642,7 @@ glyphname = jacute;
 lastChange = "2025-06-29 23:53:16 +0000";
 layers = (
 {
+.lastUpdate = 773076556.242;
 layerId = m01;
 shapes = (
 {
@@ -13290,6 +13663,7 @@ width = 536;
 glyphname = jcircumflex;
 layers = (
 {
+.lastUpdate = 773076556.283;
 layerId = m01;
 shapes = (
 {
@@ -13309,6 +13683,7 @@ glyphname = jcrossedtail;
 lastChange = "2025-07-01 15:14:13 +0000";
 layers = (
 {
+.lastUpdate = 773076509.201;
 layerId = m01;
 shapes = (
 {
@@ -13358,6 +13733,7 @@ glyphname = jdotlessstroke;
 lastChange = "2025-06-30 21:33:53 +0000";
 layers = (
 {
+.lastUpdate = 773076509.188;
 layerId = m01;
 shapes = (
 {
@@ -13383,6 +13759,7 @@ glyphname = jdotlessstrokehook;
 lastChange = "2025-06-30 21:34:21 +0000";
 layers = (
 {
+.lastUpdate = 773076509.205;
 layerId = m01;
 shapes = (
 {
@@ -13462,6 +13839,7 @@ unicode = 107;
 glyphname = kcaron;
 layers = (
 {
+.lastUpdate = 773076556.238;
 layerId = m01;
 shapes = (
 {
@@ -13481,6 +13859,7 @@ unicode = 489;
 glyphname = kcommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.245;
 layerId = m01;
 shapes = (
 {
@@ -13500,6 +13879,7 @@ glyphname = khook;
 lastChange = "2025-06-30 17:32:05 +0000";
 layers = (
 {
+.lastUpdate = 773076509.214;
 layerId = m01;
 shapes = (
 {
@@ -13520,6 +13900,7 @@ unicode = 409;
 glyphname = kmacronbelow;
 layers = (
 {
+.lastUpdate = 773084694.811;
 layerId = m01;
 shapes = (
 {
@@ -13539,6 +13920,7 @@ glyphname = kturned;
 lastChange = "2025-06-30 18:48:26 +0000";
 layers = (
 {
+.lastUpdate = 773076509.182;
 layerId = m01;
 shapes = (
 {
@@ -13608,6 +13990,7 @@ unicode = 108;
 glyphname = lacute;
 layers = (
 {
+.lastUpdate = 773076556.274;
 layerId = m01;
 shapes = (
 {
@@ -13628,6 +14011,7 @@ glyphname = lbelt;
 lastChange = "2025-06-30 22:04:37 +0000";
 layers = (
 {
+.lastUpdate = 773076509.213;
 layerId = m01;
 shapes = (
 {
@@ -13649,6 +14033,7 @@ unicode = 620;
 glyphname = lcaron;
 layers = (
 {
+.lastUpdate = 773076556.239;
 layerId = m01;
 shapes = (
 {
@@ -13669,6 +14054,7 @@ glyphname = lcircumflexbelow;
 lastChange = "2025-06-30 17:41:14 +0000";
 layers = (
 {
+.lastUpdate = 773076556.253;
 layerId = m01;
 shapes = (
 {
@@ -13689,6 +14075,7 @@ unicode = 7741;
 glyphname = lcommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.284;
 layerId = m01;
 shapes = (
 {
@@ -13707,6 +14094,7 @@ unicode = 316;
 glyphname = ldotbelow;
 layers = (
 {
+.lastUpdate = 773084411.469;
 layerId = m01;
 shapes = (
 {
@@ -13726,6 +14114,7 @@ glyphname = lezh;
 lastChange = "2025-06-30 22:04:06 +0000";
 layers = (
 {
+.lastUpdate = 773076509.21;
 anchors = (
 {
 name = bottom;
@@ -13835,6 +14224,7 @@ glyphname = lhookretroflex;
 lastChange = "2025-07-01 15:15:11 +0000";
 layers = (
 {
+.lastUpdate = 773076509.216;
 layerId = m01;
 shapes = (
 {
@@ -13859,6 +14249,7 @@ glyphname = lmiddletilde;
 lastChange = "2025-06-30 21:14:45 +0000";
 layers = (
 {
+.lastUpdate = 773076509.179;
 layerId = m01;
 shapes = (
 {
@@ -13880,6 +14271,7 @@ glyphname = lsdigraph;
 lastChange = "2025-06-30 21:37:21 +0000";
 layers = (
 {
+.lastUpdate = 773076509.211;
 anchors = (
 {
 name = bottom;
@@ -13996,6 +14388,7 @@ glyphname = lslash;
 lastChange = "2025-06-30 01:52:28 +0000";
 layers = (
 {
+.lastUpdate = 773076556.272;
 layerId = m01;
 shapes = (
 {
@@ -14021,6 +14414,7 @@ glyphname = lzdigraph;
 lastChange = "2025-06-30 21:09:33 +0000";
 layers = (
 {
+.lastUpdate = 773010573.972;
 anchors = (
 {
 name = bottom;
@@ -14090,6 +14484,7 @@ glyphname = m;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773076509.203;
 anchors = (
 {
 name = bottom;
@@ -14197,6 +14592,7 @@ unicode = 109;
 glyphname = macute;
 layers = (
 {
+.lastUpdate = 773076556.237;
 layerId = m01;
 shapes = (
 {
@@ -14216,6 +14612,7 @@ glyphname = mhook;
 lastChange = "2025-06-30 21:10:18 +0000";
 layers = (
 {
+.lastUpdate = 773076509.207;
 layerId = m01;
 shapes = (
 {
@@ -14238,6 +14635,7 @@ glyphname = mlonglegturned;
 lastChange = "2025-06-30 21:10:55 +0000";
 layers = (
 {
+.lastUpdate = 773076509.203;
 layerId = m01;
 shapes = (
 {
@@ -14265,6 +14663,7 @@ glyphname = mmiddletilde;
 lastChange = "2025-06-30 21:17:31 +0000";
 layers = (
 {
+.lastUpdate = 773076509.185;
 anchors = (
 {
 name = bottom;
@@ -14392,6 +14791,7 @@ glyphname = mturned;
 lastChange = "2025-06-30 18:48:39 +0000";
 layers = (
 {
+.lastUpdate = 773076509.208;
 layerId = m01;
 shapes = (
 {
@@ -14410,6 +14810,7 @@ glyphname = n;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084510.166;
 anchors = (
 {
 name = bottom;
@@ -14461,6 +14862,7 @@ unicode = 110;
 glyphname = nacute;
 layers = (
 {
+.lastUpdate = 773083756.026;
 layerId = m01;
 shapes = (
 {
@@ -14479,6 +14881,7 @@ unicode = 324;
 glyphname = ncaron;
 layers = (
 {
+.lastUpdate = 773083756.027;
 layerId = m01;
 shapes = (
 {
@@ -14498,6 +14901,7 @@ glyphname = ncircumflexbelow;
 lastChange = "2025-06-30 17:41:19 +0000";
 layers = (
 {
+.lastUpdate = 773083756.027;
 layerId = m01;
 shapes = (
 {
@@ -14518,6 +14922,7 @@ unicode = 7755;
 glyphname = ncommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.246;
 layerId = m01;
 shapes = (
 {
@@ -14536,6 +14941,7 @@ unicode = 326;
 glyphname = ndotaccent;
 layers = (
 {
+.lastUpdate = 773084411.476;
 layerId = m01;
 shapes = (
 {
@@ -14554,6 +14960,7 @@ unicode = 7749;
 glyphname = ndotbelow;
 layers = (
 {
+.lastUpdate = 773084411.48;
 layerId = m01;
 shapes = (
 {
@@ -14573,6 +14980,7 @@ glyphname = nhookleft;
 lastChange = "2025-06-30 17:32:52 +0000";
 layers = (
 {
+.lastUpdate = 773076509.178;
 layerId = m01;
 shapes = (
 {
@@ -14597,6 +15005,7 @@ glyphname = nhookretroflex;
 lastChange = "2025-06-30 21:03:11 +0000";
 layers = (
 {
+.lastUpdate = 773076509.21;
 layerId = m01;
 shapes = (
 {
@@ -14621,6 +15030,7 @@ glyphname = nmiddletilde;
 lastChange = "2025-06-30 21:14:21 +0000";
 layers = (
 {
+.lastUpdate = 773076509.181;
 anchors = (
 {
 name = bottom;
@@ -14691,6 +15101,7 @@ unicode = 7536;
 glyphname = ntilde;
 layers = (
 {
+.lastUpdate = 773084510.166;
 layerId = m01;
 shapes = (
 {
@@ -14711,6 +15122,7 @@ glyphname = eng;
 lastChange = "2025-06-30 17:33:32 +0000";
 layers = (
 {
+.lastUpdate = 773076509.182;
 layerId = m01;
 shapes = (
 {
@@ -14734,6 +15146,7 @@ glyphname = o;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084391.308;
 anchors = (
 {
 name = bottom;
@@ -14842,6 +15255,7 @@ unicode = 111;
 glyphname = oacute;
 layers = (
 {
+.lastUpdate = 773084391.323;
 layerId = m01;
 shapes = (
 {
@@ -14861,6 +15275,7 @@ glyphname = obarred;
 lastChange = "2025-06-30 18:51:54 +0000";
 layers = (
 {
+.lastUpdate = 773083548.007;
 layerId = m01;
 shapes = (
 {
@@ -14886,6 +15301,7 @@ unicode = 629;
 glyphname = ocaron;
 layers = (
 {
+.lastUpdate = 773084391.308;
 layerId = m01;
 shapes = (
 {
@@ -14904,6 +15320,7 @@ unicode = 466;
 glyphname = ocircumflex;
 layers = (
 {
+.lastUpdate = 773084411.479;
 layerId = m01;
 shapes = (
 {
@@ -14922,6 +15339,7 @@ unicode = 244;
 glyphname = ocircumflexacute;
 layers = (
 {
+.lastUpdate = 773076556.248;
 layerId = m01;
 shapes = (
 {
@@ -14941,6 +15359,7 @@ unicode = 7889;
 glyphname = ocircumflexdotbelow;
 layers = (
 {
+.lastUpdate = 773076556.267;
 layerId = m01;
 shapes = (
 {
@@ -14962,6 +15381,7 @@ unicode = 7897;
 glyphname = ocircumflexgrave;
 layers = (
 {
+.lastUpdate = 773076556.273;
 layerId = m01;
 shapes = (
 {
@@ -14981,6 +15401,7 @@ unicode = 7891;
 glyphname = ocircumflexhookabove;
 layers = (
 {
+.lastUpdate = 773076556.256;
 layerId = m01;
 shapes = (
 {
@@ -14999,6 +15420,7 @@ unicode = 7893;
 glyphname = ocircumflextilde;
 layers = (
 {
+.lastUpdate = 773076556.273;
 layerId = m01;
 shapes = (
 {
@@ -15017,6 +15439,7 @@ unicode = 7895;
 glyphname = odieresis;
 layers = (
 {
+.lastUpdate = 773076556.25;
 layerId = m01;
 shapes = (
 {
@@ -15035,6 +15458,7 @@ unicode = 246;
 glyphname = odieresismacron;
 layers = (
 {
+.lastUpdate = 773076556.277;
 layerId = m01;
 shapes = (
 {
@@ -15057,6 +15481,7 @@ unicode = 555;
 glyphname = odotbelow;
 layers = (
 {
+.lastUpdate = 773076556.255;
 layerId = m01;
 shapes = (
 {
@@ -15075,6 +15500,7 @@ unicode = 7885;
 glyphname = ograve;
 layers = (
 {
+.lastUpdate = 773084391.317;
 layerId = m01;
 shapes = (
 {
@@ -15093,6 +15519,7 @@ unicode = 242;
 glyphname = ohookabove;
 layers = (
 {
+.lastUpdate = 773076556.251;
 layerId = m01;
 shapes = (
 {
@@ -15113,6 +15540,7 @@ glyphname = ohorn;
 lastChange = "2025-06-30 18:30:38 +0000";
 layers = (
 {
+.lastUpdate = 773076556.281;
 layerId = m01;
 shapes = (
 {
@@ -15133,6 +15561,7 @@ glyphname = ohornacute;
 lastChange = "2025-06-30 18:31:10 +0000";
 layers = (
 {
+.lastUpdate = 773076556.278;
 layerId = m01;
 shapes = (
 {
@@ -15156,6 +15585,7 @@ glyphname = ohorndotbelow;
 lastChange = "2025-06-30 18:31:28 +0000";
 layers = (
 {
+.lastUpdate = 773076556.271;
 layerId = m01;
 shapes = (
 {
@@ -15179,6 +15609,7 @@ glyphname = ohorngrave;
 lastChange = "2025-06-30 18:31:41 +0000";
 layers = (
 {
+.lastUpdate = 773076556.281;
 layerId = m01;
 shapes = (
 {
@@ -15202,6 +15633,7 @@ glyphname = ohornhookabove;
 lastChange = "2025-06-30 18:31:53 +0000";
 layers = (
 {
+.lastUpdate = 773076556.269;
 layerId = m01;
 shapes = (
 {
@@ -15226,6 +15658,7 @@ glyphname = ohorntilde;
 lastChange = "2025-06-30 18:32:07 +0000";
 layers = (
 {
+.lastUpdate = 773076556.28;
 layerId = m01;
 shapes = (
 {
@@ -15249,6 +15682,7 @@ unicode = 7905;
 glyphname = ohungarumlaut;
 layers = (
 {
+.lastUpdate = 773076556.253;
 layerId = m01;
 shapes = (
 {
@@ -15267,6 +15701,7 @@ unicode = 337;
 glyphname = omacron;
 layers = (
 {
+.lastUpdate = 773084391.323;
 layerId = m01;
 shapes = (
 {
@@ -15285,6 +15720,7 @@ unicode = 333;
 glyphname = omacronacute;
 layers = (
 {
+.lastUpdate = 773076556.239;
 layerId = m01;
 shapes = (
 {
@@ -15303,6 +15739,7 @@ unicode = 7763;
 glyphname = omacrongrave;
 layers = (
 {
+.lastUpdate = 773076556.283;
 layerId = m01;
 shapes = (
 {
@@ -15322,6 +15759,7 @@ glyphname = oopen;
 lastChange = "2025-06-30 02:04:45 +0000";
 layers = (
 {
+.lastUpdate = 773076509.188;
 anchors = (
 {
 name = bottom;
@@ -15399,6 +15837,7 @@ glyphname = oslash;
 lastChange = "2025-06-29 23:53:55 +0000";
 layers = (
 {
+.lastUpdate = 773076509.18;
 layerId = m01;
 shapes = (
 {
@@ -15424,6 +15863,7 @@ unicode = 248;
 glyphname = oslashacute;
 layers = (
 {
+.lastUpdate = 773076556.257;
 layerId = m01;
 shapes = (
 {
@@ -15443,6 +15883,7 @@ unicode = 511;
 glyphname = otilde;
 layers = (
 {
+.lastUpdate = 773076556.274;
 layerId = m01;
 shapes = (
 {
@@ -15462,6 +15903,7 @@ unicode = 245;
 glyphname = otildeacute;
 layers = (
 {
+.lastUpdate = 773076556.238;
 layerId = m01;
 shapes = (
 {
@@ -15486,6 +15928,7 @@ glyphname = oe;
 lastChange = "2025-06-29 23:55:36 +0000";
 layers = (
 {
+.lastUpdate = 773076509.2;
 anchors = (
 {
 name = bottom;
@@ -15664,6 +16107,7 @@ glyphname = p;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773076509.196;
 anchors = (
 {
 name = bottom;
@@ -15731,6 +16175,7 @@ glyphname = "phi-latin";
 lastChange = "2025-07-01 15:20:16 +0000";
 layers = (
 {
+.lastUpdate = 773076509.187;
 anchors = (
 {
 name = bottom;
@@ -15849,6 +16294,7 @@ glyphname = phook;
 lastChange = "2025-06-30 17:33:54 +0000";
 layers = (
 {
+.lastUpdate = 773076509.196;
 layerId = m01;
 shapes = (
 {
@@ -15870,6 +16316,7 @@ glyphname = thorn;
 lastChange = "2025-06-29 23:57:04 +0000";
 layers = (
 {
+.lastUpdate = 773083360.138;
 anchors = (
 {
 name = bottom;
@@ -15943,6 +16390,7 @@ glyphname = pmiddletilde;
 lastChange = "2025-06-30 21:05:01 +0000";
 layers = (
 {
+.lastUpdate = 773076509.213;
 hints = (
 {
 name = _corner.round;
@@ -16021,6 +16469,7 @@ glyphname = q;
 lastChange = "2025-06-30 17:34:58 +0000";
 layers = (
 {
+.lastUpdate = 773076509.184;
 anchors = (
 {
 name = bottom;
@@ -16088,6 +16537,7 @@ glyphname = qhook;
 lastChange = "2025-06-30 19:02:10 +0000";
 layers = (
 {
+.lastUpdate = 773076509.184;
 layerId = m01;
 shapes = (
 {
@@ -16111,6 +16561,7 @@ glyphname = qhooktail;
 lastChange = "2025-06-30 17:35:40 +0000";
 layers = (
 {
+.lastUpdate = 773076556.279;
 anchors = (
 {
 name = bottom;
@@ -16184,6 +16635,7 @@ glyphname = r;
 lastChange = "2025-06-30 17:36:35 +0000";
 layers = (
 {
+.lastUpdate = 773084699.127;
 anchors = (
 {
 name = bottom;
@@ -16235,6 +16687,7 @@ unicode = 114;
 glyphname = racute;
 layers = (
 {
+.lastUpdate = 773084699.127;
 layerId = m01;
 shapes = (
 {
@@ -16254,6 +16707,7 @@ glyphname = ramshorn;
 lastChange = "2025-06-30 21:08:16 +0000";
 layers = (
 {
+.lastUpdate = 773010496.608;
 layerId = m01;
 shapes = (
 {
@@ -16303,6 +16757,7 @@ unicode = 612;
 glyphname = rcaron;
 layers = (
 {
+.lastUpdate = 773084699.127;
 layerId = m01;
 shapes = (
 {
@@ -16321,6 +16776,7 @@ unicode = 345;
 glyphname = rcommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.24;
 layerId = m01;
 shapes = (
 {
@@ -16340,6 +16796,7 @@ glyphname = rfishhook;
 lastChange = "2025-06-30 17:44:39 +0000";
 layers = (
 {
+.lastUpdate = 773076509.2;
 anchors = (
 {
 name = bottom;
@@ -16389,6 +16846,7 @@ glyphname = rfishhookmiddletilde;
 lastChange = "2025-06-30 21:12:14 +0000";
 layers = (
 {
+.lastUpdate = 773076509.197;
 anchors = (
 {
 name = bottom;
@@ -16457,6 +16915,7 @@ glyphname = rhookturned;
 lastChange = "2025-07-01 15:27:59 +0000";
 layers = (
 {
+.lastUpdate = 773076509.205;
 layerId = m01;
 shapes = (
 {
@@ -16482,6 +16941,7 @@ glyphname = rlonglegturned;
 lastChange = "2025-07-01 15:28:27 +0000";
 layers = (
 {
+.lastUpdate = 773076508.467;
 anchors = (
 {
 name = bottom;
@@ -16534,6 +16994,7 @@ glyphname = rmiddletilde;
 lastChange = "2025-06-30 21:03:59 +0000";
 layers = (
 {
+.lastUpdate = 773076509.205;
 anchors = (
 {
 name = bottom;
@@ -16591,6 +17052,7 @@ glyphname = rtail;
 lastChange = "2025-06-30 17:36:46 +0000";
 layers = (
 {
+.lastUpdate = 773076509.204;
 layerId = m01;
 shapes = (
 {
@@ -16614,6 +17076,7 @@ glyphname = rturned;
 lastChange = "2025-06-30 18:48:54 +0000";
 layers = (
 {
+.lastUpdate = 773076509.206;
 layerId = m01;
 shapes = (
 {
@@ -16632,6 +17095,7 @@ glyphname = s;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.8;
 anchors = (
 {
 name = bottom;
@@ -16727,6 +17191,7 @@ unicode = 115;
 glyphname = sacute;
 layers = (
 {
+.lastUpdate = 773084411.475;
 layerId = m01;
 shapes = (
 {
@@ -16745,6 +17210,7 @@ unicode = 347;
 glyphname = scaron;
 layers = (
 {
+.lastUpdate = 773084694.804;
 layerId = m01;
 shapes = (
 {
@@ -16763,6 +17229,7 @@ unicode = 353;
 glyphname = scedilla;
 layers = (
 {
+.lastUpdate = 773076556.283;
 layerId = m01;
 shapes = (
 {
@@ -16782,6 +17249,7 @@ unicode = 351;
 glyphname = scircumflex;
 layers = (
 {
+.lastUpdate = 773076556.276;
 layerId = m01;
 shapes = (
 {
@@ -16800,6 +17268,7 @@ unicode = 349;
 glyphname = scommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.272;
 layerId = m01;
 shapes = (
 {
@@ -16818,6 +17287,7 @@ unicode = 537;
 glyphname = sdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.8;
 layerId = m01;
 shapes = (
 {
@@ -16837,6 +17307,7 @@ glyphname = germandbls;
 lastChange = "2025-06-30 01:47:11 +0000";
 layers = (
 {
+.lastUpdate = 773076556.236;
 anchors = (
 {
 name = bottom;
@@ -16962,6 +17433,7 @@ glyphname = shook;
 lastChange = "2025-06-30 21:49:01 +0000";
 layers = (
 {
+.lastUpdate = 773076509.213;
 layerId = m01;
 shapes = (
 {
@@ -16984,6 +17456,7 @@ glyphname = smiddletilde;
 lastChange = "2025-06-30 22:17:45 +0000";
 layers = (
 {
+.lastUpdate = 773076509.217;
 anchors = (
 {
 name = bottom;
@@ -17105,6 +17578,7 @@ glyphname = t;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.802;
 anchors = (
 {
 name = bottom;
@@ -17170,6 +17644,7 @@ unicode = 116;
 glyphname = tbar;
 layers = (
 {
+.lastUpdate = 773083360.138;
 layerId = m01;
 shapes = (
 {
@@ -17189,6 +17664,7 @@ unicode = 359;
 glyphname = tcaron;
 layers = (
 {
+.lastUpdate = 773083360.138;
 layerId = m01;
 shapes = (
 {
@@ -17209,6 +17685,7 @@ glyphname = tccurl;
 lastChange = "2025-06-30 22:06:58 +0000";
 layers = (
 {
+.lastUpdate = 773076509.182;
 anchors = (
 {
 name = bottom;
@@ -17329,6 +17806,7 @@ unicode = 680;
 glyphname = tcedilla;
 layers = (
 {
+.lastUpdate = 773076556.275;
 layerId = m01;
 shapes = (
 {
@@ -17349,6 +17827,7 @@ glyphname = tcircumflexbelow;
 lastChange = "2025-06-30 17:41:24 +0000";
 layers = (
 {
+.lastUpdate = 773076556.244;
 layerId = m01;
 shapes = (
 {
@@ -17369,6 +17848,7 @@ unicode = 7793;
 glyphname = tcommaaccent;
 layers = (
 {
+.lastUpdate = 773076556.281;
 layerId = m01;
 shapes = (
 {
@@ -17387,6 +17867,7 @@ unicode = 539;
 glyphname = tdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.802;
 layerId = m01;
 shapes = (
 {
@@ -17406,6 +17887,7 @@ glyphname = tesh;
 lastChange = "2025-07-01 15:17:55 +0000";
 layers = (
 {
+.lastUpdate = 773076509.181;
 anchors = (
 {
 name = bottom;
@@ -17492,6 +17974,7 @@ glyphname = thook;
 lastChange = "2025-06-30 17:37:15 +0000";
 layers = (
 {
+.lastUpdate = 773083360.261;
 layerId = m01;
 shapes = (
 {
@@ -17513,6 +17996,7 @@ unicode = 429;
 glyphname = tmacronbelow;
 layers = (
 {
+.lastUpdate = 773084694.812;
 layerId = m01;
 shapes = (
 {
@@ -17532,6 +18016,7 @@ glyphname = tmiddletilde;
 lastChange = "2025-06-30 18:59:24 +0000";
 layers = (
 {
+.lastUpdate = 773076509.203;
 layerId = m01;
 shapes = (
 {
@@ -17553,6 +18038,7 @@ glyphname = tretroflexhook;
 lastChange = "2025-06-30 17:38:00 +0000";
 layers = (
 {
+.lastUpdate = 773076509.209;
 layerId = m01;
 shapes = (
 {
@@ -17577,6 +18063,7 @@ glyphname = ts;
 lastChange = "2025-06-30 19:01:24 +0000";
 layers = (
 {
+.lastUpdate = 773076509.175;
 anchors = (
 {
 name = bottom;
@@ -17774,6 +18261,7 @@ glyphname = u;
 lastChange = "2025-06-28 15:19:24 +0000";
 layers = (
 {
+.lastUpdate = 773084694.802;
 anchors = (
 {
 name = bottom;
@@ -17837,6 +18325,7 @@ unicode = 117;
 glyphname = uacute;
 layers = (
 {
+.lastUpdate = 773084391.314;
 layerId = m01;
 shapes = (
 {
@@ -17856,6 +18345,7 @@ glyphname = ubar;
 lastChange = "2025-06-30 17:51:21 +0000";
 layers = (
 {
+.lastUpdate = 773076509.198;
 layerId = m01;
 shapes = (
 {
@@ -17881,6 +18371,7 @@ unicode = 649;
 glyphname = ubreve;
 layers = (
 {
+.lastUpdate = 773084411.471;
 layerId = m01;
 shapes = (
 {
@@ -17899,6 +18390,7 @@ unicode = 365;
 glyphname = ucaron;
 layers = (
 {
+.lastUpdate = 773084419.325;
 layerId = m01;
 shapes = (
 {
@@ -17917,6 +18409,7 @@ unicode = 468;
 glyphname = ucircumflex;
 layers = (
 {
+.lastUpdate = 773076045.109;
 layerId = m01;
 shapes = (
 {
@@ -17935,6 +18428,7 @@ unicode = 251;
 glyphname = udieresis;
 layers = (
 {
+.lastUpdate = 773084391.324;
 layerId = m01;
 shapes = (
 {
@@ -17953,6 +18447,7 @@ unicode = 252;
 glyphname = udieresisacute;
 layers = (
 {
+.lastUpdate = 773084419.325;
 layerId = m01;
 shapes = (
 {
@@ -17975,6 +18470,7 @@ unicode = 472;
 glyphname = udieresiscaron;
 layers = (
 {
+.lastUpdate = 773084419.325;
 layerId = m01;
 shapes = (
 {
@@ -17997,6 +18493,7 @@ unicode = 474;
 glyphname = udieresisgrave;
 layers = (
 {
+.lastUpdate = 773084419.326;
 layerId = m01;
 shapes = (
 {
@@ -18019,6 +18516,7 @@ unicode = 476;
 glyphname = udieresismacron;
 layers = (
 {
+.lastUpdate = 773084419.326;
 layerId = m01;
 shapes = (
 {
@@ -18041,6 +18539,7 @@ unicode = 470;
 glyphname = udotbelow;
 layers = (
 {
+.lastUpdate = 773076045.1;
 layerId = m01;
 shapes = (
 {
@@ -18059,6 +18558,7 @@ unicode = 7909;
 glyphname = ugrave;
 layers = (
 {
+.lastUpdate = 773084391.308;
 layerId = m01;
 shapes = (
 {
@@ -18077,6 +18577,7 @@ unicode = 249;
 glyphname = uhookabove;
 layers = (
 {
+.lastUpdate = 773076045.104;
 layerId = m01;
 shapes = (
 {
@@ -18097,6 +18598,7 @@ glyphname = uhorn;
 lastChange = "2025-06-30 20:55:08 +0000";
 layers = (
 {
+.lastUpdate = 773076045.108;
 hints = (
 {
 name = _corner.round;
@@ -18144,6 +18646,7 @@ glyphname = uhornacute;
 lastChange = "2025-06-30 18:32:58 +0000";
 layers = (
 {
+.lastUpdate = 773076045.108;
 anchors = (
 {
 name = bottom;
@@ -18208,6 +18711,7 @@ glyphname = uhorndotbelow;
 lastChange = "2025-06-30 18:34:08 +0000";
 layers = (
 {
+.lastUpdate = 773076045.1;
 hints = (
 {
 name = _corner.round;
@@ -18258,6 +18762,7 @@ glyphname = uhorngrave;
 lastChange = "2025-06-30 18:34:04 +0000";
 layers = (
 {
+.lastUpdate = 773076045.106;
 hints = (
 {
 name = _corner.round;
@@ -18308,6 +18813,7 @@ glyphname = uhornhookabove;
 lastChange = "2025-06-30 18:33:59 +0000";
 layers = (
 {
+.lastUpdate = 773076045.106;
 hints = (
 {
 name = _corner.round;
@@ -18358,6 +18864,7 @@ glyphname = uhorntilde;
 lastChange = "2025-06-30 18:34:23 +0000";
 layers = (
 {
+.lastUpdate = 773076045.109;
 hints = (
 {
 name = _corner.round;
@@ -18407,6 +18914,7 @@ unicode = 7919;
 glyphname = uhungarumlaut;
 layers = (
 {
+.lastUpdate = 773076045.106;
 layerId = m01;
 shapes = (
 {
@@ -18425,6 +18933,7 @@ unicode = 369;
 glyphname = umacron;
 layers = (
 {
+.lastUpdate = 773084694.802;
 layerId = m01;
 shapes = (
 {
@@ -18443,6 +18952,7 @@ unicode = 363;
 glyphname = uogonek;
 layers = (
 {
+.lastUpdate = 773076045.104;
 layerId = m01;
 shapes = (
 {
@@ -18463,6 +18973,7 @@ glyphname = "upsilon-latin";
 lastChange = "2025-06-30 17:42:01 +0000";
 layers = (
 {
+.lastUpdate = 773076509.199;
 hints = (
 {
 name = _corner.round;
@@ -18593,6 +19104,7 @@ unicode = 650;
 glyphname = uring;
 layers = (
 {
+.lastUpdate = 773076045.107;
 layerId = m01;
 shapes = (
 {
@@ -18611,6 +19123,7 @@ unicode = 367;
 glyphname = utilde;
 layers = (
 {
+.lastUpdate = 773076045.107;
 layerId = m01;
 shapes = (
 {
@@ -18667,6 +19180,7 @@ glyphname = vhook;
 lastChange = "2025-06-30 17:38:48 +0000";
 layers = (
 {
+.lastUpdate = 773076509.211;
 anchors = (
 {
 name = bottom;
@@ -18709,6 +19223,7 @@ glyphname = vturned;
 lastChange = "2025-06-30 17:41:41 +0000";
 layers = (
 {
+.lastUpdate = 773076509.196;
 layerId = m01;
 shapes = (
 {
@@ -18727,6 +19242,7 @@ glyphname = w;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773082014.332;
 anchors = (
 {
 name = bottom;
@@ -18838,6 +19354,7 @@ unicode = 119;
 glyphname = wacute;
 layers = (
 {
+.lastUpdate = 773076045.739;
 layerId = m01;
 shapes = (
 {
@@ -18856,6 +19373,7 @@ unicode = 7811;
 glyphname = wcircumflex;
 layers = (
 {
+.lastUpdate = 773076045.737;
 layerId = m01;
 shapes = (
 {
@@ -18874,6 +19392,7 @@ unicode = 373;
 glyphname = wdieresis;
 layers = (
 {
+.lastUpdate = 773076045.737;
 layerId = m01;
 shapes = (
 {
@@ -18892,6 +19411,7 @@ unicode = 7813;
 glyphname = wgrave;
 layers = (
 {
+.lastUpdate = 773076045.734;
 layerId = m01;
 shapes = (
 {
@@ -18911,6 +19431,7 @@ glyphname = whook;
 lastChange = "2025-06-30 17:39:38 +0000";
 layers = (
 {
+.lastUpdate = 773076045.736;
 anchors = (
 {
 name = bottom;
@@ -19028,6 +19549,7 @@ glyphname = wturned;
 lastChange = "2025-06-30 18:49:04 +0000";
 layers = (
 {
+.lastUpdate = 773076509.185;
 layerId = m01;
 shapes = (
 {
@@ -19096,6 +19618,7 @@ glyphname = y;
 lastChange = "2025-06-27 14:03:34 +0000";
 layers = (
 {
+.lastUpdate = 773084694.81;
 anchors = (
 {
 name = bottom;
@@ -19168,6 +19691,7 @@ unicode = 121;
 glyphname = yacute;
 layers = (
 {
+.lastUpdate = 773076045.739;
 layerId = m01;
 shapes = (
 {
@@ -19186,6 +19710,7 @@ unicode = 253;
 glyphname = ycircumflex;
 layers = (
 {
+.lastUpdate = 773084694.81;
 layerId = m01;
 shapes = (
 {
@@ -19204,6 +19729,7 @@ unicode = 375;
 glyphname = ydieresis;
 layers = (
 {
+.lastUpdate = 773076045.737;
 layerId = m01;
 shapes = (
 {
@@ -19222,6 +19748,7 @@ unicode = 255;
 glyphname = ydotbelow;
 layers = (
 {
+.lastUpdate = 773076045.737;
 layerId = m01;
 shapes = (
 {
@@ -19240,6 +19767,7 @@ unicode = 7925;
 glyphname = ygrave;
 layers = (
 {
+.lastUpdate = 773084408.148;
 layerId = m01;
 shapes = (
 {
@@ -19259,6 +19787,7 @@ glyphname = yhook;
 lastChange = "2025-06-30 17:40:12 +0000";
 layers = (
 {
+.lastUpdate = 773076045.737;
 layerId = m01;
 shapes = (
 {
@@ -19281,6 +19810,7 @@ unicode = 436;
 glyphname = yhookabove;
 layers = (
 {
+.lastUpdate = 773076045.737;
 layerId = m01;
 shapes = (
 {
@@ -19300,6 +19830,7 @@ unicode = 7927;
 glyphname = ytilde;
 layers = (
 {
+.lastUpdate = 773076045.735;
 layerId = m01;
 shapes = (
 {
@@ -19320,6 +19851,7 @@ glyphname = yturned;
 lastChange = "2025-06-30 18:49:12 +0000";
 layers = (
 {
+.lastUpdate = 773076509.188;
 layerId = m01;
 shapes = (
 {
@@ -19381,6 +19913,7 @@ unicode = 122;
 glyphname = zacute;
 layers = (
 {
+.lastUpdate = 773076045.802;
 layerId = m01;
 shapes = (
 {
@@ -19399,6 +19932,7 @@ unicode = 378;
 glyphname = zcaron;
 layers = (
 {
+.lastUpdate = 773084408.15;
 layerId = m01;
 shapes = (
 {
@@ -19418,6 +19952,7 @@ glyphname = zcurl;
 lastChange = "2025-06-30 21:55:41 +0000";
 layers = (
 {
+.lastUpdate = 773076509.216;
 anchors = (
 {
 name = bottom;
@@ -19464,6 +19999,7 @@ unicode = 657;
 glyphname = zdotaccent;
 layers = (
 {
+.lastUpdate = 773084411.479;
 layerId = m01;
 shapes = (
 {
@@ -19482,6 +20018,7 @@ unicode = 380;
 glyphname = zdotbelow;
 layers = (
 {
+.lastUpdate = 773084694.799;
 layerId = m01;
 shapes = (
 {
@@ -19501,6 +20038,7 @@ glyphname = zmiddletilde;
 lastChange = "2025-06-30 21:11:41 +0000";
 layers = (
 {
+.lastUpdate = 773076509.179;
 anchors = (
 {
 name = top;
@@ -19542,6 +20080,7 @@ glyphname = zretroflexhook;
 lastChange = "2025-06-30 18:58:54 +0000";
 layers = (
 {
+.lastUpdate = 773076509.201;
 layerId = m01;
 shapes = (
 {
@@ -19566,6 +20105,7 @@ glyphname = saltillo;
 lastChange = "2025-06-30 02:00:31 +0000";
 layers = (
 {
+.lastUpdate = 772941631.827;
 layerId = m01;
 shapes = (
 {
@@ -19587,6 +20127,7 @@ unicode = 42892;
 glyphname = lcommaaccent.loclMAH;
 layers = (
 {
+.lastUpdate = 773076045.804;
 layerId = m01;
 shapes = (
 {
@@ -19604,6 +20145,7 @@ width = 536;
 glyphname = ncommaaccent.loclMAH;
 layers = (
 {
+.lastUpdate = 773076045.803;
 layerId = m01;
 shapes = (
 {
@@ -19621,6 +20163,7 @@ width = 536;
 glyphname = f_i_v_e_s_i_x_t_h_s_comma;
 layers = (
 {
+.lastUpdate = 773083434.895;
 layerId = m01;
 shapes = (
 {
@@ -19676,6 +20219,7 @@ metricRight = s;
 glyphname = f_o_u_r_f_i_f_t_h_s_comma;
 layers = (
 {
+.lastUpdate = 773082014.34;
 layerId = m01;
 shapes = (
 {
@@ -19732,6 +20276,7 @@ glyphname = fi;
 lastChange = "2025-06-28 20:11:25 +0000";
 layers = (
 {
+.lastUpdate = 773083515.145;
 anchors = (
 {
 name = bottom;
@@ -19831,6 +20376,7 @@ glyphname = fl;
 lastChange = "2025-06-28 20:09:28 +0000";
 layers = (
 {
+.lastUpdate = 773076557.53;
 anchors = (
 {
 name = bottom;
@@ -19918,6 +20464,7 @@ unicode = 64258;
 glyphname = o_n_e_f_i_f_t_h_comma;
 layers = (
 {
+.lastUpdate = 773082014.33;
 layerId = m01;
 shapes = (
 {
@@ -19965,6 +20512,7 @@ metricRight = h;
 glyphname = o_n_e_n_i_n_t_h_comma;
 layers = (
 {
+.lastUpdate = 773082014.356;
 layerId = m01;
 shapes = (
 {
@@ -20012,6 +20560,7 @@ metricRight = h;
 glyphname = o_n_e_s_e_v_e_n_t_h_comma;
 layers = (
 {
+.lastUpdate = 773082014.354;
 layerId = m01;
 shapes = (
 {
@@ -20067,6 +20616,7 @@ metricRight = h;
 glyphname = o_n_e_s_i_x_t_h_comma;
 layers = (
 {
+.lastUpdate = 773082014.342;
 layerId = m01;
 shapes = (
 {
@@ -20114,6 +20664,7 @@ metricRight = h;
 glyphname = t_h_r_e_e_f_i_f_t_h_s_comma;
 layers = (
 {
+.lastUpdate = 773082014.337;
 layerId = m01;
 shapes = (
 {
@@ -20173,6 +20724,7 @@ metricRight = s;
 glyphname = t_w_o_f_i_f_t_h_s_comma;
 layers = (
 {
+.lastUpdate = 773082014.333;
 layerId = m01;
 shapes = (
 {
@@ -20225,6 +20777,7 @@ glyphname = ordfeminine;
 lastChange = "2025-06-27 15:01:09 +0000";
 layers = (
 {
+.lastUpdate = 773084266.532;
 anchors = (
 {
 name = bottom;
@@ -20320,6 +20873,7 @@ glyphname = ordmasculine;
 lastChange = "2025-06-27 15:02:04 +0000";
 layers = (
 {
+.lastUpdate = 773084266.53;
 anchors = (
 {
 name = bottom;
@@ -20433,6 +20987,7 @@ glyphname = clickalveolar;
 lastChange = "2025-06-30 22:14:56 +0000";
 layers = (
 {
+.lastUpdate = 773076509.187;
 layerId = m01;
 shapes = (
 {
@@ -20469,6 +21024,7 @@ glyphname = clickdental;
 lastChange = "2025-06-30 22:13:34 +0000";
 layers = (
 {
+.lastUpdate = 773076509.202;
 layerId = m01;
 shapes = (
 {
@@ -20487,6 +21043,7 @@ glyphname = clicklateral;
 lastChange = "2025-06-30 22:13:57 +0000";
 layers = (
 {
+.lastUpdate = 773076509.181;
 layerId = m01;
 shapes = (
 {
@@ -20510,6 +21067,7 @@ glyphname = clickretroflex;
 lastChange = "2025-06-30 18:57:58 +0000";
 layers = (
 {
+.lastUpdate = 773076509.217;
 layerId = m01;
 shapes = (
 {
@@ -20525,6 +21083,7 @@ unicode = 451;
 glyphname = hmod;
 layers = (
 {
+.lastUpdate = 773076509.185;
 layerId = m01;
 shapes = (
 {
@@ -20540,6 +21099,7 @@ unicode = 688;
 glyphname = jmod;
 layers = (
 {
+.lastUpdate = 773076509.208;
 layerId = m01;
 shapes = (
 {
@@ -20555,6 +21115,7 @@ unicode = 690;
 glyphname = lmod;
 layers = (
 {
+.lastUpdate = 773076509.198;
 layerId = m01;
 shapes = (
 {
@@ -20570,6 +21131,7 @@ unicode = 737;
 glyphname = nmod;
 layers = (
 {
+.lastUpdate = 773076509.174;
 layerId = m01;
 shapes = (
 {
@@ -20585,6 +21147,7 @@ unicode = 8319;
 glyphname = wmod;
 layers = (
 {
+.lastUpdate = 773076509.186;
 layerId = m01;
 shapes = (
 {
@@ -20601,6 +21164,7 @@ glyphname = Omega;
 lastChange = "2025-06-30 17:07:33 +0000";
 layers = (
 {
+.lastUpdate = 773084231.916;
 anchors = (
 {
 name = bottom;
@@ -20749,6 +21313,7 @@ glyphname = beta;
 lastChange = "2025-06-30 22:09:19 +0000";
 layers = (
 {
+.lastUpdate = 773076509.206;
 hints = (
 {
 name = _corner.round;
@@ -20856,6 +21421,7 @@ glyphname = theta;
 lastChange = "2025-06-30 22:13:01 +0000";
 layers = (
 {
+.lastUpdate = 773014381.413;
 layerId = m01;
 shapes = (
 {
@@ -20898,6 +21464,7 @@ glyphname = pi;
 lastChange = "2025-06-27 16:56:03 +0000";
 layers = (
 {
+.lastUpdate = 773076045.92;
 hints = (
 {
 name = _corner.round;
@@ -20953,6 +21520,7 @@ glyphname = raiseddownarrowmod;
 lastChange = "2025-06-30 21:32:21 +0000";
 layers = (
 {
+.lastUpdate = 773076509.197;
 hints = (
 {
 name = _corner.round;
@@ -20988,6 +21556,7 @@ glyphname = raiseduparrowmod;
 lastChange = "2025-06-30 21:32:02 +0000";
 layers = (
 {
+.lastUpdate = 773076509.19;
 hints = (
 {
 name = _corner.round;
@@ -21023,6 +21592,7 @@ glyphname = zero;
 lastChange = "2025-06-28 20:15:00 +0000";
 layers = (
 {
+.lastUpdate = 773084310.045;
 hints = (
 {
 name = _corner.round;
@@ -21105,6 +21675,7 @@ glyphname = one;
 lastChange = "2025-06-28 20:15:13 +0000";
 layers = (
 {
+.lastUpdate = 772834513.273;
 layerId = m01;
 shapes = (
 {
@@ -21145,6 +21716,7 @@ glyphname = two;
 lastChange = "2025-06-28 20:15:17 +0000";
 layers = (
 {
+.lastUpdate = 773084310.047;
 hints = (
 {
 name = _corner.round;
@@ -21217,6 +21789,7 @@ glyphname = three;
 lastChange = "2025-06-28 20:15:21 +0000";
 layers = (
 {
+.lastUpdate = 773084310.051;
 hints = (
 {
 name = _corner.round;
@@ -21312,6 +21885,7 @@ glyphname = four;
 lastChange = "2025-06-28 20:15:26 +0000";
 layers = (
 {
+.lastUpdate = 772834526.105;
 guides = (
 {
 pos = (122,253);
@@ -21352,6 +21926,7 @@ glyphname = five;
 lastChange = "2025-06-28 20:15:31 +0000";
 layers = (
 {
+.lastUpdate = 773084310.048;
 hints = (
 {
 name = _corner.round;
@@ -21413,6 +21988,7 @@ glyphname = six;
 lastChange = "2025-06-28 20:15:36 +0000";
 layers = (
 {
+.lastUpdate = 773084310.044;
 hints = (
 {
 name = _corner.round;
@@ -21492,6 +22068,7 @@ glyphname = seven;
 lastChange = "2025-06-28 20:15:39 +0000";
 layers = (
 {
+.lastUpdate = 772834539.571;
 layerId = m01;
 shapes = (
 {
@@ -21523,6 +22100,7 @@ glyphname = eight;
 lastChange = "2025-06-28 20:15:43 +0000";
 layers = (
 {
+.lastUpdate = 773084310.049;
 hints = (
 {
 name = _corner.round;
@@ -21682,6 +22260,7 @@ glyphname = nine;
 lastChange = "2025-06-28 20:15:48 +0000";
 layers = (
 {
+.lastUpdate = 773084310.046;
 hints = (
 {
 name = _corner.round;
@@ -21767,6 +22346,7 @@ glyphname = zero.osf;
 lastChange = "2025-07-01 15:32:19 +0000";
 layers = (
 {
+.lastUpdate = 773077627.377;
 hints = (
 {
 name = _corner.round;
@@ -21841,6 +22421,7 @@ glyphname = one.osf;
 lastChange = "2025-07-01 15:32:35 +0000";
 layers = (
 {
+.lastUpdate = 773076755.969;
 layerId = m01;
 shapes = (
 {
@@ -21880,6 +22461,7 @@ glyphname = two.osf;
 lastChange = "2025-07-01 15:33:02 +0000";
 layers = (
 {
+.lastUpdate = 773082085.363;
 hints = (
 {
 name = _corner.round;
@@ -21951,6 +22533,7 @@ glyphname = three.osf;
 lastChange = "2025-07-01 15:33:27 +0000";
 layers = (
 {
+.lastUpdate = 773083434.8;
 hints = (
 {
 name = _corner.round;
@@ -22045,6 +22628,7 @@ glyphname = four.osf;
 lastChange = "2025-07-01 15:34:24 +0000";
 layers = (
 {
+.lastUpdate = 773076864.351;
 layerId = m01;
 shapes = (
 {
@@ -22079,6 +22663,7 @@ glyphname = five.osf;
 lastChange = "2025-07-01 15:34:56 +0000";
 layers = (
 {
+.lastUpdate = 773083515.147;
 hints = (
 {
 name = _corner.round;
@@ -22139,6 +22724,7 @@ glyphname = six.osf;
 lastChange = "2025-07-01 15:35:27 +0000";
 layers = (
 {
+.lastUpdate = 773083517.042;
 hints = (
 {
 name = _corner.round;
@@ -22217,6 +22803,7 @@ glyphname = seven.osf;
 lastChange = "2025-07-01 15:35:50 +0000";
 layers = (
 {
+.lastUpdate = 773076950.393;
 layerId = m01;
 shapes = (
 {
@@ -22247,6 +22834,7 @@ glyphname = eight.osf;
 lastChange = "2025-07-01 15:36:12 +0000";
 layers = (
 {
+.lastUpdate = 773081353.331;
 hints = (
 {
 name = _corner.round;
@@ -22405,6 +22993,7 @@ glyphname = nine.osf;
 lastChange = "2025-07-01 15:36:37 +0000";
 layers = (
 {
+.lastUpdate = 773083756.182;
 hints = (
 {
 name = _corner.round;
@@ -22489,6 +23078,7 @@ glyphname = zero.tf;
 lastChange = "2025-07-01 15:46:27 +0000";
 layers = (
 {
+.lastUpdate = 773084310.045;
 layerId = m01;
 shapes = (
 {
@@ -22504,6 +23094,7 @@ glyphname = one.tf;
 lastChange = "2025-07-01 15:46:30 +0000";
 layers = (
 {
+.lastUpdate = 773084310.052;
 layerId = m01;
 shapes = (
 {
@@ -22519,6 +23110,7 @@ glyphname = two.tf;
 lastChange = "2025-07-01 15:46:34 +0000";
 layers = (
 {
+.lastUpdate = 773084310.047;
 layerId = m01;
 shapes = (
 {
@@ -22534,6 +23126,7 @@ glyphname = three.tf;
 lastChange = "2025-07-01 15:46:37 +0000";
 layers = (
 {
+.lastUpdate = 773084310.051;
 layerId = m01;
 shapes = (
 {
@@ -22549,6 +23142,7 @@ glyphname = four.tf;
 lastChange = "2025-07-01 15:46:41 +0000";
 layers = (
 {
+.lastUpdate = 773084310.043;
 layerId = m01;
 shapes = (
 {
@@ -22564,6 +23158,7 @@ glyphname = five.tf;
 lastChange = "2025-07-01 15:46:44 +0000";
 layers = (
 {
+.lastUpdate = 773084310.048;
 layerId = m01;
 shapes = (
 {
@@ -22579,6 +23174,7 @@ glyphname = six.tf;
 lastChange = "2025-07-01 15:46:48 +0000";
 layers = (
 {
+.lastUpdate = 773084310.044;
 layerId = m01;
 shapes = (
 {
@@ -22594,6 +23190,7 @@ glyphname = seven.tf;
 lastChange = "2025-07-01 15:46:53 +0000";
 layers = (
 {
+.lastUpdate = 773084310.051;
 layerId = m01;
 shapes = (
 {
@@ -22609,6 +23206,7 @@ glyphname = eight.tf;
 lastChange = "2025-07-01 15:46:56 +0000";
 layers = (
 {
+.lastUpdate = 773084310.049;
 layerId = m01;
 shapes = (
 {
@@ -22624,6 +23222,7 @@ glyphname = nine.tf;
 lastChange = "2025-07-01 15:47:02 +0000";
 layers = (
 {
+.lastUpdate = 773084310.046;
 layerId = m01;
 shapes = (
 {
@@ -22639,6 +23238,7 @@ glyphname = zero.dnom;
 lastChange = "2025-07-01 16:24:10 +0000";
 layers = (
 {
+.lastUpdate = 773084297.208;
 hints = (
 {
 name = _corner.round;
@@ -22720,6 +23320,7 @@ glyphname = one.dnom;
 lastChange = "2025-07-01 16:23:44 +0000";
 layers = (
 {
+.lastUpdate = 773079824.219;
 layerId = m01;
 shapes = (
 {
@@ -22759,6 +23360,7 @@ glyphname = two.dnom;
 lastChange = "2025-07-01 16:23:19 +0000";
 layers = (
 {
+.lastUpdate = 773084297.214;
 hints = (
 {
 name = _corner.round;
@@ -22832,6 +23434,7 @@ glyphname = three.dnom;
 lastChange = "2025-07-01 16:23:12 +0000";
 layers = (
 {
+.lastUpdate = 773084297.216;
 hints = (
 {
 name = _corner.round;
@@ -22930,6 +23533,7 @@ glyphname = four.dnom;
 lastChange = "2025-07-01 16:26:59 +0000";
 layers = (
 {
+.lastUpdate = 773080019.111;
 layerId = m01;
 shapes = (
 {
@@ -22964,6 +23568,7 @@ glyphname = five.dnom;
 lastChange = "2025-07-01 16:29:00 +0000";
 layers = (
 {
+.lastUpdate = 773084297.206;
 hints = (
 {
 name = _corner.round;
@@ -23026,6 +23631,7 @@ glyphname = six.dnom;
 lastChange = "2025-07-01 16:31:02 +0000";
 layers = (
 {
+.lastUpdate = 773084297.211;
 hints = (
 {
 name = _corner.round;
@@ -23107,6 +23713,7 @@ glyphname = seven.dnom;
 lastChange = "2025-07-01 16:31:50 +0000";
 layers = (
 {
+.lastUpdate = 773080310.337;
 layerId = m01;
 shapes = (
 {
@@ -23137,6 +23744,7 @@ glyphname = eight.dnom;
 lastChange = "2025-07-01 16:36:11 +0000";
 layers = (
 {
+.lastUpdate = 773084297.213;
 hints = (
 {
 name = _corner.round;
@@ -23303,6 +23911,7 @@ glyphname = nine.dnom;
 lastChange = "2025-07-01 16:37:51 +0000";
 layers = (
 {
+.lastUpdate = 773084297.212;
 hints = (
 {
 name = _corner.round;
@@ -23391,6 +24000,7 @@ glyphname = zero.numr;
 lastChange = "2025-07-01 16:39:51 +0000";
 layers = (
 {
+.lastUpdate = 773084297.205;
 hints = (
 {
 name = _corner.round;
@@ -23472,6 +24082,7 @@ glyphname = one.numr;
 lastChange = "2025-07-01 16:40:07 +0000";
 layers = (
 {
+.lastUpdate = 773080807.008;
 layerId = m01;
 shapes = (
 {
@@ -23511,6 +24122,7 @@ glyphname = two.numr;
 lastChange = "2025-07-01 16:40:27 +0000";
 layers = (
 {
+.lastUpdate = 773084297.212;
 hints = (
 {
 name = _corner.round;
@@ -23584,6 +24196,7 @@ glyphname = three.numr;
 lastChange = "2025-07-01 16:41:05 +0000";
 layers = (
 {
+.lastUpdate = 773084297.209;
 hints = (
 {
 name = _corner.round;
@@ -23682,6 +24295,7 @@ glyphname = four.numr;
 lastChange = "2025-07-01 16:41:27 +0000";
 layers = (
 {
+.lastUpdate = 773080887.201;
 layerId = m01;
 shapes = (
 {
@@ -23716,6 +24330,7 @@ glyphname = five.numr;
 lastChange = "2025-07-01 16:41:46 +0000";
 layers = (
 {
+.lastUpdate = 773084297.216;
 hints = (
 {
 name = _corner.round;
@@ -23778,6 +24393,7 @@ glyphname = six.numr;
 lastChange = "2025-07-01 16:42:07 +0000";
 layers = (
 {
+.lastUpdate = 773084297.207;
 hints = (
 {
 name = _corner.round;
@@ -23859,6 +24475,7 @@ glyphname = seven.numr;
 lastChange = "2025-07-01 16:42:27 +0000";
 layers = (
 {
+.lastUpdate = 773080947.794;
 layerId = m01;
 shapes = (
 {
@@ -23889,6 +24506,7 @@ glyphname = eight.numr;
 lastChange = "2025-07-01 16:44:03 +0000";
 layers = (
 {
+.lastUpdate = 773084297.204;
 hints = (
 {
 name = _corner.round;
@@ -24055,6 +24673,7 @@ glyphname = nine.numr;
 lastChange = "2025-07-01 16:44:25 +0000";
 layers = (
 {
+.lastUpdate = 773084297.215;
 hints = (
 {
 name = _corner.round;
@@ -24143,6 +24762,7 @@ glyphname = fraction;
 lastChange = "2025-07-01 16:45:29 +0000";
 layers = (
 {
+.lastUpdate = 773081129.256;
 layerId = m01;
 shapes = (
 {
@@ -24165,6 +24785,7 @@ glyphname = onefraction;
 lastChange = "2025-07-01 16:56:31 +0000";
 layers = (
 {
+.lastUpdate = 773083397.396;
 layerId = m01;
 shapes = (
 {
@@ -24188,6 +24809,7 @@ glyphname = onehalf;
 lastChange = "2025-07-01 16:48:02 +0000";
 layers = (
 {
+.lastUpdate = 773083397.396;
 layerId = m01;
 shapes = (
 {
@@ -24215,6 +24837,7 @@ glyphname = onethird;
 lastChange = "2025-07-01 16:57:50 +0000";
 layers = (
 {
+.lastUpdate = 773083397.399;
 layerId = m01;
 shapes = (
 {
@@ -24242,6 +24865,7 @@ glyphname = twothirds;
 lastChange = "2025-07-01 16:58:47 +0000";
 layers = (
 {
+.lastUpdate = 773083397.4;
 layerId = m01;
 shapes = (
 {
@@ -24268,6 +24892,7 @@ glyphname = onequarter;
 lastChange = "2025-07-01 16:47:45 +0000";
 layers = (
 {
+.lastUpdate = 773083397.402;
 layerId = m01;
 shapes = (
 {
@@ -24296,6 +24921,7 @@ glyphname = threequarters;
 lastChange = "2025-07-01 16:48:39 +0000";
 layers = (
 {
+.lastUpdate = 773083397.402;
 layerId = m01;
 shapes = (
 {
@@ -24324,6 +24950,7 @@ glyphname = onefifth;
 lastChange = "2025-07-01 17:01:47 +0000";
 layers = (
 {
+.lastUpdate = 773083397.401;
 layerId = m01;
 shapes = (
 {
@@ -24351,6 +24978,7 @@ glyphname = twofifths;
 lastChange = "2025-07-01 17:02:49 +0000";
 layers = (
 {
+.lastUpdate = 773083397.4;
 layerId = m01;
 shapes = (
 {
@@ -24377,6 +25005,7 @@ glyphname = threefifths;
 lastChange = "2025-07-01 17:22:47 +0000";
 layers = (
 {
+.lastUpdate = 773083388.122;
 layerId = m01;
 shapes = (
 {
@@ -24403,6 +25032,7 @@ glyphname = fourfifths;
 lastChange = "2025-07-01 17:24:05 +0000";
 layers = (
 {
+.lastUpdate = 773083783.641;
 layerId = m01;
 shapes = (
 {
@@ -24429,6 +25059,7 @@ glyphname = onesixth;
 lastChange = "2025-07-01 17:26:05 +0000";
 layers = (
 {
+.lastUpdate = 773083783.642;
 layerId = m01;
 shapes = (
 {
@@ -24456,6 +25087,7 @@ glyphname = fivesixths;
 lastChange = "2025-07-01 17:27:25 +0000";
 layers = (
 {
+.lastUpdate = 773083783.643;
 layerId = m01;
 shapes = (
 {
@@ -24483,6 +25115,7 @@ glyphname = oneseventh;
 lastChange = "2025-07-01 17:28:26 +0000";
 layers = (
 {
+.lastUpdate = 773083783.643;
 layerId = m01;
 shapes = (
 {
@@ -24509,6 +25142,7 @@ glyphname = oneeighth;
 lastChange = "2025-07-01 16:51:09 +0000";
 layers = (
 {
+.lastUpdate = 773083397.4;
 layerId = m01;
 shapes = (
 {
@@ -24536,6 +25170,7 @@ glyphname = threeeighths;
 lastChange = "2025-07-01 16:50:43 +0000";
 layers = (
 {
+.lastUpdate = 773083397.4;
 layerId = m01;
 shapes = (
 {
@@ -24563,6 +25198,7 @@ glyphname = fiveeighths;
 lastChange = "2025-07-01 16:51:22 +0000";
 layers = (
 {
+.lastUpdate = 773083397.402;
 layerId = m01;
 shapes = (
 {
@@ -24589,6 +25225,7 @@ glyphname = seveneighths;
 lastChange = "2025-07-01 16:52:06 +0000";
 layers = (
 {
+.lastUpdate = 773083397.402;
 layerId = m01;
 shapes = (
 {
@@ -24615,6 +25252,7 @@ glyphname = oneninth;
 lastChange = "2025-07-01 17:29:31 +0000";
 layers = (
 {
+.lastUpdate = 773083783.642;
 layerId = m01;
 shapes = (
 {
@@ -24683,6 +25321,7 @@ glyphname = twosuperior;
 lastChange = "2025-06-27 17:05:02 +0000";
 layers = (
 {
+.lastUpdate = 773084297.217;
 hints = (
 {
 name = _corner.round;
@@ -24760,6 +25399,7 @@ glyphname = threesuperior;
 lastChange = "2025-06-27 17:04:57 +0000";
 layers = (
 {
+.lastUpdate = 773084297.209;
 hints = (
 {
 name = _corner.round;
@@ -24941,6 +25581,7 @@ glyphname = colon;
 lastChange = "2025-06-22 16:09:37 +0000";
 layers = (
 {
+.lastUpdate = 773076046.235;
 layerId = m01;
 shapes = (
 {
@@ -24961,6 +25602,7 @@ glyphname = semicolon;
 lastChange = "2025-06-22 16:09:55 +0000";
 layers = (
 {
+.lastUpdate = 773076046.236;
 guides = (
 {
 pos = (26,442);
@@ -24998,6 +25640,7 @@ unicode = 59;
 glyphname = ellipsis;
 layers = (
 {
+.lastUpdate = 773076046.235;
 layerId = m01;
 shapes = (
 {
@@ -25020,6 +25663,7 @@ glyphname = exclam;
 lastChange = "2025-06-30 18:57:54 +0000";
 layers = (
 {
+.lastUpdate = 773076509.209;
 layerId = m01;
 shapes = (
 {
@@ -25046,6 +25690,7 @@ glyphname = exclamdown;
 lastChange = "2025-05-30 16:03:14 +0000";
 layers = (
 {
+.lastUpdate = 773076509.209;
 layerId = m01;
 shapes = (
 {
@@ -25064,6 +25709,7 @@ glyphname = question;
 lastChange = "2025-06-28 19:54:58 +0000";
 layers = (
 {
+.lastUpdate = 773076046.233;
 hints = (
 {
 name = _corner.round;
@@ -25138,6 +25784,7 @@ glyphname = questiondown;
 lastChange = "2025-05-30 17:04:11 +0000";
 layers = (
 {
+.lastUpdate = 773076046.233;
 layerId = m01;
 shapes = (
 {
@@ -25156,6 +25803,7 @@ glyphname = periodcentered;
 lastChange = "2025-05-30 17:04:26 +0000";
 layers = (
 {
+.lastUpdate = 773076046.233;
 layerId = m01;
 shapes = (
 {
@@ -25243,6 +25891,7 @@ glyphname = dblverticalbar;
 lastChange = "2025-06-27 16:46:57 +0000";
 layers = (
 {
+.lastUpdate = 773076509.183;
 layerId = m01;
 shapes = (
 {
@@ -25335,6 +25984,7 @@ glyphname = backslash;
 lastChange = "2025-05-29 19:36:59 +0000";
 layers = (
 {
+.lastUpdate = 773076046.237;
 layerId = m01;
 shapes = (
 {
@@ -25353,6 +26003,7 @@ glyphname = undertie;
 lastChange = "2025-06-27 16:47:50 +0000";
 layers = (
 {
+.lastUpdate = 773076509.209;
 layerId = m01;
 shapes = (
 {
@@ -25458,6 +26109,7 @@ unicode = 95;
 glyphname = parenleftinferior;
 layers = (
 {
+.lastUpdate = 773076509.18;
 layerId = m01;
 shapes = (
 {
@@ -25473,6 +26125,7 @@ unicode = 8333;
 glyphname = parenrightinferior;
 layers = (
 {
+.lastUpdate = 773076509.215;
 layerId = m01;
 shapes = (
 {
@@ -25528,6 +26181,7 @@ glyphname = parenright;
 lastChange = "2025-05-29 19:27:45 +0000";
 layers = (
 {
+.lastUpdate = 773076509.215;
 layerId = m01;
 shapes = (
 {
@@ -25546,6 +26200,7 @@ glyphname = braceleft;
 lastChange = "2025-05-31 22:48:40 +0000";
 layers = (
 {
+.lastUpdate = 773084663.718;
 hints = (
 {
 name = _corner.round;
@@ -25660,6 +26315,7 @@ glyphname = braceright;
 lastChange = "2025-05-29 19:32:31 +0000";
 layers = (
 {
+.lastUpdate = 773084663.719;
 layerId = m01;
 shapes = (
 {
@@ -25678,6 +26334,7 @@ glyphname = bracketleft;
 lastChange = "2025-06-28 19:51:27 +0000";
 layers = (
 {
+.lastUpdate = 772833054.142;
 layerId = m01;
 shapes = (
 {
@@ -25706,6 +26363,7 @@ glyphname = bracketright;
 lastChange = "2025-05-29 19:12:28 +0000";
 layers = (
 {
+.lastUpdate = 773084663.719;
 layerId = m01;
 shapes = (
 {
@@ -25724,6 +26382,7 @@ glyphname = quotesinglbase;
 lastChange = "2025-05-30 16:22:54 +0000";
 layers = (
 {
+.lastUpdate = 773076047.068;
 layerId = m01;
 shapes = (
 {
@@ -25739,6 +26398,7 @@ unicode = 8218;
 glyphname = quotedblbase;
 layers = (
 {
+.lastUpdate = 773076047.069;
 layerId = m01;
 shapes = (
 {
@@ -25758,6 +26418,7 @@ glyphname = quotedblleft;
 lastChange = "2025-05-30 16:25:08 +0000";
 layers = (
 {
+.lastUpdate = 773076047.07;
 layerId = m01;
 shapes = (
 {
@@ -25776,6 +26437,7 @@ glyphname = quotedblright;
 lastChange = "2025-05-30 16:24:54 +0000";
 layers = (
 {
+.lastUpdate = 773076047.066;
 layerId = m01;
 shapes = (
 {
@@ -25797,6 +26459,7 @@ glyphname = quoteleft;
 lastChange = "2025-05-30 16:23:39 +0000";
 layers = (
 {
+.lastUpdate = 773076556.246;
 layerId = m01;
 shapes = (
 {
@@ -25815,6 +26478,7 @@ glyphname = quoteright;
 lastChange = "2025-05-30 16:23:22 +0000";
 layers = (
 {
+.lastUpdate = 773084694.811;
 layerId = m01;
 shapes = (
 {
@@ -25832,6 +26496,7 @@ glyphname = guillemetleft;
 lastChange = "2025-05-30 16:59:22 +0000";
 layers = (
 {
+.lastUpdate = 773076047.067;
 layerId = m01;
 shapes = (
 {
@@ -25853,6 +26518,7 @@ glyphname = guillemetright;
 lastChange = "2025-05-30 16:59:31 +0000";
 layers = (
 {
+.lastUpdate = 773076047.067;
 layerId = m01;
 shapes = (
 {
@@ -25871,6 +26537,7 @@ glyphname = guilsinglleft;
 lastChange = "2025-06-28 15:57:22 +0000";
 layers = (
 {
+.lastUpdate = 773076047.066;
 hints = (
 {
 name = _corner.round;
@@ -25903,6 +26570,7 @@ glyphname = guilsinglright;
 lastChange = "2025-05-30 16:58:51 +0000";
 layers = (
 {
+.lastUpdate = 773076047.07;
 layerId = m01;
 shapes = (
 {
@@ -25921,6 +26589,7 @@ glyphname = quotedbl;
 lastChange = "2025-05-30 16:26:00 +0000";
 layers = (
 {
+.lastUpdate = 773076047.069;
 layerId = m01;
 shapes = (
 {
@@ -25937,6 +26606,7 @@ glyphname = quotesingle;
 lastChange = "2025-05-30 16:25:36 +0000";
 layers = (
 {
+.lastUpdate = 773076047.152;
 layerId = m01;
 shapes = (
 {
@@ -25987,6 +26657,7 @@ glyphname = florin;
 lastChange = "2025-06-30 17:57:26 +0000";
 layers = (
 {
+.lastUpdate = 773076047.716;
 hints = (
 {
 name = _corner.round;
@@ -26068,6 +26739,7 @@ glyphname = baht;
 lastChange = "2025-06-28 21:10:38 +0000";
 layers = (
 {
+.lastUpdate = 773076047.718;
 layerId = m01;
 shapes = (
 {
@@ -26151,6 +26823,7 @@ glyphname = tonebarextralowmod;
 lastChange = "2025-06-27 20:45:02 +0000";
 layers = (
 {
+.lastUpdate = 773076511.954;
 layerId = m01;
 shapes = (
 {
@@ -26352,6 +27025,7 @@ glyphname = at;
 lastChange = "2025-05-31 19:57:44 +0000";
 layers = (
 {
+.lastUpdate = 773076048.219;
 hints = (
 {
 name = _corner.round;
@@ -26506,6 +27180,7 @@ glyphname = ampersand;
 lastChange = "2025-05-31 19:01:27 +0000";
 layers = (
 {
+.lastUpdate = 773076048.219;
 hints = (
 {
 name = _corner.round;
@@ -26618,6 +27293,7 @@ glyphname = paragraph;
 lastChange = "2025-05-31 23:10:38 +0000";
 layers = (
 {
+.lastUpdate = 773076048.218;
 hints = (
 {
 name = _corner.round;
@@ -26667,6 +27343,7 @@ glyphname = section;
 lastChange = "2025-06-27 21:14:07 +0000";
 layers = (
 {
+.lastUpdate = 773076048.222;
 anchors = (
 {
 name = bottom;
@@ -26846,6 +27523,7 @@ glyphname = copyright;
 lastChange = "2025-05-31 20:30:40 +0000";
 layers = (
 {
+.lastUpdate = 773076048.221;
 hints = (
 {
 name = _corner.round;
@@ -27002,6 +27680,7 @@ glyphname = registered;
 lastChange = "2025-06-22 16:12:28 +0000";
 layers = (
 {
+.lastUpdate = 773076048.217;
 hints = (
 {
 name = _corner.round;
@@ -27346,6 +28025,7 @@ glyphname = cent;
 lastChange = "2025-05-31 19:41:32 +0000";
 layers = (
 {
+.lastUpdate = 773076048.254;
 hints = (
 {
 name = _corner.round;
@@ -27493,6 +28173,7 @@ glyphname = dollar;
 lastChange = "2025-05-31 19:41:40 +0000";
 layers = (
 {
+.lastUpdate = 773076048.254;
 layerId = m01;
 shapes = (
 {
@@ -27518,6 +28199,7 @@ glyphname = euro;
 lastChange = "2025-06-27 20:31:39 +0000";
 layers = (
 {
+.lastUpdate = 773076048.25;
 layerId = m01;
 shapes = (
 {
@@ -27553,6 +28235,7 @@ glyphname = hryvnia;
 lastChange = "2025-06-28 15:44:07 +0000";
 layers = (
 {
+.lastUpdate = 773076048.25;
 hints = (
 {
 name = _corner.round;
@@ -27722,6 +28405,7 @@ glyphname = ruble;
 lastChange = "2025-06-22 16:13:54 +0000";
 layers = (
 {
+.lastUpdate = 773076048.252;
 layerId = m01;
 shapes = (
 {
@@ -27757,6 +28441,7 @@ glyphname = rupeeIndian;
 lastChange = "2025-06-01 02:04:22 +0000";
 layers = (
 {
+.lastUpdate = 773076048.255;
 hints = (
 {
 name = _corner.round;
@@ -27841,6 +28526,7 @@ glyphname = sheqel;
 lastChange = "2025-06-27 20:44:07 +0000";
 layers = (
 {
+.lastUpdate = 773076048.254;
 hints = (
 {
 name = _corner.round;
@@ -27910,6 +28596,7 @@ glyphname = sterling;
 lastChange = "2025-06-27 21:23:17 +0000";
 layers = (
 {
+.lastUpdate = 773076048.253;
 hints = (
 {
 name = _corner.round;
@@ -27994,6 +28681,7 @@ glyphname = won;
 lastChange = "2025-05-31 20:03:49 +0000";
 layers = (
 {
+.lastUpdate = 773076048.253;
 layerId = m01;
 shapes = (
 {
@@ -28019,6 +28707,7 @@ glyphname = yen;
 lastChange = "2025-05-31 19:42:28 +0000";
 layers = (
 {
+.lastUpdate = 773076048.249;
 layerId = m01;
 shapes = (
 {
@@ -28106,6 +28795,7 @@ glyphname = multiply;
 lastChange = "2025-06-28 16:28:48 +0000";
 layers = (
 {
+.lastUpdate = 772820928.768;
 layerId = m01;
 shapes = (
 {
@@ -28224,6 +28914,7 @@ glyphname = notequal;
 lastChange = "2025-05-31 19:43:58 +0000";
 layers = (
 {
+.lastUpdate = 773076048.351;
 layerId = m01;
 shapes = (
 {
@@ -28249,6 +28940,7 @@ glyphname = greater;
 lastChange = "2025-05-29 19:42:16 +0000";
 layers = (
 {
+.lastUpdate = 773076048.352;
 layerId = m01;
 shapes = (
 {
@@ -28267,6 +28959,7 @@ glyphname = less;
 lastChange = "2025-06-28 16:25:54 +0000";
 layers = (
 {
+.lastUpdate = 773076048.355;
 hints = (
 {
 name = _corner.round;
@@ -28300,6 +28993,7 @@ glyphname = greaterequal;
 lastChange = "2025-06-01 01:26:14 +0000";
 layers = (
 {
+.lastUpdate = 773076048.357;
 layerId = m01;
 shapes = (
 {
@@ -28318,6 +29012,7 @@ glyphname = lessequal;
 lastChange = "2025-06-28 16:26:56 +0000";
 layers = (
 {
+.lastUpdate = 773076048.352;
 hints = (
 {
 name = _corner.round;
@@ -28361,6 +29056,7 @@ glyphname = plusminus;
 lastChange = "2025-06-01 01:26:06 +0000";
 layers = (
 {
+.lastUpdate = 773076048.356;
 layerId = m01;
 shapes = (
 {
@@ -28396,6 +29092,7 @@ glyphname = approxequal;
 lastChange = "2025-05-31 23:38:47 +0000";
 layers = (
 {
+.lastUpdate = 773076048.35;
 layerId = m01;
 shapes = (
 {
@@ -28450,6 +29147,7 @@ glyphname = logicalnot;
 lastChange = "2025-06-28 16:33:35 +0000";
 layers = (
 {
+.lastUpdate = 773076048.351;
 hints = (
 {
 name = _corner.round;
@@ -28481,6 +29179,7 @@ glyphname = asciicircum;
 lastChange = "2025-06-28 16:30:41 +0000";
 layers = (
 {
+.lastUpdate = 773076048.351;
 hints = (
 {
 name = _corner.round;
@@ -28626,6 +29325,7 @@ glyphname = increment;
 lastChange = "2025-06-28 16:27:36 +0000";
 layers = (
 {
+.lastUpdate = 773076048.35;
 hints = (
 {
 name = _corner.round;
@@ -28707,6 +29407,7 @@ glyphname = summation;
 lastChange = "2025-06-28 16:33:04 +0000";
 layers = (
 {
+.lastUpdate = 773076048.351;
 hints = (
 {
 name = _corner.round;
@@ -28751,6 +29452,7 @@ glyphname = radical;
 lastChange = "2025-06-28 16:33:15 +0000";
 layers = (
 {
+.lastUpdate = 773076048.751;
 hints = (
 {
 name = _corner.round;
@@ -28827,6 +29529,7 @@ glyphname = micro;
 lastChange = "2025-06-28 15:23:01 +0000";
 layers = (
 {
+.lastUpdate = 773076048.75;
 anchors = (
 {
 name = bottom;
@@ -28911,6 +29614,7 @@ glyphname = percent;
 lastChange = "2025-05-31 19:56:12 +0000";
 layers = (
 {
+.lastUpdate = 773076048.752;
 hints = (
 {
 name = _corner.round;
@@ -29087,6 +29791,7 @@ glyphname = perthousand;
 lastChange = "2025-06-28 15:31:48 +0000";
 layers = (
 {
+.lastUpdate = 773076048.753;
 hints = (
 {
 name = _corner.round;
@@ -29363,6 +30068,7 @@ glyphname = upArrow;
 lastChange = "2025-05-31 23:42:08 +0000";
 layers = (
 {
+.lastUpdate = 773076048.834;
 hints = (
 {
 name = _corner.round;
@@ -29398,6 +30104,7 @@ glyphname = northEastArrow;
 lastChange = "2025-05-31 23:19:37 +0000";
 layers = (
 {
+.lastUpdate = 773076048.835;
 hints = (
 {
 name = _corner.round;
@@ -29433,6 +30140,7 @@ glyphname = rightArrow;
 lastChange = "2025-05-31 23:16:26 +0000";
 layers = (
 {
+.lastUpdate = 773084699.255;
 hints = (
 {
 name = _corner.round;
@@ -29468,6 +30176,7 @@ glyphname = southEastArrow;
 lastChange = "2025-05-31 23:20:00 +0000";
 layers = (
 {
+.lastUpdate = 773076048.836;
 layerId = m01;
 shapes = (
 {
@@ -29486,6 +30195,7 @@ glyphname = downArrow;
 lastChange = "2025-05-31 23:15:21 +0000";
 layers = (
 {
+.lastUpdate = 773076048.834;
 layerId = m01;
 shapes = (
 {
@@ -29504,6 +30214,7 @@ glyphname = southWestArrow;
 lastChange = "2025-05-31 23:20:25 +0000";
 layers = (
 {
+.lastUpdate = 773076048.836;
 layerId = m01;
 shapes = (
 {
@@ -29522,6 +30233,7 @@ glyphname = leftArrow;
 lastChange = "2025-05-31 23:16:38 +0000";
 layers = (
 {
+.lastUpdate = 773076048.833;
 layerId = m01;
 shapes = (
 {
@@ -29540,6 +30252,7 @@ glyphname = northWestArrow;
 lastChange = "2025-05-31 23:20:35 +0000";
 layers = (
 {
+.lastUpdate = 773076048.835;
 layerId = m01;
 shapes = (
 {
@@ -29558,6 +30271,7 @@ glyphname = leftRightArrow;
 lastChange = "2025-05-31 23:18:39 +0000";
 layers = (
 {
+.lastUpdate = 773076048.835;
 hints = (
 {
 name = _corner.round;
@@ -29604,6 +30318,7 @@ glyphname = upDownArrow;
 lastChange = "2025-05-31 23:21:13 +0000";
 layers = (
 {
+.lastUpdate = 773076048.835;
 hints = (
 {
 name = _corner.round;
@@ -29935,6 +30650,7 @@ glyphname = lozenge;
 lastChange = "2025-06-01 01:51:33 +0000";
 layers = (
 {
+.lastUpdate = 773076048.9;
 hints = (
 {
 name = _corner.round;
@@ -30115,6 +30831,7 @@ glyphname = gravecomb_macroncomb;
 lastChange = "2025-06-29 23:18:26 +0000";
 layers = (
 {
+.lastUpdate = 773076050.1;
 anchors = (
 {
 name = _top;
@@ -30146,6 +30863,7 @@ glyphname = acutecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084699.127;
 anchors = (
 {
 name = _top;
@@ -30174,6 +30892,7 @@ glyphname = acutecomb_macroncomb;
 lastChange = "2025-06-29 23:18:39 +0000";
 layers = (
 {
+.lastUpdate = 773076050.1;
 anchors = (
 {
 name = _top;
@@ -30290,6 +31009,7 @@ glyphname = circumflexcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084694.804;
 anchors = (
 {
 name = _top;
@@ -30333,6 +31053,7 @@ glyphname = caroncomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084694.8;
 anchors = (
 {
 name = _top;
@@ -30376,6 +31097,7 @@ glyphname = brevecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084694.805;
 anchors = (
 {
 name = _top;
@@ -30446,6 +31168,7 @@ glyphname = tildecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084510.156;
 anchors = (
 {
 name = _top;
@@ -30472,6 +31195,7 @@ glyphname = macroncomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084694.798;
 anchors = (
 {
 name = _top;
@@ -30498,6 +31222,7 @@ glyphname = macroncomb_gravecomb;
 lastChange = "2025-06-29 23:19:09 +0000";
 layers = (
 {
+.lastUpdate = 773084223.812;
 anchors = (
 {
 name = _top;
@@ -30529,6 +31254,7 @@ glyphname = macroncomb_acutecomb;
 lastChange = "2025-06-29 23:19:42 +0000";
 layers = (
 {
+.lastUpdate = 773084223.677;
 anchors = (
 {
 name = _top;
@@ -30560,6 +31286,7 @@ glyphname = overlinecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772827563.914;
 anchors = (
 {
 name = _top;
@@ -30592,6 +31319,7 @@ glyphname = hookabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772827591.23;
 anchors = (
 {
 name = _top;
@@ -30630,6 +31358,7 @@ glyphname = dblgravecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.501;
 anchors = (
 {
 name = _top;
@@ -30662,6 +31391,7 @@ glyphname = commaturnedabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076556.246;
 anchors = (
 {
 name = _top;
@@ -30690,6 +31420,7 @@ glyphname = lefttackbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772827704.481;
 anchors = (
 {
 name = _bottom;
@@ -30731,6 +31462,7 @@ glyphname = righttackbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084699.256;
 anchors = (
 {
 name = _bottom;
@@ -30759,6 +31491,7 @@ glyphname = leftangleabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.502;
 anchors = (
 {
 name = _topright;
@@ -30800,6 +31533,7 @@ glyphname = horncomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835128.478;
 anchors = (
 {
 name = _topright;
@@ -30838,6 +31572,7 @@ glyphname = ringhalfleftbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835213.227;
 anchors = (
 {
 name = _bottom;
@@ -30878,6 +31613,7 @@ glyphname = uptackbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835711.6;
 anchors = (
 {
 name = _bottom;
@@ -30919,6 +31655,7 @@ glyphname = downtackbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.503;
 anchors = (
 {
 name = _bottom;
@@ -30947,6 +31684,7 @@ glyphname = plusbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835783.388;
 anchors = (
 {
 name = _bottom;
@@ -30988,6 +31726,7 @@ glyphname = minusbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835796.525;
 anchors = (
 {
 name = _bottom;
@@ -31020,6 +31759,7 @@ glyphname = dotbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084694.799;
 anchors = (
 {
 name = _bottom;
@@ -31047,6 +31787,7 @@ glyphname = dieresisbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084411.481;
 anchors = (
 {
 name = _bottom;
@@ -31123,6 +31864,7 @@ glyphname = commaaccentcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084198.056;
 anchors = (
 {
 name = _bottom;
@@ -31150,6 +31892,7 @@ glyphname = commaaccentcomb.loclMAH;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084231.166;
 anchors = (
 {
 name = _bottom;
@@ -31171,6 +31914,7 @@ glyphname = cedillacomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772821286.201;
 anchors = (
 {
 name = _bottom;
@@ -31211,6 +31955,7 @@ glyphname = ogonekcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084198.031;
 anchors = (
 {
 name = _ogonek;
@@ -31233,6 +31978,7 @@ glyphname = verticallinebelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835888.825;
 anchors = (
 {
 name = _bottom;
@@ -31265,6 +32011,7 @@ glyphname = bridgebelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.536;
 anchors = (
 {
 name = _bottom;
@@ -31293,6 +32040,7 @@ glyphname = caronbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.543;
 anchors = (
 {
 name = _bottom;
@@ -31320,6 +32068,7 @@ glyphname = brevebelowcomb;
 lastChange = "2025-07-01 17:44:12 +0000";
 layers = (
 {
+.lastUpdate = 773084694.805;
 anchors = (
 {
 name = _bottom;
@@ -31347,6 +32096,7 @@ glyphname = tildebelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.537;
 anchors = (
 {
 name = _bottom;
@@ -31375,6 +32125,7 @@ glyphname = macronbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084694.803;
 anchors = (
 {
 name = _bottom;
@@ -31402,6 +32153,7 @@ glyphname = lowlinecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835870.802;
 anchors = (
 {
 name = _bottom;
@@ -31434,6 +32186,7 @@ glyphname = tildeoverlaycomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.543;
 anchors = (
 {
 name = _center;
@@ -31457,6 +32210,7 @@ glyphname = strokeshortcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772835987.151;
 anchors = (
 {
 name = _center;
@@ -31485,6 +32239,7 @@ glyphname = ringhalfrightbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084699.351;
 anchors = (
 {
 name = _bottom;
@@ -31513,6 +32268,7 @@ glyphname = bridgeinvertedbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772836848.296;
 anchors = (
 {
 name = _bottom;
@@ -31563,6 +32319,7 @@ glyphname = squarebelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772836909.113;
 anchors = (
 {
 name = _bottom;
@@ -31608,6 +32365,7 @@ glyphname = seagullbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772837173.058;
 anchors = (
 {
 name = _bottom;
@@ -31652,6 +32410,7 @@ glyphname = xabovecomb;
 lastChange = "2025-06-29 23:17:34 +0000";
 layers = (
 {
+.lastUpdate = 772931854.402;
 anchors = (
 {
 name = _top;
@@ -31702,6 +32461,7 @@ glyphname = gbridgeabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.536;
 anchors = (
 {
 name = _top;
@@ -31729,6 +32489,7 @@ glyphname = equalbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772837383.63;
 anchors = (
 {
 name = _bottom;
@@ -31770,6 +32531,7 @@ glyphname = doubleverticallinebelowcomb;
 lastChange = "2025-06-29 23:07:28 +0000";
 layers = (
 {
+.lastUpdate = 773076512.535;
 anchors = (
 {
 name = _bottom;
@@ -31801,6 +32563,7 @@ glyphname = leftanglebelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772836961.855;
 anchors = (
 {
 name = _bottom;
@@ -31836,6 +32599,7 @@ glyphname = nottildeabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.537;
 anchors = (
 {
 name = _top;
@@ -31871,6 +32635,7 @@ glyphname = homotheticabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.535;
 anchors = (
 {
 name = _top;
@@ -31915,6 +32680,7 @@ glyphname = almostequaltoabovecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.538;
 anchors = (
 {
 name = _top;
@@ -31947,6 +32713,7 @@ glyphname = arrowleftrightbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.572;
 anchors = (
 {
 name = _bottom;
@@ -32023,6 +32790,7 @@ glyphname = arrowupbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.571;
 anchors = (
 {
 name = _bottom;
@@ -32078,6 +32846,7 @@ glyphname = doublebrevebelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 772906767.326;
 anchors = (
 {
 name = bottom;
@@ -32114,6 +32883,7 @@ glyphname = breveinverteddoublecomb;
 lastChange = "2025-06-29 16:19:52 +0000";
 layers = (
 {
+.lastUpdate = 773084660.249;
 layerId = m01;
 shapes = (
 {
@@ -32132,6 +32902,7 @@ glyphname = arrowdoublerightbelowcomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773076512.573;
 anchors = (
 {
 name = _bottom;
@@ -32187,6 +32958,7 @@ glyphname = acutegraveacutecomb;
 lastChange = "2025-06-29 23:15:04 +0000";
 layers = (
 {
+.lastUpdate = 772931704.154;
 anchors = (
 {
 name = _top;
@@ -32223,6 +32995,7 @@ glyphname = acutemacroncomb;
 lastChange = "2025-06-29 23:16:11 +0000";
 layers = (
 {
+.lastUpdate = 772931771.471;
 anchors = (
 {
 name = _top;
@@ -32257,6 +33030,7 @@ glyphname = brevecomb_acutecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084660.25;
 anchors = (
 {
 name = _top;
@@ -32288,6 +33062,7 @@ glyphname = brevecomb_gravecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084198.033;
 anchors = (
 {
 name = _top;
@@ -32318,6 +33093,7 @@ glyphname = brevecomb_hookabovecomb;
 lastChange = "2025-06-29 23:16:46 +0000";
 layers = (
 {
+.lastUpdate = 773084198.029;
 anchors = (
 {
 name = _top;
@@ -32349,6 +33125,7 @@ glyphname = brevecomb_tildecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084198.053;
 anchors = (
 {
 name = _top;
@@ -32381,6 +33158,7 @@ glyphname = circumflexcomb_acutecomb;
 lastChange = "2025-06-29 23:16:57 +0000";
 layers = (
 {
+.lastUpdate = 773084198.046;
 anchors = (
 {
 name = _top;
@@ -32411,6 +33189,7 @@ glyphname = circumflexcomb_gravecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084198.052;
 anchors = (
 {
 name = _top;
@@ -32441,6 +33220,7 @@ glyphname = circumflexcomb_hookabovecomb;
 lastChange = "2025-06-29 23:17:12 +0000";
 layers = (
 {
+.lastUpdate = 773084198.057;
 anchors = (
 {
 name = _top;
@@ -32471,6 +33251,7 @@ glyphname = circumflexcomb_tildecomb;
 lastChange = "2025-06-29 23:07:20 +0000";
 layers = (
 {
+.lastUpdate = 773084198.055;
 anchors = (
 {
 name = _top;
@@ -32502,6 +33283,7 @@ glyphname = graveacutegravecomb;
 lastChange = "2025-06-29 23:14:22 +0000";
 layers = (
 {
+.lastUpdate = 772931662.575;
 anchors = (
 {
 name = _top;
@@ -32538,6 +33320,7 @@ glyphname = gravemacroncomb;
 lastChange = "2025-06-29 23:12:10 +0000";
 layers = (
 {
+.lastUpdate = 772931533.293;
 anchors = (
 {
 name = _top;
@@ -32572,6 +33355,7 @@ glyphname = macronacutecomb;
 lastChange = "2025-06-29 23:12:53 +0000";
 layers = (
 {
+.lastUpdate = 772931573.404;
 anchors = (
 {
 name = _top;
@@ -32607,6 +33391,7 @@ glyphname = macrongravecomb;
 lastChange = "2025-06-29 23:13:40 +0000";
 layers = (
 {
+.lastUpdate = 772931620.691;
 anchors = (
 {
 name = _top;
@@ -32718,6 +33503,7 @@ glyphname = grave;
 lastChange = "2025-06-27 14:07:27 +0000";
 layers = (
 {
+.lastUpdate = 773076060.803;
 layerId = m01;
 shapes = (
 {
@@ -32735,6 +33521,7 @@ glyphname = acute;
 lastChange = "2025-06-27 14:07:21 +0000";
 layers = (
 {
+.lastUpdate = 773076060.802;
 layerId = m01;
 shapes = (
 {
@@ -32752,6 +33539,7 @@ glyphname = hungarumlaut;
 lastChange = "2025-06-27 14:07:15 +0000";
 layers = (
 {
+.lastUpdate = 773076060.802;
 layerId = m01;
 shapes = (
 {
@@ -32769,6 +33557,7 @@ glyphname = circumflex;
 lastChange = "2025-06-27 14:07:03 +0000";
 layers = (
 {
+.lastUpdate = 773076060.802;
 layerId = m01;
 shapes = (
 {
@@ -32786,6 +33575,7 @@ glyphname = caron;
 lastChange = "2025-06-27 14:06:59 +0000";
 layers = (
 {
+.lastUpdate = 773076060.804;
 layerId = m01;
 shapes = (
 {
@@ -32919,6 +33709,7 @@ glyphname = cedilla;
 lastChange = "2025-06-22 16:08:21 +0000";
 layers = (
 {
+.lastUpdate = 773076060.802;
 layerId = m01;
 shapes = (
 {
@@ -32962,6 +33753,7 @@ unicode = 731;
 glyphname = apostrophemod;
 layers = (
 {
+.lastUpdate = 773084694.811;
 layerId = m01;
 shapes = (
 {
@@ -32978,6 +33770,7 @@ glyphname = colontriangularhalfmod;
 lastChange = "2025-06-29 16:12:48 +0000";
 layers = (
 {
+.lastUpdate = 772906368.75;
 layerId = m01;
 shapes = (
 {
@@ -32999,6 +33792,7 @@ glyphname = colontriangularmod;
 lastChange = "2025-06-29 16:13:21 +0000";
 layers = (
 {
+.lastUpdate = 772906401.615;
 layerId = m01;
 shapes = (
 {
@@ -33028,6 +33822,7 @@ glyphname = commareversedmod;
 lastChange = "2025-07-01 17:41:47 +0000";
 layers = (
 {
+.lastUpdate = 773084507.262;
 layerId = m01;
 shapes = (
 {
@@ -33067,6 +33862,7 @@ glyphname = commaturnedmod;
 lastChange = "2025-06-22 20:52:24 +0000";
 layers = (
 {
+.lastUpdate = 773076060.818;
 anchors = (
 {
 name = _bottom;
@@ -33095,6 +33891,7 @@ glyphname = glottalstopreversedmod;
 lastChange = "2025-06-29 16:17:07 +0000";
 layers = (
 {
+.lastUpdate = 773076512.603;
 hints = (
 {
 name = _corner.round;
@@ -33201,6 +33998,7 @@ glyphname = primemod;
 lastChange = "2025-06-29 16:15:27 +0000";
 layers = (
 {
+.lastUpdate = 772906527.065;
 layerId = m01;
 shapes = (
 {
@@ -33223,6 +34021,7 @@ glyphname = ringhalfleft;
 lastChange = "2025-07-01 17:44:51 +0000";
 layers = (
 {
+.lastUpdate = 773084691.372;
 anchors = (
 {
 name = _top;
@@ -33260,19 +34059,30 @@ unicode = 703;
 },
 {
 glyphname = ringhalfright;
+lastChange = "2025-07-01 17:45:08 +0000";
 layers = (
 {
+.lastUpdate = 773084708.751;
 layerId = m01;
-width = 300;
+shapes = (
+{
+pos = (536,0);
+ref = ringhalfleft;
+scale = (-1,1);
+}
+);
+width = 536;
 }
 );
 unicode = 702;
+changeCount = 6;
 },
 {
 glyphname = verticallinelowmod;
 lastChange = "2025-06-29 16:14:26 +0000";
 layers = (
 {
+.lastUpdate = 772906466.506;
 layerId = m01;
 shapes = (
 {
@@ -33295,6 +34105,7 @@ glyphname = verticallinemod;
 lastChange = "2025-06-29 16:14:57 +0000";
 layers = (
 {
+.lastUpdate = 772906497.331;
 layerId = m01;
 shapes = (
 {
@@ -33318,6 +34129,7 @@ glyphname = _part.curl;
 lastChange = "2025-06-30 21:55:46 +0000";
 layers = (
 {
+.lastUpdate = 773013346.658;
 anchors = (
 {
 name = _bottom;
@@ -33364,6 +34176,7 @@ glyphname = _part.hook;
 lastChange = "2025-06-30 16:16:15 +0000";
 layers = (
 {
+.lastUpdate = 773084663.646;
 hints = (
 {
 name = _corner.round;
@@ -33403,6 +34216,7 @@ glyphname = _part.horn;
 lastChange = "2025-06-30 18:22:46 +0000";
 layers = (
 {
+.lastUpdate = 773084222.71;
 anchors = (
 {
 name = _top;
@@ -33452,6 +34266,7 @@ glyphname = "_part.horn-sm";
 lastChange = "2025-06-30 18:26:26 +0000";
 layers = (
 {
+.lastUpdate = 773084226.229;
 anchors = (
 {
 name = _topright;
