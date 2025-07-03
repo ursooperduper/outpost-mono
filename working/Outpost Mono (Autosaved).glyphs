@@ -32688,10 +32688,10 @@ unicode = 970;
 },
 {
 glyphname = iotadieresistonos;
-lastChange = "2025-07-03 23:17:58 +0000";
+lastChange = "2025-07-03 23:21:16 +0000";
 layers = (
 {
-.lastUpdate = 773277630.424;
+.lastUpdate = 773277676.683;
 layerId = m01;
 shapes = (
 {
@@ -32699,7 +32699,7 @@ ref = iota;
 },
 {
 alignment = -1;
-pos = (10,-5);
+pos = (-17,-5);
 ref = dieresistonos;
 }
 );
@@ -32707,6 +32707,7 @@ width = 536;
 }
 );
 unicode = 912;
+changeCount = 2;
 },
 {
 glyphname = upsilontonos;
