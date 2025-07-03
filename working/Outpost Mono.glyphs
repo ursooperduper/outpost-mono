@@ -2,7 +2,7 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"ђ"
+"є"
 );
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
@@ -22060,6 +22060,24 @@ width = 536;
 unicode = 1029;
 },
 {
+glyphname = "E-cy";
+lastChange = "2025-07-03 01:02:08 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (536,0);
+ref = "Ereversed-cy";
+scale = (-1,1);
+}
+);
+width = 536;
+}
+);
+unicode = 1028;
+},
+{
 glyphname = "Ereversed-cy";
 lastChange = "2025-07-02 20:26:20 +0000";
 layers = (
@@ -22100,6 +22118,25 @@ width = 536;
 }
 );
 unicode = 1030;
+},
+{
+glyphname = "Yi-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (0,170);
+ref = dieresiscomb;
+}
+);
+width = 536;
+}
+);
+unicode = 1031;
 },
 {
 glyphname = "Je-cy";
@@ -24077,6 +24114,24 @@ width = 536;
 unicode = 1109;
 },
 {
+glyphname = "e-cy";
+lastChange = "2025-07-03 01:02:39 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (536,0);
+ref = "ereversed-cy";
+scale = (-1,1);
+}
+);
+width = 536;
+}
+);
+unicode = 1108;
+},
+{
 glyphname = "ereversed-cy";
 lastChange = "2025-07-02 20:28:10 +0000";
 layers = (
@@ -24117,6 +24172,24 @@ width = 536;
 }
 );
 unicode = 1110;
+},
+{
+glyphname = "yi-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+ref = dieresiscomb;
+}
+);
+width = 536;
+}
+);
+unicode = 1111;
 },
 {
 glyphname = "je-cy";
@@ -24633,6 +24706,23 @@ width = 536;
 );
 },
 {
+glyphname = "gje-cy.loclMKD";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+ref = acutecomb;
+}
+);
+width = 536;
+}
+);
+},
+{
 glyphname = "be-cy.loclSRBMKD";
 lastChange = "2025-07-02 23:39:46 +0000";
 layers = (
@@ -24641,6 +24731,66 @@ layerId = m01;
 shapes = (
 {
 ref = "be-cy";
+}
+);
+width = 536;
+}
+);
+},
+{
+glyphname = "ge-cy.loclSRBMKD";
+lastChange = "2025-07-03 01:00:59 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ge-cy";
+}
+);
+width = 536;
+}
+);
+},
+{
+glyphname = "de-cy.loclSRBMKD";
+lastChange = "2025-07-03 01:00:52 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "de-cy";
+}
+);
+width = 536;
+}
+);
+},
+{
+glyphname = "pe-cy.loclSRBMKD";
+lastChange = "2025-07-03 01:01:11 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "pe-cy";
+}
+);
+width = 536;
+}
+);
+},
+{
+glyphname = "te-cy.loclSRBMKD";
+lastChange = "2025-07-03 01:01:18 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "te-cy";
 }
 );
 width = 536;
