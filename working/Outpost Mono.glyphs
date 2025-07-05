@@ -2,7 +2,8 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"η"
+"ﬂ",
+"/f_f_i"
 );
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
@@ -20236,6 +20237,84 @@ width = 536;
 );
 },
 {
+glyphname = f_f_i;
+lastChange = "2025-07-05 18:05:09 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1340,0);
+}
+);
+hints = (
+{
+name = _corner.round;
+origin = (4,3);
+scale = (2,2);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (4,0);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = f;
+},
+{
+alignment = -1;
+pos = (386,0);
+ref = f;
+},
+{
+closed = 1;
+nodes = (
+(1073,520,o),
+(1091,538,o),
+(1091,560,cs),
+(1091,582,o),
+(1073,600,o),
+(1051,600,cs),
+(1029,600,o),
+(1011,582,o),
+(1011,560,cs),
+(1011,538,o),
+(1029,520,o),
+(1051,520,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(871,60,l),
+(871,0,l),
+(1274,0,l),
+(1274,60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1026,390,l),
+(1026,25,l),
+(1086,25,l),
+(1086,450,l),
+(871,450,l),
+(871,390,l)
+);
+}
+);
+width = 1608;
+}
+);
+metricLeft = f;
+metricRight = i;
+},
+{
 glyphname = fi;
 lastChange = "2025-07-01 19:28:08 +0000";
 layers = (
@@ -32053,7 +32132,7 @@ unicode = 970;
 },
 {
 glyphname = iotadieresistonos;
-lastChange = "2025-07-03 23:17:58 +0000";
+lastChange = "2025-07-03 23:21:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -32063,7 +32142,7 @@ ref = iota;
 },
 {
 alignment = -1;
-pos = (10,-5);
+pos = (-17,-5);
 ref = dieresistonos;
 }
 );
@@ -32218,6 +32297,7 @@ unicode = 941;
 },
 {
 glyphname = etatonos;
+lastChange = "2025-07-03 23:20:28 +0000";
 layers = (
 {
 layerId = m01;
@@ -32226,7 +32306,8 @@ shapes = (
 ref = eta;
 },
 {
-pos = (0,-350);
+alignment = -1;
+pos = (0,-5);
 ref = tonos;
 }
 );
