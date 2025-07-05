@@ -2,7 +2,7 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-m
+"ᵯ"
 );
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
@@ -14754,7 +14754,7 @@ unicode = 624;
 },
 {
 glyphname = mmiddletilde;
-lastChange = "2025-06-30 21:17:31 +0000";
+lastChange = "2025-07-05 21:20:10 +0000";
 layers = (
 {
 anchors = (
@@ -14796,22 +14796,7 @@ type = Corner;
 },
 {
 name = _corner.round;
-options = 1;
-origin = (0,0);
-scale = (2,-2);
-type = Corner;
-},
-{
-name = _corner.round;
-options = 1;
-origin = (0,3,0,5);
-scale = (1,-1);
-stem = 1000;
-type = Corner;
-},
-{
-name = _corner.round;
-origin = (1,3,1,5);
+origin = (0,9,1,3);
 stem = 1000;
 type = Corner;
 },
