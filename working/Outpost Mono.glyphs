@@ -6112,16 +6112,46 @@ unicode = 356;
 },
 {
 glyphname = Tcedilla;
+lastChange = "2025-07-06 01:51:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (308,-216);
+}
+);
 layerId = m01;
 shapes = (
 {
 ref = T;
 },
 {
-pos = (-45,0);
-ref = cedillacomb;
+attr = {
+identifier = ID0x136ce20c0;
+lineCapEnd = 3;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(263,0,l),
+(263,-65,l),
+(343,-65,o),
+(353,-90,o),
+(352,-128,cs),
+(351,-170,o),
+(322,-191,o),
+(263,-191,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(238,-43,l),
+(298,-43,l),
+(298,0,l),
+(238,0,l)
+);
 }
 );
 width = 536;
