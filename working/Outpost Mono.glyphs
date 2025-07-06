@@ -2,7 +2,7 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-k
+"·"
 );
 date = "2025-04-26 21:58:05 +0000";
 familyName = "Outpost Mono";
@@ -13863,7 +13863,7 @@ unicode = 644;
 {
 color = 4;
 glyphname = k;
-lastChange = "2025-07-06 01:53:51 +0000";
+lastChange = "2025-07-06 01:54:33 +0000";
 layers = (
 {
 anchors = (
@@ -13881,28 +13881,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(83,620,l),
-(83,0,l),
-(143,0,l),
-(143,620,l)
+(63,620,l),
+(63,0,l),
+(123,0,l),
+(123,620,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(111,116,l),
-(454,450,l),
-(373,450,l),
-(111,205,l)
+(120,122,l),
+(468,450,l),
+(382,450,l),
+(120,205,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(418,0,l),
-(493,0,l),
-(263,304,l),
-(220,261,l)
+(427,0,l),
+(502,0,l),
+(272,304,l),
+(229,261,l)
 );
 }
 );
@@ -36489,17 +36489,20 @@ unicode = 59;
 },
 {
 glyphname = ellipsis;
+lastChange = "2025-07-06 19:34:18 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (178,0);
 ref = period;
 },
 {
 ref = period;
 },
 {
+pos = (-178,0);
 ref = period;
 }
 );
@@ -36646,7 +36649,7 @@ unicode = 191;
 },
 {
 glyphname = periodcentered;
-lastChange = "2025-05-30 17:04:26 +0000";
+lastChange = "2025-07-06 19:34:27 +0000";
 layers = (
 {
 layerId = m01;
