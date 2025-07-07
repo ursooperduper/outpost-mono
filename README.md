@@ -1,2 +1,3 @@
 # Outpost Mono
-Outpost Mono - a futuristic terminal monospaced font designed for martian outposts
+
+A futuristic monospaced font designed for the terminals martian outposts, but ready for you today.

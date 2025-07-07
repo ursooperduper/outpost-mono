@@ -1555,6 +1555,7 @@ unicode = 394;
 },
 {
 glyphname = Dmacronbelow;
+lastChange = "2025-07-07 19:31:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -1563,6 +1564,8 @@ shapes = (
 ref = D;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -2169,7 +2172,7 @@ unicode = 398;
 },
 {
 glyphname = Schwa;
-lastChange = "2025-06-30 01:57:07 +0000";
+lastChange = "2025-07-07 19:24:18 +0000";
 layers = (
 {
 anchors = (
@@ -2179,7 +2182,7 @@ pos = (268,0);
 },
 {
 name = ogonekabove;
-pos = (54,440);
+pos = (50,620);
 },
 {
 name = top;
@@ -3661,6 +3664,7 @@ unicode = 408;
 },
 {
 glyphname = Kmacronbelow;
+lastChange = "2025-07-07 19:31:10 +0000";
 layers = (
 {
 layerId = m01;
@@ -3669,6 +3673,8 @@ shapes = (
 ref = K;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -3843,6 +3849,7 @@ unicode = 7736;
 },
 {
 glyphname = Lmacronbelow;
+lastChange = "2025-07-07 19:31:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -3851,6 +3858,8 @@ shapes = (
 ref = L;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -4229,6 +4238,7 @@ unicode = 413;
 },
 {
 glyphname = Nmacronbelow;
+lastChange = "2025-07-07 19:30:49 +0000";
 layers = (
 {
 layerId = m01;
@@ -4237,6 +4247,8 @@ shapes = (
 ref = N;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -5675,6 +5687,7 @@ unicode = 7772;
 },
 {
 glyphname = Rmacronbelow;
+lastChange = "2025-07-07 19:30:37 +0000";
 layers = (
 {
 layerId = m01;
@@ -5683,6 +5696,8 @@ shapes = (
 ref = R;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -6273,6 +6288,7 @@ unicode = 428;
 },
 {
 glyphname = Tmacronbelow;
+lastChange = "2025-07-07 19:30:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -6281,6 +6297,8 @@ shapes = (
 ref = T;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -8034,6 +8052,7 @@ unicode = 7826;
 },
 {
 glyphname = Zmacronbelow;
+lastChange = "2025-07-07 19:30:14 +0000";
 layers = (
 {
 layerId = m01;
@@ -8042,6 +8061,8 @@ shapes = (
 ref = Z;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -10705,6 +10726,7 @@ unicode = 599;
 },
 {
 glyphname = dmacronbelow;
+lastChange = "2025-07-07 19:29:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -10713,6 +10735,8 @@ shapes = (
 ref = d;
 },
 {
+alignment = -1;
+pos = (1,61);
 ref = macronbelowcomb;
 }
 );
@@ -13018,6 +13042,7 @@ unicode = 614;
 },
 {
 glyphname = hmacronbelow;
+lastChange = "2025-07-07 19:29:37 +0000";
 layers = (
 {
 layerId = m01;
@@ -13026,6 +13051,8 @@ shapes = (
 ref = h;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -13978,6 +14005,7 @@ unicode = 409;
 },
 {
 glyphname = kmacronbelow;
+lastChange = "2025-07-07 19:29:24 +0000";
 layers = (
 {
 layerId = m01;
@@ -13986,6 +14014,8 @@ shapes = (
 ref = k;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -14345,6 +14375,7 @@ unicode = 621;
 },
 {
 glyphname = lmacronbelow;
+lastChange = "2025-07-07 19:29:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -14353,6 +14384,8 @@ shapes = (
 ref = l;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -15133,6 +15166,7 @@ unicode = 627;
 },
 {
 glyphname = nmacronbelow;
+lastChange = "2025-07-07 19:29:07 +0000";
 layers = (
 {
 layerId = m01;
@@ -15141,6 +15175,8 @@ shapes = (
 ref = n;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -17091,6 +17127,7 @@ unicode = 634;
 },
 {
 glyphname = rmacronbelow;
+lastChange = "2025-07-07 19:28:45 +0000";
 layers = (
 {
 layerId = m01;
@@ -17099,6 +17136,8 @@ shapes = (
 ref = r;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
@@ -18115,7 +18154,7 @@ unicode = 429;
 },
 {
 glyphname = tmacronbelow;
-lastChange = "2025-07-05 18:34:21 +0000";
+lastChange = "2025-07-07 19:28:10 +0000";
 layers = (
 {
 layerId = m01;
@@ -20158,6 +20197,7 @@ unicode = 7827;
 },
 {
 glyphname = zmacronbelow;
+lastChange = "2025-07-07 19:28:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -20166,6 +20206,8 @@ shapes = (
 ref = z;
 },
 {
+alignment = -1;
+pos = (0,61);
 ref = macronbelowcomb;
 }
 );
