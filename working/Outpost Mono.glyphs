@@ -121070,6 +121070,29 @@ key = designerURL;
 value = "http://studiosooper.com";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org/";
+},
+{
+key = postscriptFontName;
+value = OutpostMono;
+},
+{
+key = vendorID;
+value = SOOP;
+},
+{
 key = versionString;
 value = "1.0.0";
 }
