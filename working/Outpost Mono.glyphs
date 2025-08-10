@@ -1,9 +1,6 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"ӎ"
-);
 axes = (
 {
 name = Weight;
@@ -13,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aring Aringacute Aringbelow Atilde AE AEmacron B Bdotbelow Bhook Bstroke C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Chook D Dcaron Dcircumflexbelow Dcroat Ddotbelow Dhook Dmacronbelow Dtail Eth E Eacute Ecaron Ecedilla Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Esh Etilde Eturned Schwa Ezh Ezhcaron F Fhook G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Gmacron Gstroke H Hbar Hbrevebelow Hcircumflex Hdotbelow Hhook Hturned I IJ Iacute Icaron Icircumflex Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iota-latin Istroke Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent Khook Kmacronbelow L Lacute Lcaron Lcircumflexbelow Lcommaaccent Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Macute Mdotaccent Mdotbelow N Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Nhookleft Nmacronbelow Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odieresismacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Oslashacute Otilde Otildeacute OE P Phook Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rmacronbelow Rstroke Rtail S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdotbelow Thook Tmacronbelow Tretroflexhook U Uacute Ubar Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilon-latin Uring Utilde V Gamma-latin Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave Whook X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adieresismacron Adotaccent Adotbelow Adotmacron Agrave Ahookabove Ainvertedbreve Alpha-latin Amacron Aogonek Aring Aringacute Aringbelow Atilde AE AEmacron B Bdotbelow Bhook Bstroke C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Chook D Dcaron Dcircumflexbelow Dcroat Ddotbelow Dhook Dmacronbelow Dtail Eth E Eacute Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Esh Etilde Eturned Schwa Ezh Ezhcaron F Fhook G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Ghook Gmacron Gstroke H Hbar Hbrevebelow Hcircumflex Hdotbelow Hhook Hturned I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iota-latin Istroke Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent Khook Kmacronbelow L Lacute Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Macute Mdotaccent Mdotbelow N Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Nhookleft Nmacronbelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odieresismacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Oslashacute Otilde Otildeacute OE P Phook Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rmacronbelow Rstroke Rtail S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdotbelow Thook Tmacronbelow Tretroflexhook U Uacute Ubar Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilon-latin Uring Utilde V Gamma-latin Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave Whook X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhook Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
 name = Uppercase;
 }
 );
@@ -33,6 +30,7 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
+languagesystem latn CAT;
 languagesystem latn NLD;
 
 languagesystem cyrl dflt;
@@ -148,11 +146,18 @@ lookup locl_latn_2 {
 } locl_latn_2;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_3 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_3;
+} locl_latn_4;
 
 script cyrl;
 language BGR;
@@ -5084,6 +5089,51 @@ width = 600;
 unicode = 201;
 },
 {
+glyphname = Ebreve;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 276;
+},
+{
 glyphname = Ecaron;
 lastChange = "2025-07-08 19:23:37 +0000";
 layers = (
@@ -8401,6 +8451,51 @@ width = 600;
 unicode = 205;
 },
 {
+glyphname = Ibreve;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 300;
+},
+{
 glyphname = Icaron;
 lastChange = "2025-07-08 19:23:37 +0000";
 layers = (
@@ -10183,6 +10278,48 @@ width = 600;
 unicode = 315;
 },
 {
+glyphname = Ldot;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = L;
+},
+{
+ref = periodcentered;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+ref = periodcentered;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = L;
+},
+{
+ref = periodcentered;
+}
+);
+width = 600;
+}
+);
+unicode = 319;
+},
+{
 glyphname = Ldotbelow;
 lastChange = "2025-08-02 19:17:48 +0000";
 layers = (
@@ -11741,6 +11878,51 @@ width = 600;
 }
 );
 unicode = 211;
+},
+{
+glyphname = Obreve;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (0,168);
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 334;
 },
 {
 glyphname = Ocaron;
@@ -26945,6 +27127,48 @@ width = 600;
 unicode = 233;
 },
 {
+glyphname = ebreve;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = e;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = e;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 277;
+},
+{
 glyphname = ecaron;
 lastChange = "2025-08-10 18:49:51 +0000";
 layers = (
@@ -30843,7 +31067,6 @@ shapes = (
 ref = h;
 },
 {
-pos = (-32,0);
 ref = brevebelowcomb;
 }
 );
@@ -31536,6 +31759,48 @@ width = 600;
 }
 );
 unicode = 237;
+},
+{
+glyphname = ibreve;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = idotless;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = idotless;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 301;
 },
 {
 glyphname = icaron;
@@ -34054,6 +34319,52 @@ width = 600;
 }
 );
 unicode = 316;
+},
+{
+glyphname = ldot;
+lastChange = "2025-08-10 20:27:49 +0000";
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (103,0);
+ref = periodcentered;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (131,0);
+ref = periodcentered;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (153,0);
+ref = periodcentered;
+}
+);
+width = 600;
+}
+);
+unicode = 320;
 },
 {
 glyphname = ldotbelow;
@@ -36699,6 +37010,48 @@ width = 536;
 }
 );
 unicode = 629;
+},
+{
+glyphname = obreve;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = o;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = o;
+},
+{
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 335;
 },
 {
 glyphname = ocaron;
@@ -71073,7 +71426,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (32,168);
+pos = (0,168);
 ref = dieresiscomb;
 }
 );
@@ -97787,7 +98140,7 @@ unicode = 894;
 },
 {
 glyphname = period;
-lastChange = "2025-08-07 22:47:06 +0000";
+lastChange = "2025-08-10 19:28:41 +0000";
 layers = (
 {
 layerId = m01;
@@ -97795,18 +98148,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(322,-5,o),
-(340,13,o),
-(340,35,cs),
-(340,57,o),
-(322,75,o),
-(300,75,cs),
-(278,75,o),
-(260,57,o),
-(260,35,cs),
-(260,13,o),
-(278,-5,o),
-(300,-5,cs)
+(328,0,o),
+(350,23,o),
+(350,50,cs),
+(350,78,o),
+(328,100,o),
+(300,100,cs),
+(273,100,o),
+(250,78,o),
+(250,50,cs),
+(250,23,o),
+(273,0,o),
+(300,0,cs)
 );
 }
 );
@@ -97818,18 +98171,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(331,-6,o),
-(356,19,o),
-(356,50,cs),
-(356,81,o),
-(331,106,o),
-(300,106,cs),
-(269,106,o),
-(244,81,o),
-(244,50,cs),
-(244,19,o),
-(269,-6,o),
-(300,-6,cs)
+(336,0,o),
+(365,29,o),
+(365,65,cs),
+(365,101,o),
+(336,130,o),
+(300,130,cs),
+(264,130,o),
+(235,101,o),
+(235,65,cs),
+(235,29,o),
+(264,0,o),
+(300,0,cs)
 );
 }
 );
@@ -97841,17 +98194,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(317,0,o),
-(330,13,o),
-(330,30,cs),
-(330,47,o),
-(317,60,o),
-(300,60,cs),
-(283,60,o),
-(270,47,o),
-(270,30,cs),
-(270,13,o),
-(283,0,o),
+(323,0,o),
+(340,17,o),
+(340,40,cs),
+(340,63,o),
+(323,80,o),
+(300,80,cs),
+(277,80,o),
+(260,63,o),
+(260,40,cs),
+(260,17,o),
+(277,0,o),
 (300,0,cs)
 );
 }
