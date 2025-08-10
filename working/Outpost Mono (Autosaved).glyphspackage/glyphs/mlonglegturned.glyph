@@ -1,0 +1,67 @@
+{
+glyphname = mlonglegturned;
+lastChange = "2025-08-03 17:13:15 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,450);
+ref = m;
+scale = (1,-1);
+},
+{
+closed = 1;
+nodes = (
+(478,-110,l),
+(538,-110,l),
+(538,128,l),
+(478,128,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (0,450);
+ref = m;
+scale = (1,-1);
+},
+{
+closed = 1;
+nodes = (
+(448,-110,l),
+(538,-110,l),
+(538,128,l),
+(448,128,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (0,450);
+ref = m;
+scale = (1,-1);
+},
+{
+closed = 1;
+nodes = (
+(508,-110,l),
+(538,-110,l),
+(538,128,l),
+(508,128,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 624;
+}

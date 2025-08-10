@@ -1,0 +1,48 @@
+{
+glyphname = ncircumflexbelow.sc;
+lastChange = "2025-07-30 01:43:04 +0000";
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = -1;
+pos = (0,-681);
+ref = circumflexcomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = -1;
+pos = (0,-684);
+ref = circumflexcomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = -1;
+pos = (0,-699);
+ref = circumflexcomb;
+}
+);
+width = 600;
+}
+);
+}

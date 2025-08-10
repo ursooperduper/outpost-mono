@@ -1,0 +1,51 @@
+{
+glyphname = tonos.case;
+lastChange = "2025-08-08 01:06:01 +0000";
+layers = (
+{
+anchors = (
+{
+name = _topleft;
+pos = (369,800);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _topleft;
+pos = (369,800);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _topleft;
+pos = (369,800);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+}

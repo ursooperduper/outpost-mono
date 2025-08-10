@@ -1,0 +1,82 @@
+{
+glyphname = overlinecomb;
+lastChange = "2025-08-08 01:12:25 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (268,450);
+},
+{
+name = top;
+pos = (268,564);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,570,l),
+(518,570,l),
+(518,620,l),
+(82,620,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (268,450);
+},
+{
+name = top;
+pos = (268,564);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,570,l),
+(518,570,l),
+(518,650,l),
+(82,650,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (268,450);
+},
+{
+name = top;
+pos = (268,564);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,570,l),
+(518,570,l),
+(518,600,l),
+(82,600,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 773;
+}

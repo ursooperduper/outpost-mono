@@ -1,0 +1,85 @@
+{
+glyphname = iota;
+lastChange = "2025-08-06 01:35:54 +0000";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (268,450);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(236,154,l),
+(296,154,l),
+(296,450,l),
+(236,450,l)
+);
+},
+{
+pos = (-174,620);
+ref = _part.hook;
+scale = (1,-1);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (300,452);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(223,154,l),
+(313,154,l),
+(313,450,l),
+(223,450,l)
+);
+},
+{
+pos = (-157,620);
+ref = _part.hook;
+scale = (1,-1);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (300,452);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,154,l),
+(268,154,l),
+(268,450,l),
+(238,450,l)
+);
+},
+{
+pos = (-172,620);
+ref = _part.hook;
+scale = (1,-1);
+}
+);
+width = 600;
+}
+);
+unicode = 953;
+}

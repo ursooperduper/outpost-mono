@@ -1,0 +1,52 @@
+{
+glyphname = dblverticallineabovecomb;
+lastChange = "2025-08-08 01:14:01 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-50,0);
+ref = verticallineabovecomb;
+},
+{
+alignment = -1;
+pos = (51,0);
+ref = verticallineabovecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (-60,0);
+ref = verticallineabovecomb;
+},
+{
+alignment = -1;
+pos = (61,0);
+ref = verticallineabovecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (-50,0);
+ref = verticallineabovecomb;
+},
+{
+alignment = -1;
+pos = (51,0);
+ref = verticallineabovecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 782;
+}

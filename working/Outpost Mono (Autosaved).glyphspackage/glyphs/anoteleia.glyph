@@ -1,0 +1,37 @@
+{
+glyphname = anoteleia;
+lastChange = "2025-08-07 22:43:57 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (32,0);
+ref = periodcentered;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (32,0);
+ref = periodcentered;
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (32,0);
+ref = periodcentered;
+}
+);
+width = 600;
+}
+);
+unicode = 903;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = brevecomb;
+lastChange = "2025-08-08 23:15:13 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (300,452);
+},
+{
+name = top;
+pos = (300,661);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = breve;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,452);
+},
+{
+name = top;
+pos = (300,661);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = breve;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,452);
+},
+{
+name = top;
+pos = (300,661);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = breve;
+}
+);
+width = 600;
+}
+);
+unicode = 774;
+}

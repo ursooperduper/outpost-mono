@@ -1,0 +1,67 @@
+{
+glyphname = gbridgeabovecomb;
+lastChange = "2025-08-08 01:33:17 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (300,800);
+},
+{
+name = top;
+pos = (300,661);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (-32,677);
+ref = bridgebelowcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,800);
+},
+{
+name = top;
+pos = (300,661);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (-32,677);
+ref = bridgebelowcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,800);
+},
+{
+name = top;
+pos = (300,661);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (-32,677);
+ref = bridgebelowcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 838;
+}

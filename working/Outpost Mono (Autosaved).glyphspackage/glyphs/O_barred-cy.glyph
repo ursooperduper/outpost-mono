@@ -1,0 +1,79 @@
+{
+glyphname = "Obarred-cy";
+lastChange = "2025-08-05 01:05:43 +0000";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,285,l),
+(496,285,l),
+(496,335,l),
+(104,335,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,265,l),
+(496,265,l),
+(496,355,l),
+(104,355,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,295,l),
+(496,295,l),
+(496,325,l),
+(104,325,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 600;
+}
+);
+unicode = 1256;
+}

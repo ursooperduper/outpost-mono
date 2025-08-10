@@ -1,0 +1,58 @@
+{
+glyphname = nhookretroflex;
+lastChange = "2025-08-03 17:15:39 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-32,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (16,466);
+ref = _part.hook;
+scale = (1,-1);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+alignment = -1;
+pos = (-64,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (-16,466);
+ref = _part.hook;
+scale = (1,-1);
+}
+);
+width = 536;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+alignment = -1;
+pos = (-47,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (31,466);
+ref = _part.hook;
+scale = (1,-1);
+}
+);
+width = 600;
+}
+);
+unicode = 627;
+}

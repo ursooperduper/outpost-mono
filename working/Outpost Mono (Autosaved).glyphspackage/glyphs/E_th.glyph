@@ -1,0 +1,61 @@
+{
+glyphname = Eth;
+lastChange = "2025-08-10 18:39:57 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+closed = 1;
+nodes = (
+(42,335,l),
+(42,285,l),
+(368,285,l),
+(368,335,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = D;
+},
+{
+closed = 1;
+nodes = (
+(42,350,l),
+(42,270,l),
+(368,270,l),
+(368,350,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = D;
+},
+{
+closed = 1;
+nodes = (
+(42,325,l),
+(42,295,l),
+(368,295,l),
+(368,325,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 208;
+}

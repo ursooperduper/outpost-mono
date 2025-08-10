@@ -1,0 +1,58 @@
+{
+glyphname = "Chekhakassian-cy";
+lastChange = "2025-08-05 01:04:23 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (600,620);
+ref = h;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (962,620);
+ref = "_part.horn-sm";
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+angle = 180;
+pos = (600,620);
+ref = h;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (962,620);
+ref = "_part.horn-sm";
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+angle = 180;
+pos = (600,620);
+ref = h;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (962,620);
+ref = "_part.horn-sm";
+}
+);
+width = 600;
+}
+);
+unicode = 1227;
+}

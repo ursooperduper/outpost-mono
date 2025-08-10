@@ -1,0 +1,82 @@
+{
+glyphname = "Hardsign-cy";
+lastChange = "2025-08-05 00:41:45 +0000";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (51,0);
+ref = b;
+},
+{
+closed = 1;
+nodes = (
+(31,560,l),
+(161,560,l),
+(161,620,l),
+(31,620,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (51,0);
+ref = b;
+},
+{
+closed = 1;
+nodes = (
+(31,530,l),
+(131,530,l),
+(131,620,l),
+(31,620,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (51,0);
+ref = b;
+},
+{
+closed = 1;
+nodes = (
+(31,590,l),
+(131,590,l),
+(131,620,l),
+(31,620,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 1066;
+}

@@ -1,0 +1,124 @@
+{
+glyphname = Esh;
+lastChange = "2025-08-10 18:42:20 +0000";
+layers = (
+{
+hints = (
+{
+name = _corner.round;
+origin = (0,1);
+scale = (0.5,0.5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (0.5,0.5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+scale = (0.5,0.5);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(521,589,l),
+(97,589,l),
+(333,353,l),
+(97,30,l),
+(521,30,l)
+);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+name = _corner.round;
+origin = (0,1);
+scale = (0.5,0.5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (0.2,0.2);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+scale = (0.5,0.5);
+type = Corner;
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+attr = {
+strokeWidth = 90;
+};
+closed = 0;
+nodes = (
+(528,575,l),
+(104,575,l),
+(340,353,l),
+(104,45,l),
+(528,45,l)
+);
+}
+);
+width = 600;
+},
+{
+hints = (
+{
+name = _corner.round;
+origin = (0,1);
+scale = (0.5,0.5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,2);
+scale = (0.5,0.5);
+type = Corner;
+},
+{
+name = _corner.round;
+origin = (0,3);
+scale = (0.5,0.5);
+type = Corner;
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+attr = {
+strokeWidth = 30;
+};
+closed = 0;
+nodes = (
+(514,604,l),
+(90,604,l),
+(326,353,l),
+(90,15,l),
+(514,15,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 425;
+}

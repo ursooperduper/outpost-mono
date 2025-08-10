@@ -1,0 +1,70 @@
+{
+glyphname = rhotichookmod;
+lastChange = "2025-08-07 23:26:20 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(135,249,l),
+(301,249,l),
+(301,196,ls),
+(301,127,o),
+(341,82,o),
+(406,84,cs),
+(466,84,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+attr = {
+strokeWidth = 90;
+};
+closed = 0;
+nodes = (
+(135,249,l),
+(301,249,l),
+(301,196,ls),
+(301,127,o),
+(341,82,o),
+(406,84,cs),
+(466,84,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+attr = {
+strokeWidth = 30;
+};
+closed = 0;
+nodes = (
+(135,249,l),
+(301,249,l),
+(301,196,ls),
+(301,127,o),
+(341,82,o),
+(406,84,cs),
+(466,84,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 734;
+}

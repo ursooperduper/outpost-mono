@@ -1,0 +1,52 @@
+{
+glyphname = Tretroflexhook;
+lastChange = "2025-08-03 16:06:03 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (890,-535);
+ref = _part.hook;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = T;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (875,-535);
+ref = _part.hook;
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = T;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (905,-535);
+ref = _part.hook;
+}
+);
+width = 600;
+}
+);
+unicode = 430;
+}

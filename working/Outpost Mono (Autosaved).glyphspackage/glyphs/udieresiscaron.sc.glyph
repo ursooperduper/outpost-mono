@@ -1,0 +1,56 @@
+{
+glyphname = udieresiscaron.sc;
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (0,90);
+ref = dieresiscomb.sc;
+},
+{
+pos = (0,219);
+ref = caroncomb.sc;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (0,90);
+ref = dieresiscomb.sc;
+},
+{
+pos = (0,234);
+ref = caroncomb.sc;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (0,90);
+ref = dieresiscomb.sc;
+},
+{
+pos = (0,250);
+ref = caroncomb.sc;
+}
+);
+width = 600;
+}
+);
+}

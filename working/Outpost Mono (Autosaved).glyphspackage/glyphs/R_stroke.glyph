@@ -1,0 +1,94 @@
+{
+glyphname = Rstroke;
+lastChange = "2025-08-03 16:02:26 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (36,0);
+ref = R;
+},
+{
+closed = 1;
+nodes = (
+(46,330,l),
+(326,330,l),
+(326,390,l),
+(46,390,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (36,0);
+ref = R;
+},
+{
+closed = 1;
+nodes = (
+(46,290,l),
+(326,290,l),
+(326,380,l),
+(46,380,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,620);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (37,0);
+ref = R;
+},
+{
+closed = 1;
+nodes = (
+(47,360,l),
+(327,360,l),
+(327,390,l),
+(47,390,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 588;
+}

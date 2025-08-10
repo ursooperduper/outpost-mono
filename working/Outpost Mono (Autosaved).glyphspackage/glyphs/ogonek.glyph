@@ -1,0 +1,70 @@
+{
+glyphname = ogonek;
+lastChange = "2025-08-07 23:20:43 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeWidth = 60;
+};
+closed = 0;
+nodes = (
+(333,0,l),
+(333,-38,o),
+(267,-68,o),
+(267,-120,cs),
+(267,-166,o),
+(301,-191,o),
+(363,-191,cs)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+attr = {
+strokeWidth = 90;
+};
+closed = 0;
+nodes = (
+(333,0,l),
+(333,-38,o),
+(267,-68,o),
+(267,-120,cs),
+(267,-166,o),
+(301,-191,o),
+(363,-191,cs)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+attr = {
+strokeWidth = 30;
+};
+closed = 0;
+nodes = (
+(326,0,l),
+(326,-38,o),
+(260,-68,o),
+(260,-120,cs),
+(260,-166,o),
+(294,-191,o),
+(356,-191,cs)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 731;
+}

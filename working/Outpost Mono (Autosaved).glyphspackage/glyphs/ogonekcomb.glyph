@@ -1,0 +1,52 @@
+{
+glyphname = ogonekcomb;
+lastChange = "2025-08-08 01:24:20 +0000";
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (326,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = ogonek;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (326,0);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = ogonek;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (326,0);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = ogonek;
+}
+);
+width = 600;
+}
+);
+unicode = 808;
+}

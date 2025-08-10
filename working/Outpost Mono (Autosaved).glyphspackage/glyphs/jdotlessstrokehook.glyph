@@ -1,0 +1,79 @@
+{
+glyphname = jdotlessstrokehook;
+lastChange = "2025-08-08 23:21:34 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-23,0);
+ref = jdotless;
+},
+{
+closed = 1;
+nodes = (
+(370,199,l),
+(527,199,l),
+(527,259,l),
+(370,259,l)
+);
+},
+{
+alignment = -1;
+pos = (10,-14);
+ref = _part.hook;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (-20,0);
+ref = jdotless;
+},
+{
+closed = 1;
+nodes = (
+(347,184,l),
+(524,184,l),
+(524,274,l),
+(347,274,l)
+);
+},
+{
+alignment = -1;
+pos = (13,-14);
+ref = _part.hook;
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (-27,0);
+ref = jdotless;
+},
+{
+closed = 1;
+nodes = (
+(394,214,l),
+(531,214,l),
+(531,244,l),
+(394,244,l)
+);
+},
+{
+alignment = -1;
+pos = (36,-14);
+ref = _part.hook;
+}
+);
+width = 600;
+}
+);
+unicode = 644;
+}

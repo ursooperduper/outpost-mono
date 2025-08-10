@@ -1,0 +1,40 @@
+{
+glyphname = northWestArrow;
+lastChange = "2025-08-08 00:57:59 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (600,0);
+ref = northEastArrow;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (596,0);
+ref = northEastArrow;
+scale = (-1,1);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (601,0);
+ref = northEastArrow;
+scale = (-1,1);
+}
+);
+width = 600;
+}
+);
+unicode = 8598;
+}

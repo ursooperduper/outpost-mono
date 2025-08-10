@@ -1,0 +1,55 @@
+{
+glyphname = clicklateral;
+lastChange = "2025-08-04 01:31:49 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (94,-22);
+ref = bar;
+scale = (1,0.8022);
+},
+{
+pos = (-29,-22);
+ref = bar;
+scale = (1,0.8022);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (104,-22);
+ref = bar;
+scale = (1,0.8022);
+},
+{
+pos = (-39,-22);
+ref = bar;
+scale = (1,0.8022);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (94,-22);
+ref = bar;
+scale = (1,0.8022);
+},
+{
+pos = (-29,-22);
+ref = bar;
+scale = (1,0.8022);
+}
+);
+width = 600;
+}
+);
+unicode = 449;
+}

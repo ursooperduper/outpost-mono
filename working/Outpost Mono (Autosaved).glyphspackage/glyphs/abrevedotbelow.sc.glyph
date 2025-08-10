@@ -1,0 +1,54 @@
+{
+glyphname = abrevedotbelow.sc;
+lastChange = "2025-07-30 00:36:55 +0000";
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = a.sc;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (0,90);
+ref = brevecomb.sc;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (0,90);
+ref = brevecomb.sc;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = a.sc;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (0,90);
+ref = brevecomb.sc;
+}
+);
+width = 600;
+}
+);
+}

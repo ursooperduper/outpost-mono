@@ -1,0 +1,63 @@
+{
+glyphname = macroncomb_acutecomb.sc;
+lastChange = "2025-08-07 23:20:55 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (300,452);
+},
+{
+name = top;
+pos = (300,829);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = macroncomb_acutecomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,452);
+},
+{
+name = top;
+pos = (300,828);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = macroncomb_acutecomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (301,452);
+},
+{
+name = top;
+pos = (301,832);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = macroncomb_acutecomb;
+}
+);
+width = 600;
+}
+);
+}

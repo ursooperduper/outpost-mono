@@ -1,0 +1,67 @@
+{
+glyphname = caronbelowcomb;
+lastChange = "2025-08-08 01:25:59 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (300,-286);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-797);
+ref = caroncomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (300,-307);
+}
+);
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+pos = (0,-797);
+ref = caroncomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (300,0);
+},
+{
+name = bottom;
+pos = (300,-273);
+}
+);
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+pos = (0,-797);
+ref = caroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 812;
+}

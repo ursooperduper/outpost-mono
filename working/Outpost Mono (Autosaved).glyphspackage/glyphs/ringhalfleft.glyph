@@ -1,0 +1,76 @@
+{
+glyphname = ringhalfleft;
+lastChange = "2025-08-07 23:20:43 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+identifier = ID0x32c097560;
+strokeHeight = 50;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(346,766,l),
+(310,766,o),
+(280,736,o),
+(280,700,cs),
+(280,664,o),
+(310,634,o),
+(346,634,c)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+attr = {
+identifier = ID0x32c097560;
+strokeHeight = 80;
+strokeWidth = 80;
+};
+closed = 0;
+nodes = (
+(353,766,l),
+(317,766,o),
+(287,736,o),
+(287,700,cs),
+(287,664,o),
+(317,634,o),
+(353,634,c)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+attr = {
+identifier = ID0x32c097560;
+strokeHeight = 30;
+strokeWidth = 30;
+};
+closed = 0;
+nodes = (
+(341,766,l),
+(305,766,o),
+(275,736,o),
+(275,700,cs),
+(275,664,o),
+(305,634,o),
+(341,634,c)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 703;
+}

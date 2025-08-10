@@ -1,0 +1,48 @@
+{
+glyphname = lcaron.sc;
+lastChange = "2025-08-10 18:24:56 +0000";
+layers = (
+{
+layerId = "D8CC3DFA-F3EA-4C7D-84FB-05FCEA5C6558";
+shapes = (
+{
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (35,-109);
+ref = caroncomb.alt;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (35,-122);
+ref = caroncomb.alt;
+}
+);
+width = 600;
+},
+{
+layerId = "BDCBA76E-5474-4BD3-A1CC-9641C626CFE7";
+shapes = (
+{
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (35,-140);
+ref = caroncomb.alt;
+}
+);
+width = 600;
+}
+);
+}
