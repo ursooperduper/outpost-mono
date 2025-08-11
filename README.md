@@ -2,7 +2,7 @@
 
 A futuristic monospace font designed for the terminals of martian outposts, but ready for your terminal and editors today.
 
-Outpost Mono is currently in *beta* and available in one weight only - regular. At least two additional weights are planned in the term, bold and light.
+Outpost Mono is currently in *beta* and available in three weights: light, regular, and bold.
 
 ## Language Support
 
