@@ -1,9 +1,27 @@
 # Outpost Mono
 
-A futuristic monospace font designed for the terminals of martian outposts, but ready for your terminal and editors today.
+A futuristic [monospace font](https://en.wikipedia.org/wiki/Monospaced_font) designed for the terminals of martian outposts, but ready for earth's terminals and editors today.
 
-Outpost Mono is currently in *beta* and available in three weights: light, regular, and bold.
+Outpost Mono is available in three weights: light, regular, and bold.
 
-## Language Support
+| ![Preview of Outpost Mono Light](docs/om-light-ex.png) | ![Preview of Outpost Mono Regular](docs/om-regular-ex.png) | ![Preview of Outpost Mono Bold](docs/om-bold-ex.png) |
+| -------------------------- | -------------------------- | -------------------------- |
 
-Currently, Outpost Mono offers support for Latin, Cyrillic, and basic Greek languages. Additional language support may be added based on interest.
+Download the latest font files
+
+#### Language Support
+
+Outpost Mono offers support for Latin, Cyrillic, and basic Greek languages.
+
+#### License
+
+Outpost Mono is open source and available under a standard [SIL Open Font License](https://openfontlicense.org) 1.1. 
+
+Outpost Mono is a Reserved Font Name by Studio Sooper ([font vendor code: SOOP](https://learn.microsoft.com/en-us/typography/vendors/#s))
+
+You are free to use, copy, and make change to this font, but please read **[the license, OFL.txt](OFL.txt)** to understand appliable restrictions.
+
+#### Feedback? Errors? Suggestions? 
+
+If you have feedback, notice a bug, or want to suggest additional characters or other ideas, [please create an issue](https://github.com/ursooperduper/outpost-mono/issues).
+
