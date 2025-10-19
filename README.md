@@ -23,5 +23,5 @@ You are free to use, copy, and make change to this font, but please read **[the 
 
 #### Feedback? Errors? Suggestions? 
 
-If you have feedback, notice a bug, or want to suggest additional characters or other ideas, [please create an issue](https://github.com/ursooperduper/outpost-mono/issues).
+If you have feedback, notice a bug, or want to suggest additional characters or other ideas, [please create an Issue](https://github.com/ursooperduper/outpost-mono/issues).
 

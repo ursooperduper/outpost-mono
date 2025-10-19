@@ -1,0 +1,81 @@
+name: Font Release
+
+on:
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Create OTF fonts zip
+      run: |
+        cd fonts/otf
+        zip -r ../../outpost-mono-otf-${{ github.ref_name }}.zip *.otf
+        
+    - name: Create webfonts zip
+      run: |
+        cd fonts/webfonts
+        zip -r ../../outpost-mono-webfonts-${{ github.ref_name }}.zip *.woff *.woff2
+        
+    - name: Create complete fonts package
+      run: |
+        zip -r outpost-mono-all-fonts-${{ github.ref_name }}.zip fonts/ -x "*.DS_Store"
+        
+    - name: Create Release
+      uses: actions/create-release@v1
+      id: create_release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref_name }}
+        release_name: Outpost Mono ${{ github.ref_name }}
+        draft: true
+        prerelease: false
+        body: |
+          ## Outpost Mono Font Release ${{ github.ref_name }}
+          
+          This release includes:
+          - **OTF Fonts**: Desktop fonts in OpenType format
+          - **Web Fonts**: WOFF and WOFF2 formats for web use
+          - **Complete Package**: All font formats together
+          
+          ### Font Weights Available:
+          - Light
+          - Regular
+          - Bold
+          
+    - name: Upload OTF fonts
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./outpost-mono-otf-${{ github.ref_name }}.zip
+        asset_name: outpost-mono-otf-${{ github.ref_name }}.zip
+        asset_content_type: application/zip
+        
+    - name: Upload webfonts
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./outpost-mono-webfonts-${{ github.ref_name }}.zip
+        asset_name: outpost-mono-webfonts-${{ github.ref_name }}.zip
+        asset_content_type: application/zip
+        
+    - name: Upload complete package
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./outpost-mono-all-fonts-${{ github.ref_name }}.zip
+        asset_name: outpost-mono-all-fonts-${{ github.ref_name }}.zip
+        asset_content_type: application/zip
