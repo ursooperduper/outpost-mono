@@ -31,7 +31,7 @@ jobs:
       uses: actions/create-release@v1
       id: create_release
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.outpost-mono-release-token }}
       with:
         tag_name: ${{ github.ref_name }}
         release_name: Outpost Mono ${{ github.ref_name }}
@@ -53,7 +53,7 @@ jobs:
     - name: Upload OTF fonts
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.outpost-mono-release-token }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./outpost-mono-otf-${{ github.ref_name }}.zip
@@ -63,7 +63,7 @@ jobs:
     - name: Upload webfonts
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.outpost-mono-release-token }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./outpost-mono-webfonts-${{ github.ref_name }}.zip
@@ -73,7 +73,7 @@ jobs:
     - name: Upload complete package
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.outpost-mono-release-token }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./outpost-mono-all-fonts-${{ github.ref_name }}.zip
