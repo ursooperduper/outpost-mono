@@ -7,7 +7,7 @@ Outpost Mono is available in three weights: light, regular, and bold.
 | ![Preview of Outpost Mono Light](docs/om-light-ex.png) | ![Preview of Outpost Mono Regular](docs/om-regular-ex.png) | ![Preview of Outpost Mono Bold](docs/om-bold-ex.png) |
 | -------------------------- | -------------------------- | -------------------------- |
 
-Download the latest font files
+[Download the latest font files](https://github.com/ursooperduper/outpost-mono/releases/download/v1.0/outpost-mono-all-fonts-v1.0.zip)
 
 #### Language Support
 
